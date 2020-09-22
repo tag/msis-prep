@@ -7,29 +7,30 @@ All content here is self-paced. As with any work, the more effort you put in, th
 Entering students should be capable in the following topic areas.:
 
 * Development
-  - Control structures (conditionals & loops)
-  - Object-orientation, polymorphism
+    - Control structures (conditionals & loops)
+    - Object-orientation, polymorphism
 * Data modeling & SQL
-  - Normalization (thru 3NF/BCNF)
-  - Queries across tables
-  - DML & DDL
+    - Normalization (thru 3NF/BCNF)
+    - Queries across tables
+    - DML & DDL
 * Infrastructure
-  - The Internet model (or OSI model)
+    - The Internet model (or OSI model)
 * Process & communication in IT
-  - Agile software development
-  - UML
+    - Agile software development
+    - UML
     - Use case diagrams
     - Sequence diagrams
     - Process models
+* Prototyping (HTML/CSS)
 * Accounting & financial modeling
-  - Read a balance sheet, and explain the Accounting Equation (A = L + OE)
-  - Generate an NPV and IRR
+    - Read a balance sheet, and explain the Accounting Equation (A = L + OE)
+    - Generate an NPV and IRR
 * Statistics
-  - Mean, standard deviation
-  - Basic linear regression
+    - Mean, standard deviation
+    - Basic linear regression
 * Business presentations
-  - SCQ
-  - Minto framework
+    - SCQ
+    - Minto framework
 * Using software
-  - Visio, MS Project
-  - Excel, Powerpoint
+    - Visio, MS Project
+    - Excel, Powerpoint
