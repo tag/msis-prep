@@ -1,0 +1,35 @@
+# Preparing for the MSIS program
+
+This site provides resources to help you prepare for entrance into the Masters of Information Systems (MSIS) graduate program. The topics presented here should be a review of prerequisite content you completed during your undergraduate degree. We have compiled these resources to help you shore up your understanding of these topics.
+
+All content here is self-paced. As with any work, the more effort you put in, the greater your rewards will be. Our program has a high standard of excellence. We will provide you with the tools you need to succeed, but how well you prepare is up to you.
+
+Entering students should be capable in the following topic areas.:
+
+* Development
+  - Control structures (conditionals & loops)
+  - Object-orientation, polymorphism
+* Data modeling & SQL
+  - Normalization (thru 3NF/BCNF)
+  - Queries across tables
+  - DML & DDL
+* Infrastructure
+  - The Internet model (or OSI model)
+* Process & communication in IT
+  - Agile software development
+  - UML
+    - Use case diagrams
+    - Sequence diagrams
+    - Process models
+* Accounting & financial modeling
+  - Read a balance sheet, and explain the Accounting Equation (A = L + OE)
+  - Generate an NPV and IRR
+* Statistics
+  - Mean, standard deviation
+  - Basic linear regression
+* Business presentations
+  - SCQ
+  - Minto framework
+* Using software
+  - Visio, MS Project
+  - Excel, Powerpoint

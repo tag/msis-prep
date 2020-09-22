@@ -1,0 +1,30 @@
+site_name: MSIS Prep
+site_url: http://msis-prep.alt-tag.com/
+
+nav:
+    - Home: index.md
+    #- Sample Code: sample.md
+    # - Help: help.md
+
+# theme:
+#   name: null
+#   custom_dir: 'cinder'
+#
+# extra_css:
+#   - "css/styles.css"
+#
+# highlightjs: true
+# hljs_languages:
+#     - html
+#     - css
+#     - python
+#     - django
+
+markdown_extensions:
+    - smarty
+    - meta
+    - md_in_html
+    - abbr
+    #- pymdownx.tasklist
+    # - pymdownx.critic
+
