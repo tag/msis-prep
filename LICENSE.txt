@@ -1,0 +1,10 @@
+Original material in this site is licensed under the Creative Commons BY-NC-SA 4.0 license.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+In general, that means this work may be used with attribution for non-commercial purposes, and any derivatives must carry a similar license. 
+The actual license text (linked above) is controlling, and not overridden by any brief summary here. We'd appreciate a note if you create any derivative content.
+
+EMBEDDED LICENSES
+
+The "Cinder" theme for mkdocs is used under an MIT License. It uses other openly licensed content; see its license for more details.
+https://github.com/chrissimpkins/cinder/blob/master/LICENSE.md
