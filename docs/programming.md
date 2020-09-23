@@ -39,7 +39,7 @@ There are many great resources for learning basic programming. Learning on your 
 
 Most of the resources listed here are for Python, but you should be able to find similar resources for any programming language. When looking for Python resources, make sure it covers Python 3 and not Python 2.
 
-There are many ways to learn Python, from online tutorials, online learning companies like [Data Camp][datacamp] and [Code Academy][codeacademy], and even [EdX courses](edx).
+There are many ways to learn Python, from online tutorials, online learning companies like [Data Camp][datacamp] and [Code Academy][codeacademy], and even [EdX courses][edx].
 
 [datacamp]:https://www.datacamp.com/courses/intro-to-python-for-data-science
 [codeacademy]:https://www.codecademy.com/catalog/language/python
