@@ -75,11 +75,11 @@ Once you have some experience with Python (or whatever programming language you 
 [oop-dc]:https://www.datacamp.com/community/tutorials/python-oop-tutorial
 [oop-klein]:https://www.python-course.eu/python3_object_oriented_programming.php
 
-To get an even better understanding of object-oriented application design, we recommend [_Head First Object-Oriented Analysis and Design_][hfooad], by Brett D. McLaughlin, Gary Pollice, and Dave West. It's written in an unusual (but effective!) style, and the book is a much easier read than you might expect for it's size. The only downside (for Python learners) is that the book is written all in Java. However, the concepts translate to any OOP language, and once you understand Python you'll be able to grok the code in this book.
+To get an even better understanding of object-oriented application design, we recommend [_Head First Object-Oriented Analysis and Design_][hfooad], by Brett D. McLaughlin, Gary Pollice, and Dave West. It's written in an unusual (but effective!) style, and the book is a much easier read than you might expect for it's size. The only downside for Python learners is that the book is written all in Java. However, the concepts translate to any OOP language, and once you understand Python you'll be able to grok the code in this book.
 
 [hfooad]:https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design-dp-0596008678/dp/0596008678/
 
-## Practice apps
+## Practice
 Here is a small list of programs or scripts you could write. These can be accomplished as simple command-line applications, or built in a slightly more complex way as web applications. You are encouraged to be comfortable with both methods.
 
 * **Mortgage interest calculator.** Ask the user for an interest rate, loan term, and amount financed. Print out both the interest paid over the life of the loan and total amount the lessee will pay.
