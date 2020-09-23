@@ -54,3 +54,6 @@ At the end of any page with footnotes,
     ///Footnotes Go Here///
 
 [^fn]: Footnote footer
+
+# Tables
+Simple tables can use the built-in Markdown syntax. For anything complicated, it's probably best to move directly to HTML.

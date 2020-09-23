@@ -6,7 +6,7 @@ All content here is self-paced. As with any work, the more effort you put in, th
 
 Entering students should be capable in the following topic areas.:
 
-* Development
+* [Computer programming](programming/)
     - Control structures (conditionals & loops)
     - Object-orientation, polymorphism
 * Data modeling & SQL
@@ -31,6 +31,5 @@ Entering students should be capable in the following topic areas.:
 * Business presentations
     - SCQ
     - Minto framework
-* Using software
-    - Visio, MS Project
-    - Excel, Powerpoint
+
+You should also be able to use common software to support the concepts listed above. In addition to strong knowledge of Microsoft Office (especially Excel and Powerpoint), you should be able to use Visio and Microsoft Project.
