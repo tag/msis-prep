@@ -17,6 +17,33 @@ Building and testing the site requires Python 3 and [mkdocs][mkdocs]. You may al
 <!-- TODO: complete installation guide -->
 _This portion of the guide—installation for authors—needs to be fleshed out further._
 
+## Install the Material theme
+We use the ["Material" theme][m-theme] as a basis for site. This may change in the future. The theme docs pages have some great info on using mkdocs.
+
+[m-theme]:https://squidfunk.github.io/mkdocs-material/getting-started/
+
+```bash
+pip3 install mkdocs-material
+```
+
+## Installing Python Markdown markdown extensions
+
+See the documentation for more information on the installed Markdown extensions:
+* [Python Markdown extensions](https://python-markdown.github.io/extensions/)
+* [PymDown extensions](https://facelessuser.github.io/pymdown-extensions/)
+
+```bash
+pip3 install pymdown-extensions
+```
+
+Install the extension ["Truly Sane Lists"](https://github.com/radude/mdx_truly_sane_lists)
+```bash
+pip3 install mdx_truly_sane_lists
+pip3 install mdx_breakless_lists
+```
+
+If we need additional extensions ([full list](https://github.com/Python-Markdown/markdown/wiki/Third-Party-Extensions)), please discuss with the development team.
+
 ## Test
 To locally build and test the site, run the following from the command line:
 

@@ -1,30 +1,37 @@
 site_name: MSIS Prep
 site_url: http://msis-prep.alt-tag.com/
-
+site_author: Tom Gregory
+site_description: "Preparatory material for prospective Masters of Information Systems students"
+repo_url: "https://github.com/tag/msis-prep"
+copyright: "© 2020, Tom Gregory<br>Shared under a [Creative Commons BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+theme:
+  name: material
+  features:
+      - instant
+      - tabs
 nav:
     - Home: index.md
-    #- Sample Code: sample.md
-    # - Help: help.md
+    - Modules:
+        - 'Programming' : 'programming.md'
 
-# theme:
-#   name: null
-#   custom_dir: 'cinder'
-#
-# extra_css:
-#   - "css/styles.css"
-#
-# highlightjs: true
-# hljs_languages:
-#     - html
-#     - css
-#     - python
-#     - django
+extra_css:
+  - "css/styles.css"
 
 markdown_extensions:
     - smarty
     - meta
     - md_in_html
     - abbr
+    - toc:
+       permalink: true
+    - admonition
+    - footnotes
+    - smarty
+    - fenced_code
+    - pymdownx.mark
+    # - mdx_truly_sane_lists
+    - mdx_breakless_lists
     #- pymdownx.tasklist
     # - pymdownx.critic
 
+    # pygments # Code highlighing
