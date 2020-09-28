@@ -54,6 +54,8 @@ To learn more about ERP's historical meaning, read [this article on Genius ERP](
 
 <br>
 
+### Data Type
+
 There are essentially four types of data that a company use and store. They are: 
 
 - **Configuration/Organizational Data**
@@ -63,11 +65,14 @@ There are essentially four types of data that a company use and store. They are:
 
 The first three types of data are the most common data one would use and identify. The fourth type, situational data, are data specific to tasks, and they are sometimes mixed with master data and transaction data.
 
-Configuration/Organizational data is very easy to understand, 
+<br>Configuration/Organizational data is very easy to understand. They basically describe the structure of an organization. 
 
-Some might find it difficult to tell between master data and transaction data. Here is some great resources to help you understand their differences!
+Read this article if you would like to see some examples: [*Prepare Organizational Data*](https://docs.microsoft.com/en-us/workplace-analytics/setup/prepare-organizational-data#:~:text=Examples%20of%20organizational%20data%20include,of%20direct%20reports%2C%20and%20manager.)
 
-- A great video to start with: https://www.youtube.com/watch?v=Iv9P5D6yj30
+<br>Some might find it difficult to tell between master data and transaction data. Here is some great resources to help you understand their differences!
+
+- Watch this great video first.
+[![Master and Transaction](pic\data type.png)](https://www.youtube.com/watch?v=Iv9P5D6yj30 "Master and Transaction")
 - The author of the above video post this [article](https://www.linkedin.com/pulse/master-data-vs-transaction-jared-hillam/) on his LinkedIn explaining more ways to decipher and mange Master Date vs Transaction Data.
 
 After you have learned about the data types, [this](https://fadyums.files.wordpress.com/2013/08/revision-chapter-2.pdf) is a very useful file where you could find more practical examples of these different types of data. It has some review questions (short answers, multiple choices, T/F) to test your understanding. Do it and test how well you know about **DATA**!
@@ -98,9 +103,9 @@ During the CORE, you would participate in different business activities of these
 
 Read about the Procurement Cycle: 
 
-https://jobs.telegraph.co.uk/article/procurement-cycle/ 
+[*Procurement Cycle (The Telegraph)*](https://jobs.telegraph.co.uk/article/procurement-cycle/ )
 
-https://kissflow.com/procurement-process/
+[*Procurement Management Process - The 2020 Guide (Kissflow)*](https://kissflow.com/procurement-process/)
 
 ![Procurement Flow](https://kissflow.com/wp-content/uploads/2020/09/procurement-process-flow.png)
 
@@ -124,9 +129,9 @@ Read [this article](https://trackmaven.com/marketing-dictionary/sales-cycle/#:~:
 
 Below are two more detailed websites explaining the stages and documents that are involved. Pay attention again to each step as they would generate documents that are essential for firms:
 
-https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/
+*[Step by Step: What you Should Know About the Order-to-Cash Process (Salesforce)](https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/)* 
 
-https://www.purchasecontrol.com/blog/order-to-cash-process/
+[*A Walk Through The Order To Cash (O2C) Cycle*](https://www.purchasecontrol.com/blog/order-to-cash-process/)
 
 ![Sales cycle](https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/hub/service/8-steps-in-the-order-to-cash-process-002.png)<br>The documents that are generated from the sales cycle are:
 
@@ -140,3 +145,8 @@ https://www.purchasecontrol.com/blog/order-to-cash-process/
 *Note: You are encouraged to look online for examples of the above documents if you don't know what they might look like.*
 
 ------
+
+
+
+
+
