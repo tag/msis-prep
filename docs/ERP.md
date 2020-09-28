@@ -6,27 +6,27 @@ date: 2020-09-26
 
 # Enterprise Resource Planning (ERP)
 
-
+<br>
 
 **Before entering MSIS, you are expected to know the usage of ERP in the modern business world. It would be optimal if you had some experiences of using an ERP software during your undergraduate study or professional work.**
 
-
+<br>
 
 ## During the MSIS program
 
 During your time in the MSIS program you would have the access to and be practicing on a handful servers of SAP (a very common-used ERP software in modern enterprises). Throughout the course, you would play the role of a business manager and oversee the day-to-day activities of a company using the SAP system.
 
-
+<br>
 
 ## SAP 
 
 SAP is one of the leading software in the ERP industry. You will be using SAP to practice those ERP concepts you learn in the ERP module. Right now you may not have access to use it, but feel free to browse over the [SAP's website](https://www.sap.com/index.html). 
 
-
+<br>
 
 ## Major Concepts
 
-
+<br>
 
 ### What Is ERP? Why Do We Use It? 
 
@@ -34,9 +34,9 @@ ERP, as known as the Enterprise Resource Planning, refers to a type of software 
 
 Click [<u>here</u>](https://www.investopedia.com/terms/e/erp.asp ) to review a Investopedia article on more detailed definition of ERP.
 
-Oracle(ORCL) is one of the industry leaders in ERP software.  Click [<u>here</u>](https://www.oracle.com/applications/erp/what-is-erp.html) to read more about how Oracle defines the fundamental of ERP. and the business value it strives to bring via its cloud ERP system.
+Oracle(ORCL) is one of the industry leaders in ERP software.  Click [<u>here</u>](https://www.oracle.com/applications/erp/what-is-erp.html) to read more about how Oracle defines the fundamental of ERP. and the business value it strives to bring via its cloud ERP system. 
 
-
+<br>
 
 ### The Historical Purpose of ERPs
 
@@ -46,9 +46,13 @@ The PC revolution has granted a lot of efficiency for modern businesses, but als
 
 To learn more about ERP's historical meaning, read [this article on Genius ERP](https://www.geniuserp.com/blog/a-brief-history-of-erps#:~:text=The%20term%20ERP%20was%20first,track%2C%20and%20control%20their%20inventory.)
 
+<br>
 
+<br>
 
-### The  ERP Data Type
+------
+
+<br>
 
 There are essentially four types of data that a company use and store. They are: 
 
@@ -68,9 +72,15 @@ Some might find it difficult to tell between master data and transaction data. H
 
 After you have learned about the data types, [this](https://fadyums.files.wordpress.com/2013/08/revision-chapter-2.pdf) is a very useful file where you could find more practical examples of these different types of data. It has some review questions (short answers, multiple choices, T/F) to test your understanding. Do it and test how well you know about **DATA**!
 
+<br>
 
+------
+
+<br>
 
 ### The Business Activities Cycles
+
+> Tom Gregory: "The business cycles begin with capturing data/information about a transaction. They end with information output, such as a financial statement or payment (similar to a system). Similar transactions are grouped together to form a business cycle. "
 
 There are 5 major Business Cycles:
 
@@ -80,17 +90,53 @@ There are 5 major Business Cycles:
 4. Human Resources / Payroll cycle
 5. Accounting Cycle
 
-> Tom Gregory: "The business cycles begin with capturing data/information about a transaction. They end with information output, such as a financial statement or payment (similar to a system). Similar transactions are grouped together to form a business cycle. "
+During the CORE, you would participate in different business activities of these cycles using SAP. Here, I would focus on introducing the **Procurement Cycle** and the **Revenue Cycle**. There are a lot of good resources online that you could find about other three cycles. You are very welcome to dig into them as knowing them would help you better understand business processes in organizations.
 
-During CORE, you would participate in different business activities of these cycles using SAP. Here, I would focus on introducing the **Procurement Cycle** and the **Revenue Cycle**. There are a lot of good resources online that you could find about other three cycles. You are very welcome to dig into them as knowing them would help you better understand business processes in organizations.
+<br>
 
-#### Procurement Cycle
+- #### Procurement Cycle (Procure-to-Pay)
 
+Read about the Procurement Cycle: 
 
+https://jobs.telegraph.co.uk/article/procurement-cycle/ 
 
+https://kissflow.com/procurement-process/
 
+![Procurement Flow](https://kissflow.com/wp-content/uploads/2020/09/procurement-process-flow.png)
 
+<br>From [the Telegraph article](https://jobs.telegraph.co.uk/article/procurement-cycle/ ) above, you could find that there are many important documents that are involved in the procurement cycle. You would find it helpful in the future if you could gain a basic understanding of them right now. They are:
 
+1. Purchase Order: prepared by the **buyer** when ordering goods or services
 
-http://www3.cis.gsu.edu/dtruex/courses/CIS8670/Lectures-pdf/2015/Intro_ERP_Using_GBI_SAP_slides.pdf
+2. Goods Receipt: prepared by the **buyer** when taking physical possession of goods
 
+3. Invoice / Bill: prepared by the **seller** and sent to the **buyer**
+
+4. Check (Payment): Prepared by the **buyer** and given to the **seller**, usually accompanied by a remittance advice to seller knows where to apply the payment
+
+   <br>
+
+- #### Sales Cycle (Order-to-Cash)
+
+Read [this article](https://trackmaven.com/marketing-dictionary/sales-cycle/#:~:text=The%20sales%20cycle%20is%20the,on%20how%20they%20define%20it.) to learn about Sales Cycle:
+
+> The sales cycle is the process that companies undergo when selling a product to a customer. It encompasses all activities associated with closing sale. Many companies have different steps and activities in their sales cycle, depending on how they define it.
+
+Below are two more detailed websites explaining the stages and documents that are involved. Pay attention again to each step as they would generate documents that are essential for firms:
+
+https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/
+
+https://www.purchasecontrol.com/blog/order-to-cash-process/
+
+![Sales cycle](https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/hub/service/8-steps-in-the-order-to-cash-process-002.png)<br>The documents that are generated from the sales cycle are:
+
+1. Sales Order: typically a reflection of (and response to) the Purchase Order
+2. Packing Slip: accompanies the goods and usually omits $ dollar amount as an internal control measure *(pause a second to think here: why does packing slip omit the dollar amount? Do some research!)*
+3. Invoice (Bill): Prepared by the **Selling company**
+4. Payment Receipt: produced by the **Seller** and/or may be reported on a monthly statement of account.
+
+<br>
+
+*Note: You are encouraged to look online for examples of the above documents if you don't know what they might look like.*
+
+------
