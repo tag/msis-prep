@@ -8,11 +8,14 @@ theme:
   name: material
   features:
       - instant
+
+      
       - tabs
 nav:
     - Home: index.md
     - Modules:
         - 'Programming' : 'programming.md'
+        - 'ERP' : 'ERP.md'
 
 extra_css:
   - "css/styles.css"
