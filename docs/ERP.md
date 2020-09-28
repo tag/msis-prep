@@ -6,93 +6,91 @@ date: 2020-09-26
 
 # Enterprise Resource Planning (ERP)
 
-## What is ERP?
 
-ERP, as known as the Enterprise Resource Planning, refers to a type of software that organizations internally implement to monitor, manage and  review day-to-day business activities.
-
-Click to review a Investopedia article on more detailed definitaion on [ERP]:https://www.investopedia.com/terms/e/erp.asp
-
-Oracle(ORCL) is one of the industry leaders in ERP software.  Click [Oracle]:https://www.oracle.com/applications/erp/what-is-erp.html to read more about how Oracle defines the fundamental of ERP. and the business value it strives to bring via its cloud ERP system.
 
 **Before entering MSIS, you are expected to know the usage of ERP in the modern business world. It would be optimal if you had some experiences of using an ERP software during your undergraduate study or professional work.**
 
+
+
 ## During the MSIS program
-During your time in the MSIS program you would have the access to and be practicing on a handful servers of SAP. Throughout the course, you would play the role of a business manager and oversee the day-to-day activities of a company using the SAP system.
 
-*[RPA]: Robotic Process Automation
+During your time in the MSIS program you would have the access to and be practicing on a handful servers of SAP (a very common-used ERP software in modern enterprises). Throughout the course, you would play the role of a business manager and oversee the day-to-day activities of a company using the SAP system.
 
-You are encouraged to practice with Python, as that is what a majority of our incoming students studied. However, many of these exercises can be completed in any programming languages.
 
-## Major concepts
 
-**You should be able to write simple programs** in at least one programming language. (It doesn't matter which one.) Using the code of the program you wrote, you should also be able to do the following:
+## SAP 
 
-1. Explain variable _**types**_ in the programming language you learned.
-2. Use _**control structures**_ like `if` statements and loops  to control a program's flow
-3. Build one or more functions or object methods that accept parameters and have return types.
-4. Explain _**encapsulation**_, and why code is often organized into objects and classes.
-    1. Explain the difference between a _**class**_ and an object _**instance**_.
-    2. Explain _**inheritance**_ and _**polymorphism**_, and demonstrate these concepts with a class diagram.
-    3. Explain the difference between static and instance methods of an object.
-5. Explain the importance of _**serializing**_ data.
+SAP is one of the leading software in the ERP industry. You will be using SAP to practice those ERP concepts you learn in the ERP module. Right now you may not have access to use it, but feel free to browse over the [SAP's website](https://www.sap.com/index.html). 
 
-## Resources
 
-There are many great resources for learning basic programming. Learning on your own can be a challenge, but the best advice is to _write software_. Even professional programmers do this when learning a new language. [^sevenlang]
 
-[^sevenlang]: For example, see the book _Seven Languages in Seven Weeks_, by Bruce Tate, Pragmatic Bookshelf (2010), ISBN-13: 978-1934356593 [[Amazon]](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/)
+## Major Concepts
 
-Most of the resources listed here are for Python, but you should be able to find similar resources for any programming language. When looking for Python resources, make sure it covers Python 3 and not Python 2.
 
-There are many ways to learn Python, from online tutorials, online learning companies like [Data Camp][datacamp] and [Code Academy][codeacademy], and even [EdX courses](edx).
 
-[datacamp]:https://www.datacamp.com/courses/intro-to-python-for-data-science
-[codeacademy]:https://www.codecademy.com/catalog/language/python
-[edx]:https://www.edx.org/learn/python
+### What Is ERP? Why Do We Use It? 
 
-The site [learnpython.org](https://www.learnpython.org) has some great interactive lessons. [Google has a free Python course][google-python] too. If you prefer videos, Mosh Hamedani has a very popular ["Python for Beginners" video on YouTube][mosh-yt]. On the down side, these courses don't have good coverage of object-oriented concepts like objects, classes, and instances.
+ERP, as known as the Enterprise Resource Planning, refers to a type of software that organizations internally implement to monitor, manage and review day-to-day business activities.
 
-[Python.org][python-learn] and [WikiBooks][wikibooks] both have great references for anyone learning Python, but they focus on specific topics rather than on building projects. As you practice Python, the ["LearnPython" Reddit][reddit-learn] can help with specific concepts.
+Click [<u>here</u>](https://www.investopedia.com/terms/e/erp.asp ) to review a Investopedia article on more detailed definition of ERP.
 
-[mosh-yt]:https://www.youtube.com/watch?v=kqtD5dpn9C8
-[google-python]:https://developers.google.com/edu/python/
-[python-learn]:https://docs.python.org/3/tutorial/index.html
-[wikibooks]:https://en.wikibooks.org/wiki/Python_Programming
-[reddit-learn]:https://www.reddit.com/r/learnpython/wiki/faq
+Oracle(ORCL) is one of the industry leaders in ERP software.  Click [<u>here</u>](https://www.oracle.com/applications/erp/what-is-erp.html) to read more about how Oracle defines the fundamental of ERP. and the business value it strives to bring via its cloud ERP system.
 
-Tested and highly-reviewed books for learning Python:
 
-  * _Python Crash Course, 2nd Ed._, Eric Matthes, No Starch Press (2019), ISBN-13: 978-1593279288 [[Amazon]](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/)
-  * _Learn Python in One Day and Learn It Well (2nd Ed)_, Jamie Chan, CreateSpace Independent Publishing Platform; 2nd Edition (2017), ISBN-13: 978-1546488330 [[Amazon]](https://www.amazon.com/Learn-Python-One-Well-Hands/dp/1546488332/)
-  * _Practical Programming: An Introduction to Computer Science Using Python 3.6 (3rd ed.)_, Paul Gries, Jennifer Campbell, Jason Montojo, Pragmatic Bookshelf (2017), ISBN-13: 978-1680502688 [[Amazon]](https://www.amazon.com/Practical-Programming-Introduction-Computer-Science-dp-1680502689/dp/1680502689/)
-  * _Learn Programming in Python with Cody Jackson_, Cody Jackson, Packt Publishing (2018), ISBN-13: 978-1789531947 [[Amazon]](https://www.amazon.com/Learn-Programming-Python-Cody-Jackson/dp/1789531942/)
 
-## Object-oriented programming
+### The Historical Purpose of ERPs
 
-Once you have some experience with Python (or whatever programming language you chose), it's important to make sure you also understand object-oriented programming concepts. The following tutorials cover OOP concepts in Python:
+The PC revolution has granted a lot of efficiency for modern businesses, but also created gaps, or silos, in between different functional departments. Back in time, companies were having trouble sharing their data. As a response, ERP rose to a powerful integration solution that it solved this problem by allowing the users to better plan and integrate the resources across all departments within the enterprise. If you are interested in the origin of ERP:
 
-* ["Object-Oriented Programming (OOP) in Python 3"][oop-amos], by David Amos
-* Data Camp's ["Python Object-Oriented Programming (OOP): Tutorial"][oop-dc]
-* [Bernd Klein][oop-klein] has a good tutorial on OOP in Python
+> The term ERP was first used in the 1990s by the Gartner Group, but enterprise resource planning systems actually have their roots deep in the manufacturing industry, and can trace their history back to the 1960s.
 
-*[OOP]: Object-Oriented Programming
-[oop-amos]:https://realpython.com/python3-object-oriented-programming/
-[oop-dc]:https://www.datacamp.com/community/tutorials/python-oop-tutorial
-[oop-klein]:https://www.python-course.eu/python3_object_oriented_programming.php
+To learn more about ERP's historical meaning, read [this article on Genius ERP](https://www.geniuserp.com/blog/a-brief-history-of-erps#:~:text=The%20term%20ERP%20was%20first,track%2C%20and%20control%20their%20inventory.)
 
-To get an even better understanding of object-oriented application design, we recommend [_Head First Object-Oriented Analysis and Design_][hfooad], by Brett D. McLaughlin, Gary Pollice, and Dave West. It's written in an unusual (but effective!) style, and the book is a much easier read than you might expect for it's size. The only downside for Python learners is that the book is written all in Java. However, the concepts translate to any OOP language, and once you understand Python you'll be able to grok the code in this book.
 
-[hfooad]:https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design-dp-0596008678/dp/0596008678/
 
-## Practice
-Here is a small list of programs or scripts you could write. These can be accomplished as simple command-line applications, or built in a slightly more complex way as web applications. You are encouraged to be comfortable with both methods.
+### The  ERP Data Type
 
-* **Mortgage interest calculator.** Ask the user for an interest rate, loan term, and amount financed. Print out both the interest paid over the life of the loan and total amount the lessee will pay.
-* **Unit conversion.** Ask the user for a temperature in Fahrenheit. Print output in Celsius. For a bigger challenge, also ask the user for the input and output units. _This exercise can be repeated using liquid measures (quarts, gallons, liters), weight measures (pounds, kilograms, stone), distance measures (feet, yards, miles, meters), etc._
-* **Calculator.** Allow the user to enter a mathematical equation. Output the answer. For greater difficulty, correctly support order of operations (2 + 3 * 4 = 14).
-* **Read a file** Given a file with a list of words as input, filter the file to remove duplicates, and return the list sorted alphabetically.
-* **TODO list (using a database)** Write a TODO list app. Store future todos and completed items in a database. (Good databases to use for this project include SQLite and MySQL.)
-* **Consume a web service.** Write a program that uses a free web service. There are several lists of free web service APIs available online ([like this one](https://github.com/public-apis/public-apis)). Here are some specific examples:
-    - Calculate the distance between two ZIP codes [https://www.zipcodeapi.com/API](https://www.zipcodeapi.com/API) (Requires free signup for API key)
-    - Fetch a random person, and print their name and email address [https://randomuser.me](https://randomuser.me)
-    - Return movies details based on a title search. [https://www.omdbapi.com](https://www.omdbapi.com) (Requires free signup for API key)
+There are essentially four types of data that a company use and store. They are: 
+
+- **Configuration/Organizational Data**
+- **Master Data**
+- **Transaction Data**
+- **Situational Data**
+
+The first three types of data are the most common data one would use and identify. The fourth type, situational data, are data specific to tasks, and they are sometimes mixed with master data and transaction data.
+
+Configuration/Organizational data is very easy to understand, 
+
+Some might find it difficult to tell between master data and transaction data. Here is some great resources to help you understand their differences!
+
+- A great video to start with: https://www.youtube.com/watch?v=Iv9P5D6yj30
+- The author of the above video post this [article](https://www.linkedin.com/pulse/master-data-vs-transaction-jared-hillam/) on his LinkedIn explaining more ways to decipher and mange Master Date vs Transaction Data.
+
+After you have learned about the data types, [this](https://fadyums.files.wordpress.com/2013/08/revision-chapter-2.pdf) is a very useful file where you could find more practical examples of these different types of data. It has some review questions (short answers, multiple choices, T/F) to test your understanding. Do it and test how well you know about **DATA**!
+
+
+
+### The Business Activities Cycles
+
+There are 5 major Business Cycles:
+
+1. Procurement cycle (Expense, Purchasing, Procure to Pay)
+2. Revenue cycle (Sales, Order to Cash)
+3. Production cycle (Manufacturing or Operations)
+4. Human Resources / Payroll cycle
+5. Accounting Cycle
+
+> Tom Gregory: "The business cycles begin with capturing data/information about a transaction. They end with information output, such as a financial statement or payment (similar to a system). Similar transactions are grouped together to form a business cycle. "
+
+During CORE, you would participate in different business activities of these cycles using SAP. Here, I would focus on introducing the **Procurement Cycle** and the **Revenue Cycle**. There are a lot of good resources online that you could find about other three cycles. You are very welcome to dig into them as knowing them would help you better understand business processes in organizations.
+
+#### Procurement Cycle
+
+
+
+
+
+
+
+http://www3.cis.gsu.edu/dtruex/courses/CIS8670/Lectures-pdf/2015/Intro_ERP_Using_GBI_SAP_slides.pdf
+
