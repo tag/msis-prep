@@ -2,7 +2,7 @@
 authors:
     - Adnan Haideri
     - Tom Gregory
-date: 2020-09-23
+date: 2020-09-29
 ---
 
 # Statistics
@@ -15,7 +15,7 @@ A basic understanding of statistics will be helpful in a number of courses in th
 !!! note "Nice to have"
     All of these examples can be completed using Excel. Being able to use statistical tools like SPSS, MatLab, or R is a bonus.
 
-    Once you have completed the prerequisites for [Computer Programming](/programming/), you are encouraged to apply these concepts in Python .
+    Once you have completed the prerequisites for [Computer Programming](/programming/), you are encouraged to apply these concepts in Python.
 
 ## Major concepts
 
@@ -43,6 +43,7 @@ Before entering the MSIS program, you should be able to do the following:
 5. This book provides a remarkably fun way to learn the basics of statistics:
 
     _Head First Statistics: A Brain-Friendly Guide, 1st Ed._, Dawn Griffiths, O'Reilly Media (2018), ISBN-13: 978-0596527587 [[Amazon]](https://www.amazon.com/Head-First-Statistics-Brain-Friendly-Guide-ebook-dp-B00B797ELQ/dp/B00B797ELQ/ref=mt_other?_encoding=UTF8&me=&qid=)
+
 [data statistics]:https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics
 [standard deviation]:https://www.youtube.com/watch?v=MRqtXL2WX2M
 [sd calculation]:https://www.youtube.com/watch?v=WVx3MYd-Q9w
