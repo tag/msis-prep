@@ -12,7 +12,8 @@ theme:
 nav:
     - Home: index.md
     - Modules:
-        - 'Programming' : 'programming.md'
+      - 'Programming' : 'programming.md'
+      - 'Data Modeling and SQL' : 'data.md'
 
 extra_css:
   - "css/styles.css"

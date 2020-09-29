@@ -18,7 +18,7 @@ Entering students should also have some experience in the following topic areas:
   * [Computer programming](programming/)
       - Control structures (conditionals & loops)
       - Object-orientation, polymorphism
-  * Data modeling & SQL
+  * [Data modeling & SQL](data/)
       - Normalization (thru 3NF/BCNF)
       - Queries across tables
       - DML & DDL

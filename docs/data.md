@@ -1,10 +1,31 @@
+---
+authors:
+  - Tom Gregory
+date: 2020-09-25
+---
+
 # Data Modeling & SQL
 
+You should be able to be familiar with core concepts of relational databases, including data modeling, normalization, and SQL.
 
-## Modeling
-You should be able to normalize a data model using at least First thru Third Normal Forms, and BCNF.
+## During the MSIS Program
+
+As a student in the MSIS program you will design dat-driven applications, and pull data from databases for statistical modeling. You will learn about application architectures, and the trade-offs between structured and unstructured data, and between relational and non-relational data stores. You will gain a greater familiarity with databases, and use databases from several vendors.
+
+## Data Modeling
+
+### Major Concepts
+
+Given a simple case, you should be able to build a correct relational data model, and express it as an ER or logical diagram.
+
+1. Explain the difference between _**data**_, information, and knowledge.
+2. Exaplain the difference between _**structured**_ and _**unstructured**_ data.
+3. _**Normalize**_ a data model using at least First Normal Form thru Third Normal Form, and BCNF.
+4. Model your data using ERD and logical diagrams
 
 *[BCNF]: Boyce-Codd Normal Form
+*[ERD]: Entity–Relationship Diagram
+*[RDMS]: Relational Database Management System (aka DBMS, Database Management System)
 
 ### Learn
 
@@ -15,15 +36,29 @@ You should be able to normalize a data model using at least First thru Third Nor
 
 
 ## SQL
-You should be familiar with how to use SQL to insert, update, and retrieve data from a database. You should also be able to create tables.
+You should be familiar with how to use SQL to insert, update, and retrieve data from a database. You should also be able to create and drop tables.
+
+<!-- Include these ideas somewhere -->
+*[DML]:Data Manipulation Language
+*[DDL]:Data Definition Language
+
+It would be to your advantage to have experience installing and using a RDMS such as MySQL, MS SQL Server, or SQLite (pick one). This will also allow you to do the practice problems below.
 
 ### Learn
 
-* [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
+Probably the easiest (free) way to learn SQL is via the ["Intro to SQL" unit][khan-sql] in Khan Academy's "Computer Programming" course.
 
-## Practice
-Rick Watson has a great practice data set you can use.
+[khan-sql]:(https://www.khanacademy.org/computing/computer-programming/sql)
 
-It's best if you get the practice installing, setting up, and using your own database, but free resources exist as well. (e.g, [DB Fiddle](https://www.db-fiddle.com) and [SQL Playground](https://sql-playground.wizardzines.com))
+Two good—but very different—books on SQL include:
 
-If you wish to install a database on your local machine (yes!), we recommend [MySQL](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/) or [SQLite](https://www.sqlite.org/download.html) (get the pre-compiled bundles with command line tools).
+* _Sams Teach Yourself SQL in 10 Minutes a Day (5th Edition)_, Ben Forta, Sams Publishing (2019), ISBN-13: 978-0135182796, [[Amazon]](https://www.amazon.com/gp/product/0135182794/) Highly recommended. This book covers SQL as understood by MySQL, SQLite, MS SQL Server, and several other RDMS.
+* _Head First SQL: Your Brain on SQL_, Lynn Beighley, O'Reilly Media (2007), ISBN-13: 978-0596526849 [[Amazon]](https://www.amazon.com/Head-First-SQL-Brain-Learners/dp/0596526849/). The "Head First" series of books are quirky, fun, and easy to read. Readers either love or hate the style (most love it). This book focuses primarily on SQL as used by the MySQL database engine.
+
+#### Installing software
+
+It's best if you get the practice installing, setting up, and using your own database, but free resources exist as well. [DB Fiddle](https://www.db-fiddle.com) and [SQL Playground](https://sql-playground.wizardzines.com) both provide ways to practice SQL via your web browser, without installing any software.
+
+If you wish to install a database on your local machine (yes!), we recommend [MySQL](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/) or [SQLite](https://www.sqlite.org/download.html) (use the pre-compiled bundles with command line tools).
+
+### Practice
