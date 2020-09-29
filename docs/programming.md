@@ -4,7 +4,7 @@ authors:
 date: 2020-09-23
 ---
 
-# Programming
+# Computer Programming
 
 You should already be familiar with at least one object-oriented programming language. [Java][java] and [Python][python] are useful languages for this purpose.
 
