@@ -1,7 +1,7 @@
 ---
 authors:
   - Tom Gregory
-date: 2020-09-25
+date: 2020-09-28
 ---
 
 # Data Modeling & SQL
@@ -29,11 +29,15 @@ Given a simple case, you should be able to build a correct relational data model
 
 ### Learn
 
-* https://beginnersbook.com/2015/05/normalization-in-dbms/
-* https://hackr.io/blog/dbms-normalization
+These two tutorials cover similar content, and introduce the normal forms:
 
+* ["Normalization in DBMS: 1NF, 2NF, 3NF and BCNF with Examples"](https://hackr.io/blog/dbms-normalization), by Aman Goel
+* ["Normalization in DBMS: 1NF, 2NF, 3NF and BCNF in Database"](https://beginnersbook.com/2015/05/normalization-in-dbms/), by Chaitanya Singh
+
+
+<!-- TODO:
 ### Practice
-
+ -->
 
 ## SQL
 You should be familiar with how to use SQL to insert, update, and retrieve data from a database. You should also be able to create and drop tables.
@@ -62,3 +66,13 @@ It's best if you get the practice installing, setting up, and using your own dat
 If you wish to install a database on your local machine (yes!), we recommend [MySQL](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/) or [SQLite](https://www.sqlite.org/download.html) (use the pre-compiled bundles with command line tools).
 
 ### Practice
+Rick Watson has published an ["Classic Models" database and SQL file][watson-sql] (assumes MySQL), along with a set of practice problems, to accompany his book[^watson-book] on data modeling and SQL. You should be able to successfully write queries for his [sample problems][watson-sql] in these categories:
+* "Single Entity" (all)
+* "One to many relationship" (all)
+* "Many to many relationship" (all)
+* "General queries", simple aggregations, such as problems #7, and #20–#24.
+
+Those with an advanced knowledge of SQL (not required, but encouraged) will also be able to complete all of the problems in the "General Queries" and "Correlated subqueries" categories.
+
+[watson-sql]:https://www.richardtwatson.com/dm6e/Reader/ClassicModels.html#
+[^watson-book]:Rick Watson is author of _Data Management: Databases and Organizaitons (sixth edition)_ (2020) [[Amazon]](http://www.amazon.com/dp/B00E8HS8N2).
