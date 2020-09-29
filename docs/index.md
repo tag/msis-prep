@@ -25,7 +25,7 @@ Entering students should be capable in the following topic areas.:
 * Accounting & financial modeling
     - Read a balance sheet, and explain the Accounting Equation (A = L + OE)
     - Generate an NPV and IRR
-* Statistics
+* [Statistics](statistics/)
     - Mean, standard deviation
     - Basic linear regression
 * Business presentations
