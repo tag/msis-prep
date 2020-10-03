@@ -55,6 +55,10 @@ There are plenty of great resources out there for learning how to effectively ut
 [![Use Case Walkthrough](https://img.youtube.com/vi/zid-MVo7M-E/0.jpg)](https://www.youtube.com/watch?v=zid-MVo7M-E)
 [youtube-one]:https://www.youtube.com/watch?v=zid-MVo7M-E
 
+*  [Use Case Diagrams - Tutorial/Walkthrough][youtube-two]
+[![Use Case Walkthrough](https://img.youtube.com/vi/sQgoFjxSdxo.jpg)](https://www.youtube.com/watch?v=sQgoFjxSdxo)
+[youtube-two]:https://www.youtube.com/watch?v=sQgoFjxSdxo
+
 ## Practice
 
 Below you will find a condensed list of walkthroughs and practice exercises pertaining to Use Case Diagrams that may be helpful in ensuring you have an understanding on the topic.
