@@ -13,6 +13,9 @@ nav:
     - Home: index.md
     - Modules:
         - 'Programming' : 'programming.md'
+        - 'Use Case Diagrams' : 'usecase.md'
+        - 'Sequence Diagrams' : 'sequencediagrams.md'
+
 
 extra_css:
   - "css/styles.css"
