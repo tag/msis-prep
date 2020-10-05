@@ -34,9 +34,9 @@ Entering students should be capable in the following topic areas.:
     - SCQ
     - Minto framework
 * [ERP](ERP/)  
-* SAP
-  * Major Concepts
-* Data Type
+    * SAP
+    * Major Concepts
+    * Data Type
 * [The Business Activities Cycles](Business Cycles/)
     * Procurement Cycle
     * Sales Cycle

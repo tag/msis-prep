@@ -66,3 +66,13 @@ After you have learned about the data types, [try thiese quiz questions.](https:
 
 
 
+------
+
+### Logging and Undo in SAP
+
+Most of transaction records, once logged[^1] into the system, are impossible to be deleted in SAP. However, when necessary you should undo[^2] transactions to reverse the wrong input.
+
+Please do click around the hyperlinks within [the SAP's official manual](https://help.sap.com/doc/saphelp_pserv472/4.72/en-US/cf/74bb3ee5bf7173e10000000a114084/content.htm?no_cache=true) on these concepts to make sure you understand this point. It is essential to know how logging and undo works in SAP in order to use SAP smoothly.
+
+[^1]: Store the log entries so that they are constantly available for normal database operation.
+[^2]:Set database to the consistent state that it had before the transaction was started
