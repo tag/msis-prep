@@ -7,7 +7,6 @@ All content here is self-paced. As with any work, the more effort you put in, th
 Entering students should be capable in the following topic areas.:
 
 * [Computer programming](programming/)
-  
     - Control structures (conditionals & loops)
     - Object-orientation, polymorphism
 * Data modeling & SQL
@@ -15,7 +14,6 @@ Entering students should be capable in the following topic areas.:
     - Queries across tables
     - DML & DDL
 * Infrastructure
-  
     - The Internet model (or OSI model)
 * Process & communication in IT
     - Agile software development
@@ -42,9 +40,8 @@ Entering students should be capable in the following topic areas.:
     - Procurement Cycle
     - Sales Cycle
     - Other Cycles
+    - Practice Questions
 * [IT Control](IT Control/)
-    - Procurement Cycle
-    - Sales Cycle
-    - Other Cycles
+
 
 You should also be able to use common software to support the concepts listed above. In addition to strong knowledge of Microsoft Office (especially Excel and Powerpoint), you should be able to use Visio and Microsoft Project.
