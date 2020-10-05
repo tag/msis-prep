@@ -110,7 +110,7 @@ Carefully read [*Accounting Cycle*](https://www.investopedia.com/terms/a/account
 
 
 
-## Practice Opportunity
+## Practice Opportunity 1. Global Bikes 
 
 After complete reading the ERP and Business Cycles pages, you should have a fair understanding on how and why business apply ERP systems into their day-to-day operations. 
 
@@ -118,3 +118,8 @@ Most likely, at this point you don't have access to SAP's server yet. But take a
 
 
 
+## Practice Opportunity 2. Documents from the business cycles
+
+Try to jot down as many as possible documents that are involved from the Sales and Procurement cycle.
+
+It would be excellent if you could remember them all. They will definitely serve you well in MRP module of MSIS Core! 
