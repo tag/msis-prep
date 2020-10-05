@@ -42,5 +42,9 @@ Entering students should be capable in the following topic areas.:
     - Procurement Cycle
     - Sales Cycle
     - Other Cycles
+* [IT Control](IT Control/)
+    - Procurement Cycle
+    - Sales Cycle
+    - Other Cycles
 
 You should also be able to use common software to support the concepts listed above. In addition to strong knowledge of Microsoft Office (especially Excel and Powerpoint), you should be able to use Visio and Microsoft Project.
