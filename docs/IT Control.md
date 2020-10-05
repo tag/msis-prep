@@ -2,6 +2,7 @@
 authors:
     - Jiaqi Xiao
 date: 2020-10-05
+
 ---
 
 # IT Controls
@@ -107,12 +108,10 @@ The Committee of Sponsoring Organizations (COSO) issued the **Internal Control F
 
 - **COBIT** stands for the Control Objectives for Information and related Technology 
 - Developed by the Information Systems Audit and Control Foundation: **ISACA**
-
 - The COBIT framework is of generally applicable information systems security and control practices for IT control.
-
 - Most recent update: COBIT-2019. Below is a graph showing its historical evaluation from 1995 till now.
 
-  ![COBIT](msis-prep\pic\COBIT2019.png)
+![COBIT2019](./pic/COBIT2019.png)
 
 Resources to read more about COBIT:
 

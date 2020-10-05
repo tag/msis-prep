@@ -24,7 +24,7 @@ Read about the Procurement Cycle:
 
 [*Procurement Management Process - The 2020 Guide (Kissflow)*](https://kissflow.com/procurement-process/)
 
-![Procurement](pic\Procurement_Cycle.png)
+![Procurement_Cycle](../pic/Procurement_Cycle.PNG)
 
 The above Image Source[^1]
 
@@ -123,3 +123,11 @@ Most likely, at this point you don't have access to SAP's server yet. But take a
 Try to jot down as many as possible documents that are involved from the Sales and Procurement cycle.
 
 It would be excellent if you could remember them all. They will definitely serve you well in MRP module of MSIS Core! 
+
+
+
+### Practice Opportunity 3. A real SAP Case
+
+ [*From order-to-cash to wall-to-wall: Four SAP implementations at Smithfield Foods"*](https://journals.sagepub.com/doi/10.1177/2043886918819302)
+
+Try to make sense of this case, and tackle the case questions at the end of the case. It is challenging, but challenges are helpful!
