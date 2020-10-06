@@ -1,0 +1,10 @@
+
+/* Enable better nested ordered lists, automatically part of Material theme!*/
+/*
+ol ol { list-style-type: lower-alpha; }
+ol ol ol { list-style-type: lower-roman; }
+*/
+
+.md-typeset ul ul {
+  list-style: circle;
+}
