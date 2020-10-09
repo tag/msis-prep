@@ -30,7 +30,7 @@ Entering students should also have some experience in the following topic areas:
       - Use case diagrams
       - Sequence diagrams
       - Process models
-  * Prototyping (HTML/CSS)
+  * [Prototyping](prototyping/) (HTML/CSS)
 </ul></li>
 <li>**General Business**<ul>
 * Accounting & financial modeling
