@@ -46,38 +46,32 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 ## Resources
 
-*  [Sequence Diagrams 101 (General Overview)][visual-link][^citation-one]
+*  [Sequence Diagrams 101 (General Overview)][visual-link][^citation-one] This article serves as a good overview of sequence diagrams by discussing their purpose, main components, and how to use them.
 [visual-link]:https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
-
 [^citation-one]: "What Is Sequence Diagram?", Visual Paradigm, www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/.  
 
-*  [Sequence Diagrams (Chapter 10, with Questions)][chapter-resource][^citation-two]
+*  [Sequence Diagrams (Chapter 10, with Questions)][chapter-resource][^citation-two] The attached Chapter offers a high-level overview of sequence diagrams alongside various exercises you may complete.
 [chapter-resource]:https://www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf
-
 [^citation-two]: "Sequence Diagrams", Kasetsart University, www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf
 
-*  [Sequence Diagrams 101 (Video Refresher)][youtube-one][^citation-three]
+*  [Sequence Diagrams 101 (Video Refresher)][youtube-one][^citation-three] This video offers a very low-level explanation of sequence diagrams and its components while integrating a step-by-step example.
 [![Sequence Diagrams 101 (Video Refresher)](https://img.youtube.com/vi/_Mzi1rYtI5U/0.jpg)](https://www.youtube.com/watch?v=_Mzi1rYtI5U)
 [youtube-one]:https://www.youtube.com/watch?v=_Mzi1rYtI5U
-
 [^citation-three]: Master2Teach. “Sequence Diagram - Step by Step Guide with Example.” Online video clip. YouTube. YouTube, 14 April 2020. Web. 10 October 2020.
 
-*  [Sequence Diagrams (Coding Example)][youtube-two][^citation-four]
+*  [Sequence Diagrams (Coding Example)][youtube-two][^citation-four] The attached video compares sequence diagrams to coding examples in an effort to relate the two together.
 [![Sequence Diagrams (Coding Example))](https://img.youtube.com/vi/EoXKS-0S3qs/0.jpg)](https://www.youtube.com/watch?v=EoXKS-0S3qs)
 [youtube-two]:https://www.youtube.com/watch?v=EoXKS-0S3qs
-
 [^citation-four]: Jones, Brandan. “Model Method Calls with UML Sequence Diagram.” Online video clip. YouTube. YouTube, 23 June 2018. Web. 10 October 2020.
 
-*  [Sequence Diagrams (Tutorial/Practice)][youtube-three][^citation-five]
+*  [Sequence Diagrams (Tutorial/Practice)][youtube-three][^citation-five] This video explains what a sequence diagram is followed by a creating an example using Lucidchart.
 [![Sequence Diagrams (Tutorial/Practice)](https://img.youtube.com/vi/pCK6prSq8aw/0.jpg)](https://www.youtube.com/watch?v=pCK6prSq8aw)
 [youtube-three]:https://www.youtube.com/watch?v=pCK6prSq8aw
-
 [^citation-five]: Lucidchart. “How to make a UML Sequence Diagram.” Online video clip. YouTube. YouTube, 27 August 2018. Web. 10 October 2020.
 
-*  [Use Case Diagrams to Sequence Diagrams][youtube-four][^citation-six]
+*  [Use Case Diagrams to Sequence Diagrams][youtube-four][^citation-six] This brief video offers a quick refresher into constructing a sequence diagram.
 [![Converting Use Case Diagrams to Sequence Diagrams](https://img.youtube.com/vi/aaAjndV5kBg.jpg)](https://www.youtube.com/watch?v=aaAjndV5kBg)
 [youtube-four]:https://www.youtube.com/watch?v=aaAjndV5kBg
-
 [^citation-six]: VisualParadigm. “How to Elaborate Use Case with UML Sequence Diagram.” Online video clip. YouTube. YouTube, 2 October 2013. Web. 10 October 2020.
 
 ## Practice
