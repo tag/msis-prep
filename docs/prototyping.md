@@ -7,14 +7,14 @@ date: 2020-09-23
 
 # Prototyping
 
-You should be familiar with the basics of [HTML][html] and [CSS][css] which are foundational languages for prototyping websites.
+You should be familiar with the basics of [HTML][html] and [CSS][css] which are foundational languages for prototyping web pages.
 
 [html]:https://www.w3schools.com/html/html_intro.asp
 [css]:https://www.w3schools.com/css/css_intro.asp
 
 ## During the MSIS program
 
-As part of the D&S module in the MSIS program, you will be using HTML & CSS to design and develop the look and feel of your web application. This will be your first step towards creating a fully functional web application. Once you have your prototype ready, you will make your application interactive by using client-side ([Javascript][javascript]) and server-side programming languages.
+As part of the D&S module in the MSIS program, you will be using HTML & CSS to design and develop the look and feel of your web application. This will be your first step towards creating a fully functional web application. Once your prototype is ready, you will make your application interactive by using client-side ([Javascript][javascript]) and server-side programming languages.
 
 [javascript]:https://www.w3schools.com/js/DEFAULT.asp
 ## Major concepts
@@ -23,62 +23,42 @@ Before entering the MSIS program, you should be able to do the following:
 
 1. Understand the need for prototyping in web application development.
 2. Create the basic structure of an HTML page and demonstrate the use of important tags.
-3. Define the tree types of CSS selectors.
+3. Define the three types of CSS selectors.
 4. Make stylistic changes to your page by using a separate CSS file.
 
-!!! note "Nice to have"
-    * Use the [Bootstrap][bootstrap] CSS framework to create responsive CSS that dynamically adjusts according to screen size.
 
-[bootstrap]:https://getbootstrap.com/docs/4.1/getting-started/introduction/
+
 ## Resources
 
-1. A nice way to get started would be to understand the idea of central tendency in data. [This article by Laerd Statistics][laerd statistics] is a good read for a formal definition of central tendency and its measures. It also compares these measures by application.
+1. A nice way to get started is by reading [this blog][experienceux]. It explains the concept of website prototyping and the need for it.
 
-2. [This Data Statistics Intro][data statistics] course module from Khan Academy has simple examples on mean, median and mode. _(~15 mins)_
+[experienceux]:https://www.experienceux.co.uk/faqs/what-is-a-website-prototype/#:~:text=A%20website%20prototype%20can%20be,like%20when%20it%20goes%20live.&text=However%2C%20typically%20when%20people%20talk,such%20as%20drop%20down%20menus.
 
-3. Next, you can watch [this Standard Deviation video][standard deviation] that explains the concept with an example. You can also watch [this video][sd calculation] to learn how it is calculated.
+2. Next, read [this blog][johansson] (Johansson, 2018). It specifically talks about the benefits of prototyping using HTML and CSS. It also enlists the most popular tools that are used for HTML and CSS prototyping.
 
-4. Lastly,  [this Variance & Standard Deviation][dispersion] course module on Khan Academy teaches measures of dispersion in statistics. _(~25 minutes)_
+[johansson]:https://medium.com/@andreas.johansson.dev/do-you-find-yourself-designing-the-same-screen-over-and-over-html-prototyping-may-help-f87d45787e11
 
-5. This book provides a remarkably fun way to learn the basics of statistics:
+3. Now that you have a rough idea of the meaning and need for prototyping, watch  [this introductory video](https://www.youtube.com/watch?v=gT0Lh1eYk78) (Thé, 2016) that highlights the role of HTML, CSS and Javascript in web pages by using examples.
 
-    _Head First Statistics: A Brain-Friendly Guide, 1st Ed._, Dawn Griffiths, O'Reilly Media (2018), ISBN-13: 978-0596527587 [[Amazon]](https://www.amazon.com/Head-First-Statistics-Brain-Friendly-Guide-ebook-dp-B00B797ELQ/dp/B00B797ELQ/ref=mt_other?_encoding=UTF8&me=&qid=)
-[data statistics]:https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics
-[standard deviation]:https://www.youtube.com/watch?v=MRqtXL2WX2M
-[sd calculation]:https://www.youtube.com/watch?v=WVx3MYd-Q9w
-[laerd statistics]:https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php
-[dispersion]:https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/variance-of-a-population
+4. You can then read [this Web Design 101](https://blog.hubspot.com/marketing/web-design-html-css-javascript) (Kolowich, 2018) article which gets into a little more detail on HTML, CSS and Javascript. It provides additional examples on how they come together and play their individual parts in web application development. You can skip the Javascript part of the article.
 
-## HTML
+!!! note "Additional resources"
+    * The [World Wide Web Consortium](https://www.w3.org/standards/webdesign/htmlcss) contains official standards for building and rendering web pages using HTML and CSS.
+    * [W3 Schools](https://www.w3schools.com/html/default.asp) is a popular website that can be referenced for sample code and examples on HTML/CSS.
+    * Cheatsheets -
+        * [HTML cheatsheet](https://htmlcheatsheet.com/)
+        * [CSS cheatsheet](https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet)
 
-1. Linear Regression is a statistical method for data analysis that models a relationship between a dependent variable and one or more independent variables. It is used to either predict an unknown value (dependent variable) given a set of features (independent variables). For example, let's say we have a dataset of three variables: height (`Y`), weight (`x1`) & gender (`x2`). We can also try and predict the height of a person depending on their weight and gender.
+## HTML and CSS
 
-2. Nuts & bolts of linear regression -
-    * **Dependent variable (`Y`)** - unknown variable we are trying to predict the value of. It is always continuous and numerical.
-    * **Independent variable (`x`)** - known variable/feature that will be used to predict Y.
-    * **Regression equation** - mathematical equation that represents the regression model. (`Y = mx + c`)
-    * **Simple linear regression** - regression between a dependent variable and a single independent variable.
-    * **Multiple linear regression** - regression between a dependent variable and two or more independent variables.
-
-3. If the explanation in above is not clear enough, watch [this introduction to linear regression video][linear regression intro].
-
-4. Linear regression should only be used when the use case is appropriate. [This article by Eric Benjamin Seufert][linear regression candidates] nicely explains good and bad candidates for linear regression.
-
-5. The article ["A Refresher on Regression Analysis"][HBR] from _Harvard Business Review_ is another good read on regression analysis. It also talks about how companies use regression and common mistakes people make when using it.
-[jupyter notebook]:https://jupyter.org/
-[python]:https://www.python.org/about/
-[linear regression intro]:https://www.youtube.com/watch?v=zPG4NjIkCjc
-[linear regression candidates]:https://mobiledevmemo.com/when-why-and-how-you-should-use-linear-regression/
-[HBR]:https://hbr.org/2015/11/a-refresher-on-regression-analysis
-
-## CSS
+1. Now that you have been introduced to website prototyping, you are ready to start learning the basics of HTML and CSS. Complete this [Into to HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css) module on Khan Academy. It is the best free resource you can get to learn these languages. It contains videos, quick tips and challenges that will give you good hands-on experience on HTML and CSS.
 
 ## Practice
 
-There are many free data sets suitable for use in learning statistics the Data and Story Library has good sets for practicing [confidence intervals][data-ci] and [regression][data-slr]. If you're practicing in R, [this collection of sample datasets][data-r] originally distributed with R may prove useful.
+1. The best way to learn programming languages is by practice. Code Academy offers two learning modules - [Learn HTML](https://www.codecademy.com/learn/learn-html) and [Learn CSS](https://www.codecademy.com/learn/learn-css) that will further help you improve your understanding of HTML and CSS.
 
-[data-ci]:https://dasl.datadescription.com/datafiles/?_sfm_methods=Confidence%20Intervals%20for%20Means&_sfm_cases=4+59943
-[data-slr]:https://dasl.datadescription.com/datafiles/?_sfm_methods=Regression&_sfm_cases=4+59943
-[data-r]:https://vincentarelbundock.github.io/Rdatasets/
+2. You can use this blank [online practice board](https://www.practiceboard.com/) to type in HTML code and see the output
 
- If you want more interesting data sets (with no guarantee of suitability for practice), Jeremy Singer-Vine at _Data Is Plural_ publishes a [weekly newsletter](https://tinyletter.com/data-is-plural) of interesting data sets ([archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)).
+3. The World Wide Web Consortium offers topic-wise HTML and CSS [practice exercises](https://www.w3resource.com/html-css-exercise/index.php)
+
+4. If you want to work on sample projects, [GeeksforGeeks](https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/) and [this blog](https://medium.com/@avicndugu/projects-to-practice-html-css-skills-for-beginners-8b9ed67a7dd1) (Ndugu, 2018) offers a number of web page creation projects for beginners.
