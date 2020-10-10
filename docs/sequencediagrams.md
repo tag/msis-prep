@@ -54,31 +54,31 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 *  [Sequence Diagrams (Chapter 10, with Questions)][chapter-resource][^citation-two]
 [chapter-resource]:https://www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf
 
-[^citation-two]: Citation here
+[^citation-two]: Chapter 12, Sequence Diagrams, Kasetsart University, www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf
 
 *  [Sequence Diagrams 101 (Video Refresher)][youtube-one][^citation-three]
 [![Sequence Diagrams 101 (Video Refresher)](https://img.youtube.com/vi/_Mzi1rYtI5U/0.jpg)](https://www.youtube.com/watch?v=_Mzi1rYtI5U)
 [youtube-one]:https://www.youtube.com/watch?v=_Mzi1rYtI5U
 
-[^citation-three]: Citation here
+[^citation-three]: Master2Teach. “Sequence Diagram - Step by Step Guide with Example.” Online video clip. YouTube. YouTube, 14 April 2020. Web. 10 October 2020.
 
 *  [Sequence Diagrams (Coding Example)][youtube-two][^citation-four]
 [![Sequence Diagrams (Coding Example))](https://img.youtube.com/vi/EoXKS-0S3qs/0.jpg)](https://www.youtube.com/watch?v=EoXKS-0S3qs)
 [youtube-two]:https://www.youtube.com/watch?v=EoXKS-0S3qs
 
-[^citation-four]: Citation here
+[^citation-four]: Jones, Brandan. “Model Method Calls with UML Sequence Diagram.” Online video clip. YouTube. YouTube, 23 June 2018. Web. 10 October 2020.
 
 *  [Sequence Diagrams (Tutorial/Practice)][youtube-three][^citation-five]
 [![Sequence Diagrams (Tutorial/Practice)](https://img.youtube.com/vi/pCK6prSq8aw/0.jpg)](https://www.youtube.com/watch?v=pCK6prSq8aw)
 [youtube-three]:https://www.youtube.com/watch?v=pCK6prSq8aw
 
-[^citation-five]: Citation here
+[^citation-five]: Lucidchart. “How to make a UML Sequence Diagram.” Online video clip. YouTube. YouTube, 27 August 2018. Web. 10 October 2020.
 
 *  [Use Case Diagrams to Sequence Diagrams][youtube-four][^citation-six]
 [![Converting Use Case Diagrams to Sequence Diagrams](https://img.youtube.com/vi/aaAjndV5kBg.jpg)](https://www.youtube.com/watch?v=aaAjndV5kBg)
 [youtube-four]:https://www.youtube.com/watch?v=aaAjndV5kBg
 
-[^citation-six]: Citation here
+[^citation-six]: VisualParadigm. “How to Elaborate Use Case with UML Sequence Diagram.” Online video clip. YouTube. YouTube, 2 October 2013. Web. 10 October 2020.
 
 ## Practice
 
@@ -87,16 +87,16 @@ Here is a small list of practice problems (with answers!) that you may find usef
 *  [ATM Withdrawal (Answer Provided)][atm-practice] As a user, arrive to the ATM and conduct the standard withdrawal process in order to retrieve money. This set of practice problem(s) includes both a non-verifying and verifying sequence.[^citation-seven]
 [atm-practice]:https://norsamsiah.files.wordpress.com/2010/01/lab4answer1.pdf
 
-[^citation-seven]: Citation here
+[^citation-seven]: Sani, Nor Samsiah. Lab 004 - In-Class Exercise Answer. norsamsiah.files.wordpress.com/2010/01/lab4answer1.pdf.
 
 *  [Name elements, Identify Errors, and efficiency issues][various-exercises] The attached exercise(s) allow you to practice identifying elements of a Sequence Diagrams along with ensuring you are able to detect errors and efficiency problems.[^citation-eight]
 [various-exercises]:http://users.csc.calpoly.edu/~jdalbey/305/Labs/SequenceDiagramExercises.html
 
-[^citation-eight]: Citation here
+[^citation-eight]: Dalbey, John. Sequence Diagram Exercises, users.csc.calpoly.edu/~jdalbey/305/Labs/SequenceDiagramExercises.html.
 
 *  [Interactions with Actor and System (Answer Provided)][club-practice] Assume the role of a Country Club owner, you will be required to make requests to the system in order to identify active members, club sales as well as what the those sales consisted of. Before moving onto the next request ensure that the Owner has received the previously requested information.[^citation-nine]
 [club-practice]:/images/club-practice.png
 
-[^citation-nine]: Citation here
+[^citation-nine]: Exercise adapted from Professor Alex Lopes, Indiana University at Bloomington, BUS-S310 Class examples.
 
 *  _**More Coming Soon!**_
