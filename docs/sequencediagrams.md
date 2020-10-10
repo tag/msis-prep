@@ -24,7 +24,7 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 ## Major concepts
 
-**Please note**: Some of these concepts may go by slightly different names throughout the Resources and Practice section. However, the uses remain the same.
+**Please note**: Some of these concepts may go by slightly different names throughout both the Resource and Practice sections. However, their uses remain the same.
 
 1. Types of _**Classes**_
     1. Boundaries: Boundaries are only able to talk to Controllers or Actors.
@@ -46,39 +46,57 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 ## Resources
 
-*  [Sequence Diagrams 101 (General Overview)][visual-link]
+*  [Sequence Diagrams 101 (General Overview)][visual-link][^citation-one]
 [visual-link]:https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
 
-*  [Sequence Diagrams (Chapter 10, with Questions)][chapter-resource]
+[^citation-one]: What Is Sequence Diagram?, Visual Paradigm, www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/.  
+
+*  [Sequence Diagrams (Chapter 10, with Questions)][chapter-resource][^citation-two]
 [chapter-resource]:https://www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf
 
-*  [Sequence Diagrams 101 (Video Refresher)][youtube-one]
+[^citation-two]: Citation here
+
+*  [Sequence Diagrams 101 (Video Refresher)][youtube-one][^citation-three]
 [![Sequence Diagrams 101 (Video Refresher)](https://img.youtube.com/vi/_Mzi1rYtI5U/0.jpg)](https://www.youtube.com/watch?v=_Mzi1rYtI5U)
 [youtube-one]:https://www.youtube.com/watch?v=_Mzi1rYtI5U
 
-*  [Sequence Diagrams (Coding Example)][youtube-two]
+[^citation-three]: Citation here
+
+*  [Sequence Diagrams (Coding Example)][youtube-two][^citation-four]
 [![Sequence Diagrams (Coding Example))](https://img.youtube.com/vi/EoXKS-0S3qs/0.jpg)](https://www.youtube.com/watch?v=EoXKS-0S3qs)
 [youtube-two]:https://www.youtube.com/watch?v=EoXKS-0S3qs
 
-*  [Sequence Diagrams (Tutorial/Practice)][youtube-three]
+[^citation-four]: Citation here
+
+*  [Sequence Diagrams (Tutorial/Practice)][youtube-three][^citation-five]
 [![Sequence Diagrams (Tutorial/Practice)](https://img.youtube.com/vi/pCK6prSq8aw/0.jpg)](https://www.youtube.com/watch?v=pCK6prSq8aw)
 [youtube-three]:https://www.youtube.com/watch?v=pCK6prSq8aw
 
-*  [Use Case Diagrams to Sequence Diagrams][youtube-four]
+[^citation-five]: Citation here
+
+*  [Use Case Diagrams to Sequence Diagrams][youtube-four][^citation-six]
 [![Converting Use Case Diagrams to Sequence Diagrams](https://img.youtube.com/vi/aaAjndV5kBg.jpg)](https://www.youtube.com/watch?v=aaAjndV5kBg)
 [youtube-four]:https://www.youtube.com/watch?v=aaAjndV5kBg
+
+[^citation-six]: Citation here
 
 ## Practice
 
 Here is a small list of practice problems (with answers!) that you may find useful as you learn and/or refresh on Sequence Diagrams.
 
-*  [ATM Withdrawal (Answer Provided)][atm-practice] As a user, arrive to the ATM and conduct the standard withdrawal process in order to retrieve money. This set of practice problem(s) includes both a non-verifying and verifying sequence.
+*  [ATM Withdrawal (Answer Provided)][atm-practice] As a user, arrive to the ATM and conduct the standard withdrawal process in order to retrieve money. This set of practice problem(s) includes both a non-verifying and verifying sequence.[^citation-seven]
 [atm-practice]:https://norsamsiah.files.wordpress.com/2010/01/lab4answer1.pdf
 
-*  [Name elements, Identify Errors, and efficiency issues][various-exercises] The attached exercise(s) allow you to practice identifying elements of a Sequence Diagrams along with ensuring you are able to detect errors and efficiency problems.
+[^citation-seven]: Citation here
+
+*  [Name elements, Identify Errors, and efficiency issues][various-exercises] The attached exercise(s) allow you to practice identifying elements of a Sequence Diagrams along with ensuring you are able to detect errors and efficiency problems.[^citation-eight]
 [various-exercises]:http://users.csc.calpoly.edu/~jdalbey/305/Labs/SequenceDiagramExercises.html
 
-*  [Interactions with Actor and System (Answer Provided)][club-practice] Assume the role of a Country Club owner, you will be required to make requests to the system in order to identify your active members, your club sales as well as what the those sales consisted of. Before moving onto the next request ensure that the Owner has received the previously requested information.
+[^citation-eight]: Citation here
+
+*  [Interactions with Actor and System (Answer Provided)][club-practice] Assume the role of a Country Club owner, you will be required to make requests to the system in order to identify active members, club sales as well as what the those sales consisted of. Before moving onto the next request ensure that the Owner has received the previously requested information.[^citation-nine]
 [club-practice]:/images/club-practice.png
+
+[^citation-nine]: Citation here
 
 *  _**More Coming Soon!**_
