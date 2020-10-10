@@ -68,12 +68,6 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 [![Converting Use Case Diagrams to Sequence Diagrams](https://img.youtube.com/vi/aaAjndV5kBg.jpg)](https://www.youtube.com/watch?v=aaAjndV5kBg)
 [youtube-four]:https://www.youtube.com/watch?v=aaAjndV5kBg
 
-## Additional Resources
-
-*  Insert Basic Example here with explanation
-
-*  _**More Images Coming Soon!**_
-
 ## Practice
 
 Here is a small list of practice problems (with answers!) that you may find useful as you learn and/or refresh on Sequence Diagrams.
@@ -84,7 +78,7 @@ Here is a small list of practice problems (with answers!) that you may find usef
 *  [Name elements, Identify Errors, and efficiency issues][various-exercises] The attached exercise(s) allow you to practice identifying elements of a Sequence Diagrams along with ensuring you are able to detect errors and efficiency problems.
 [various-exercises]:http://users.csc.calpoly.edu/~jdalbey/305/Labs/SequenceDiagramExercises.html
 
-*  Performing multiple interactions between a main actor and a system <<Insert description here>
-    <<insert link to answer here (image to OneDrive)>>
+*  [Interactions with Actor and System (Answer Provided)][club-practice] Assume the role of a Country Club owner, you will be required to make requests to the system in order to identify your active members, your club sales as well as what the those sales consisted of. Before moving onto the next request ensure that the Owner has received the previously requested information.
+[club-practice]:/images/club-practice.png
 
 *  _**More Coming Soon!**_
