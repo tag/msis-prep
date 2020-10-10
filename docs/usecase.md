@@ -39,27 +39,27 @@ There are plenty of great resources out there for learning how to effectively ut
 *  [What is a Use Case Diagram?][visual-link][^citation-one]
 [visual-link]:https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/
 
-[^citation-one]: What Is Use Case Diagram?, Visual Paradigm, www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/.
+[^citation-one]: "What Is Use Case Diagram?"", Visual Paradigm, www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/.
 
 *  [Use Case Diagrams - In-depth][courses-cs][^citation-two]
 [courses-cs]:https://courses.cs.washington.edu/courses/cse403/16au/lectures/L04.pdf
 
-[^citation-two]: Torlak, Emina. Use Cases, courses.cs.washington.edu/courses/cse403/16au/lectures/L04.pdf
+[^citation-two]: Torlak, Emina. "Use Cases", courses.cs.washington.edu/courses/cse403/16au/lectures/L04.pdf
 
 *  [Constructing Use Case Diagrams][sourcemaking][^citation-three]
 [sourcemaking]:https://sourcemaking.com/uml/modeling-business-systems/external-view/constructing-use-case-diagrams
 
-[^citation-three]: Constructing Use Case Diagrams, sourcemaking.com/uml/modeling-business-systems/external-view/constructing-use-case-diagrams.
+[^citation-three]: "Constructing Use Case Diagrams", sourcemaking.com/uml/modeling-business-systems/external-view/constructing-use-case-diagrams.
 
 *  [Use Case Diagrams - PowerPoint & Examples][csis-pace][^citation-four]
 [csis-pace]:http://csis.pace.edu/~marchese/CS389/L9/Use%20Case%20Diagrams.pdf
 
-[^citation-four]: Marchese, Francis. Use Case Diagrams, csis.pace.edu/~marchese/CS389/L9/Use%20Case%20Diagrams.pdf
+[^citation-four]: Marchese, Francis. "Use Case Diagrams", csis.pace.edu/~marchese/CS389/L9/Use%20Case%20Diagrams.pdf
 
 *  [Use Case Diagrams - Tutorial w/ Example][guru99][^citation-five]
 [guru99]:https://www.guru99.com/use-case-diagrams-example.html
 
-[^citation-five]: UML Use Case Diagram: Tutorial with EXAMPLE. Guru99, www.guru99.com/use-case-diagrams-example.html.
+[^citation-five]: "UML Use Case Diagram: Tutorial with EXAMPLE". Guru99, www.guru99.com/use-case-diagrams-example.html.
 
 *  [Use Case Diagrams - Tutorial/Walkthrough][youtube-one][^citation-six]
 [![Use Case Walkthrough](https://img.youtube.com/vi/zid-MVo7M-E/0.jpg)](https://www.youtube.com/watch?v=zid-MVo7M-E)
