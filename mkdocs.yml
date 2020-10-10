@@ -15,6 +15,7 @@ nav:
       - 'Data Modeling and SQL' : 'data.md'
       - 'Programming' : 'programming.md'
       - 'Statistics' : 'statistics.md'
+      - 'Prototyping' : 'prototyping.md'
 
 extra_css:
   - "css/styles.css"
