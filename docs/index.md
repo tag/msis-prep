@@ -31,5 +31,17 @@ Entering students should be capable in the following topic areas.:
 * Business presentations
     - SCQ
     - Minto framework
+* [ERP](ERP/)  
+    - SAP
+    - Major Concepts
+    - Data Type
+    - Logging and Undo
+* [The Business Activities Cycles](Business Cycles/)
+    - Procurement Cycle
+    - Sales Cycle
+    - Other Cycles
+    - Practice Questions
+* [IT Control](IT Control/)
+
 
 You should also be able to use common software to support the concepts listed above. In addition to strong knowledge of Microsoft Office (especially Excel and Powerpoint), you should be able to use Visio and Microsoft Project.

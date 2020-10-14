@@ -8,11 +8,16 @@ theme:
   name: material
   features:
       - instant
+
+      
       - tabs
 nav:
     - Home: index.md
     - Modules:
         - 'Programming' : 'programming.md'
+        - 'ERP - ERP Intro' : 'ERP.md'
+        - 'ERP - Business Cycles' : 'Business Cycles.md'
+        - 'IT Control' : 'IT Control.md'
 
 extra_css:
   - "css/styles.css"
