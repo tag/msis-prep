@@ -24,7 +24,7 @@ Read about the Procurement Cycle:
 
 [*Procurement Management Process - The 2020 Guide (Kissflow)*](https://kissflow.com/procurement-process/)
 
-![Procurement_Cycle](../pic/Procurement_Cycle.PNG)
+![Procurement_Cycle](/images/Procurement_Cycle.PNG)
 
 The above Image Source[^1]
 

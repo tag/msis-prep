@@ -28,13 +28,13 @@ IT control plays critical role in assuring that the IT is correctly used, data i
 There are two categories of IT controls: **IT general controls (ITGC)** and **IT application controls (ITAC)**
 
 - **ITGC:** 
-  - the procedures/policies of organizations' control environment processes are stable and well-managed:  [risk management](https://www.investopedia.com/terms/e/enterprise-risk-management.asp), [change management](https://www.prosci.com/resources/articles/what-is-change-management), [disaster recovery](https://www.vmware.com/topics/glossary/content/disaster-recovery)  (Skim through these process to grab a basic understanding for now, you should be able to learn more about these processes in ITGRC ==link to ITGRC once built== module.)
-  - Example: Security Management Controls
+    - the procedures/policies of organizations' control environment processes are stable and well-managed:  [risk management](https://www.investopedia.com/terms/e/enterprise-risk-management.asp), [change management](https://www.prosci.com/resources/articles/what-is-change-management), [disaster recovery](https://www.vmware.com/topics/glossary/content/disaster-recovery)  (Skim through these process to grab a basic understanding for now, you should be able to learn more about these processes in ITGRC ==link to ITGRC once built== module.)
+    - Example: Security Management Controls
 
 - **ITAC**
 
-  - Prevent, detect, and correct transaction errors and fraud.
-  - Concerned area: data accuracy[^accuracy], validity[^validity], integrity[^integrity], and more. 
+    - Prevent, detect, and correct transaction errors and fraud.
+    - Concerned area: data accuracy[^accuracy], validity[^validity], integrity[^integrity], and more. 
 
   [^accuracy]: whether the **data** values stored for an object are the correct values
   [^validity]:the correctness and reasonableness of **data**
@@ -111,7 +111,7 @@ The Committee of Sponsoring Organizations (COSO) issued the **Internal Control F
 - The COBIT framework is of generally applicable information systems security and control practices for IT control.
 - Most recent update: COBIT-2019. Below is a graph showing its historical evaluation from 1995 till now.
 
-![COBIT2019](./pic/COBIT2019.png)
+![COBIT2019](/images/COBIT2019.png)
 
 Resources to read more about COBIT:
 
