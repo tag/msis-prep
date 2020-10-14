@@ -12,6 +12,9 @@ theme:
 nav:
     - Home: index.md
     - Modules:
+      - 'Programming' : 'programming.md'
+      - 'Use Case Diagrams' : 'usecase.md'
+      - 'Sequence Diagrams' : 'sequencediagrams.md'
       - 'Data Modeling and SQL' : 'data.md'
       - 'Programming' : 'programming.md'
       - 'Statistics' : 'statistics.md'
