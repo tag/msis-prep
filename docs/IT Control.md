@@ -42,17 +42,17 @@ There are two categories of IT controls: <abbr title="IT general controls">**ITG
 
     - Prevent, detect, and correct transaction errors and fraud.
     - Concerned area: data accuracy, validity, integrity, and more. 
-  - Accuracy: whether the **data** values stored for an object are the correct values
-    - Validity: the correctness and reasonableness of **data**
-    - Integrity: the completeness, soundness, and wholeness of the **data** that also complies with the intention of the creators of the **data**.
+    - **Accuracy**: whether the **data** values stored for an object are the correct values
+    - **Validity**: the correctness and reasonableness of **data**
+    - **Integrity**: the completeness, soundness, and wholeness of the **data** that also complies with the intention of the creators of the **data**.
   
   
 
 ### Types of IT Controls
 
-- Preventive Controls: Deter problems before
-- Detective Controls: Discover problems after they arise
-- Corrective Controls: Correct and modify system
+- **Preventive Controls**: Deter problems before
+- **Detective Controls**: Discover problems after they arise
+- **Corrective Controls**: Correct and modify system
 
 There are some simple examples for you to understand these control types:
 
@@ -138,6 +138,36 @@ Read: [What Are The Differences Between COBIT & COSO](https://reciprocitylabs.co
 
 
 #### Exercises
+
+###### 1. What does IT control do in general? Why do you think it is necessary for companies to have this function?
+
+
+
+###### 2. What data characteristics is not concerned by ITAC?
+
+a. Integrity
+
+b. Validity
+
+c. Timeliness
+
+d. Accuracy
+
+
+
+###### 3. Please in your own word describe the three types of IT controls. Also, try to come up with an example how these controls are different.
+
+
+
+###### 4. In your own words, explain how the following items related to the IT control industry:
+
+- COSO
+
+- COBIT
+
+- SOX
+
+  
 
 #### Citation Footnotes
 
