@@ -115,35 +115,33 @@ Please do click around the hyperlinks within [the SAP's official manual](https:/
 
 ### Exercises
 
-###### 1. Define ERP, what does it stand for and how might it be useful in different-sized companies? 
+1. Define ERP, what does it stand for and how might it be useful in different-sized companies? 
 
 
-
-###### 2. How does ERP help with the "silos"  between business functions/departments?
-
+2. How does ERP help with the "silos"  between business functions/departments?
 
 
-###### 3. Identify what data type is for each of the following data (don't worry about identifying Situational data if you feel perplexed. Being able to identify whether they are organizational, master, or transaction data is sufficient.)
+3. Identify what data type is for each of the following data (don't worry about identifying Situational data if you feel perplexed. Being able to identify whether they are organizational, master, or transaction data is sufficient.)
 
-- Warehouse 
-- Job role
-- Dividends
-- Donations
-- Organization Branch
-- Customer  
-- Purchases
-- Employee
-- Payroll
-- Cost Center
-- Credits
-- Interest
-- Vendors
-- Debits
-- Line of Business 
-- Company Codes
-- Subscriptions
+    - Warehouse 
+    - Job role
+    - Dividends
+    - Donations
+    - Organization Branch
+    - Customer  
+    - Purchases
+    - Employee
+    - Payroll
+    - Cost Center
+    - Credits
+    - Interest
+    - Vendors
+    - Debits
+    - Line of Business 
+    - Company Codes
+    - Subscriptions
 
-###### 4. Why is "undo" transactions necessary? Explain it by giving an real-world example. What can it do in order to manage and control the business process? (Hint: consider the following scenario, if you are the CFO and some accountant under you have created transaction for wrong amount, maybe you would really want to know what the wrong amount was and how was it fixed as you are going over the financial statement of that day.)
+4. Why is "undo" transactions necessary? Explain it by giving an real-world example. What can it do in order to manage and control the business process? (Hint: consider the following scenario, if you are the CFO and some accountant under you have created transaction for wrong amount, maybe you would really want to know what the wrong amount was and how was it fixed as you are going over the financial statement of that day.)
 
 
 
