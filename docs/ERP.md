@@ -31,6 +31,8 @@ SAP is a globally recognized brand in the enterprise resource planning software 
 
 - [ ] Being able to understand the concepts of Log, Undo and Redo in SAP. Being able to explain the importance of these actions in the context of real world business.
 
+- [ ] (After learning the content next page) Being able to explain the purchase cycle and revenue cycle in detail. Being able to identify the document flow in these cycles (There are 8 document in total).
+
   
 
 ### What Is ERP? Why Do We Use It? 

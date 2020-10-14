@@ -45,26 +45,24 @@ From [the Telegraph article](https://jobs.telegraph.co.uk/article/procurement-cy
 
 - ### Sales Cycle (Order-to-Cash)
 
-Read [*"Sales Cycle"* by Skyword](https://trackmaven.com/marketing-dictionary/sales-cycle/#:~:text=The%20sales%20cycle%20is%20the,on%20how%20they%20define%20it.) to learn about Sales Cycle:
-
-> The sales cycle is the process that companies undergo when selling a product to a customer. It encompasses all activities associated with closing sale. Many companies have different steps and activities in their sales cycle, depending on how they define it.
+The sales cycle is the process occurred when companies are selling products to customers. It starts from receiving the purchase order from the buyers, and it ends until the accounting department has closed the transaction.
 
 Below are two more detailed websites explaining the stages and documents that are involved. Pay attention again to each step as they would generate documents that are essential for firms:
 
 *[Step by Step: What you Should Know About the Order-to-Cash Process (Salesforce)](https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/)* 
 
-[*A Walk Through The Order To Cash (O2C) Cycle*](https://www.purchasecontrol.com/blog/order-to-cash-process/)
+[*A Walk Through The Order To Cash (O2C) Cycle*](https://www.purchasecontrol.com/blog/order-to-cash-process/) from PurchaseControl. PurchaseControl created a SaaS-based cloud spend management system for many businesses to help with controls over their financial operations.
 
-![Revenue_Cycle](/images/Revenue_Cycle.PNG)
+![Revenue_Cycle](/images/Revenue_Cycle.png)
 
 Image Source[^2]
 
 The documents that are generated from the sales cycle are:
 
-1. Sales Order: typically a reflection of (and response to) the Purchase Order
-2. Packing Slip: accompanies the goods and usually omits $ dollar amount as an internal control measure *(pause a second to think here: why does packing slip omit the dollar amount? Do some research!)*
-3. Invoice (Bill): Prepared by the **Selling company**
-4. Payment Receipt: produced by the **Seller** and/or may be reported on a monthly statement of account.
+1. Sales Order: typically a reflection of (and response to) the Purchase Order on the **Seller** side when **Buyer** sends over a purchase order.
+2. Packing Slip: Prepared by the **Seller** and transfer internally accompanies the goods and usually omits $ dollar amount as an internal control measure *(pause a second to think here: why does packing slip omit the dollar amount? Do some research!)*
+3. Invoice (Bill): Prepared by the **Seller** and sent to the **Buyer**
+4. Payment Receipt: produced by the **Seller** upon receiving payment from **Buyer** and/or may be reported on a monthly statement of account.
 
 *Note: You are encouraged to look online for examples of the above documents if you don't know what they might look like.*
 
@@ -86,11 +84,13 @@ Refer to these great articles to get familiar with the business cycles that are 
 
 [*Step by Step: What you Should Know About the Order-to-Cash Process* (Salesforce)](https://help.ordertime.com/help/production-cycle) 
 
+We recommend you to watch the below video (of 3:03 length) created by THE BEAN COUNTERS' LAB. THE BEAN COUNTERS' LAB is a group of academics in S. Africa and they produce contents on auditing, governance, financing and management accounting for students.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMwDwtTSSjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### MRP (Material Requirements Planning) 
 
-This Video does an excellent job on teaching the concepts of MRP. 
+This Video (of 3:56 length) created by Edspira does an excellent job on teaching the concepts of MRP. Edspira is a Youtube channel created by Michael McLaughlin, PhD, CPA. His mission of creating Edspria is to provide a world-class business education for free.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uc2gPR_MiH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -102,35 +102,36 @@ Skim this article, *[Human Resources Cycle: Comparison of models](https://www.ox
 
 Carefully read [*Accounting Cycle*](https://www.investopedia.com/terms/a/accounting-cycle.asp) on Investopedia, don't forget to watch their embedded video as it would thoroughly walk you through the Accounting Cycle.
 
-------
 
 
 
-## Practice Opportunity 1. Global Bikes 
 
-After complete reading the ERP and Business Cycles pages, you should have a fair understanding on how and why business apply ERP systems into their day-to-day operations. 
+## Exercise
 
-Most likely, at this point you don't have access to SAP's server yet. But take a look at this [SAP introduction on a company called "Global Bikes"](http://www3.cis.gsu.edu/dtruex/courses/CIS8670/Lectures-pdf/2015/Intro_ERP_Using_GBI_SAP_slides.pdf) You might find it helpful as it is really similar to what we are going to learn in Core.
+###### 1. Jot down every document from the Sales and Procurement cycle.
 
-
-
-## Practice Opportunity 2. Documents from the business cycles
-
-Try to jot down as many as possible documents that are involved from the Sales and Procurement cycle.
-
-It would be excellent if you could remember them all. They will definitely serve you well in MRP module of MSIS Core! 
+(It would be necessary for you to remember them all. Knowing them will definitely serve you well in MRP module of MSIS Core! )
 
 
 
-### Practice Opportunity 3. A real SAP Case
+###### 2. In your own words, try to explain why there's no dollar amount on packing slips?
 
- [*From order-to-cash to wall-to-wall: Four SAP implementations at Smithfield Foods"*](https://journals.sagepub.com/doi/10.1177/2043886918819302)
 
-Try to make sense of this case, and tackle the case questions at the end of the case. It is challenging, but challenges are helpful!
+
+###### 3. Read A real SAP case
+
+ [*From order-to-cash to wall-to-wall: Four SAP implementations at Smithfield Foods"*](https://journals.sagepub.com/doi/10.1177/2043886918819302)[^3]
+
+Try to make sense of this case, and tackle these case questions. It is challenging, but challenges are helpful. In MSIS Core, you are expected to read and understand business cases like this and do many exercises with them.
+
+1. What were the driving factors for each implementation? In which instances did the company’s business environment force the need for an ERP system? When was the change implemented as part of the corporate strategy? Which do you think played a larger role in this process? Why?
+2. For each SAP implementation, list pros and cons. As the VP of IT what would you have done differently to help reduce the complexity and speed up the process of these changes?
+3. For the full-scale implementation, what role did each governance committee play in the process? Was there a need for two committees? What would be the pros and cons of using a single committee to arbitrate unification issues?
 
 
 
 ## Citation Footnotes
 
 [^1]: This image above is retrieved from a lecture slide deck created by Porf. Joshua Dennis from Indiana University Bloomington for class A400/S337.
-[^2]: This image above is retrieved from https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/
+[^2]: Created by MSIS student Jiaqi Xiao on 10/14/2020.
+[^3]: This is a public research article written by scholars Dmitriy S Shaltayev and Robert B Hasbrouck and it describes a case examining the transformation journey of a grocery company. 
