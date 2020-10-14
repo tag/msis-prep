@@ -1,14 +1,16 @@
 ## The Business Activities Cycles
 
-> Prof. Joshua Dennis from Indiana University Bloomington: "The business cycles begin with capturing data/information about a transaction. They end with information output, such as a financial statement or payment (similar to a system). Similar transactions are grouped together to form a business cycles"...."Business Cycles give us a framework for gathering and documenting business requirements or “business rules"
+
+
+> Prof. Joshua Dennis from Indiana University Bloomington: "The business cycles begin with capturing data/information about a transaction. They end with information output, such as a financial statement or payment (similar to a system). Similar transactions are grouped together to form a business cycles...."Business Cycles give us a framework for gathering and documenting business requirements or “business rules"
 
 There are 5 major Business Cycles:
 
-1. Procurement cycle (Expense, Purchasing, Procure to Pay)
-2. Revenue cycle (Sales, Order to Cash)
-3. Production cycle (Manufacturing or Operations)
-4. Human Resources / Payroll cycle
-5. Accounting Cycle
+1. **Procurement cycle (Expense, Purchasing, Procure to Pay)**
+2. **Revenue cycle (Sales, Order to Cash)**
+3. **Production cycle (Manufacturing or Operations)**
+4. **Human Resources / Payroll cycle**
+5. **Accounting Cycle**
 
 During the CORE, you would participate in different business activities of these cycles using SAP. Here, I would focus on introducing the **Procurement Cycle** and the **Revenue Cycle**. There are a lot of good resources online that you could find about other three cycles. You are very welcome to dig into them as knowing them would help you better understand business processes in organizations.
 
@@ -26,11 +28,7 @@ Read about the Procurement Cycle:
 
 ![Procurement_Cycle](/images/Procurement_Cycle.PNG)
 
-The above Image Source[^1]
-
-[^1]: This image above is retrieved from a lecture slide deck created by Porf. Joshua Dennis from Indiana University Bloomington for class A400/S337.
-
-
+Image Source[^1]
 
 From [the Telegraph article](https://jobs.telegraph.co.uk/article/procurement-cycle/ ) above, you could find that there are many important documents that are involved in the procurement cycle. You would find it helpful in the future if you could gain a basic understanding of them right now. They are:
 
@@ -57,11 +55,9 @@ Below are two more detailed websites explaining the stages and documents that ar
 
 [*A Walk Through The Order To Cash (O2C) Cycle*](https://www.purchasecontrol.com/blog/order-to-cash-process/)
 
-![Sales cycle](https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/hub/service/8-steps-in-the-order-to-cash-process-002.png)
+![Revenue_Cycle](/images/Revenue_Cycle.PNG)
 
-The above Image Source[^2]
-
-[^2]: This image above is retrieved from https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/
+Image Source[^2]
 
 The documents that are generated from the sales cycle are:
 
@@ -131,3 +127,10 @@ It would be excellent if you could remember them all. They will definitely serve
  [*From order-to-cash to wall-to-wall: Four SAP implementations at Smithfield Foods"*](https://journals.sagepub.com/doi/10.1177/2043886918819302)
 
 Try to make sense of this case, and tackle the case questions at the end of the case. It is challenging, but challenges are helpful!
+
+
+
+## Citation Footnotes
+
+[^1]: This image above is retrieved from a lecture slide deck created by Porf. Joshua Dennis from Indiana University Bloomington for class A400/S337.
+[^2]: This image above is retrieved from https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/
