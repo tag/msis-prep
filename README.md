@@ -2,7 +2,7 @@
 
 This project hopes to document the knowledge needed for incoming Masters of Information Systems students.
 
-The intent is to provide self-paced learning which relies primarily on outside resources. In other words, this site should be a _curation_ of existing resources rather than being a primary resource itself.
+The intent is to provide self-paced learning which relies primarily on outside resources. In other words, this site is a _curation_ of existing resources rather than being a primary resource itself.
 
 When building out content, don't simply link to outside resources, provide context and commentary. Connect resources together. Highlight the strengths of a particular resource.
 
@@ -34,11 +34,6 @@ See the documentation for more information on the installed Markdown extensions:
 
 ```bash
 pip3 install pymdown-extensions
-```
-
-Install the extension ["Truly Sane Lists"](https://github.com/radude/mdx_truly_sane_lists)
-```bash
-pip3 install mdx_truly_sane_lists
 pip3 install mdx_breakless_lists
 ```
 
