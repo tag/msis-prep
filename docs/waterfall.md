@@ -10,6 +10,8 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
 
 ## Major concepts
 
+**Please note**: There is oftentimes debate on if the Waterfall methodology has five (5) or six (6) phases. This is a direct result of phases being combined, below we have ensured they are broken out but the subsequent resources may not do the same.
+
 1. Phases of _**Waterfall**_
     1. _**Planning/Analysis:**_ Primarily focuses on gathering project requirements by conducting primary research and interviews with key project stakeholders. This phase will conclude once requirements have been clearly identified and agreed upon between the development team and stakeholders.
     2. _**Design:**_ Builds directly off of the first phase and requires no coding to occur. This phase is primarily focused on establishing the technical needs of the project.
@@ -29,11 +31,33 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
     4. Difficult to accommodate changing requirements during SDLC
     5. Big-bang Deployment; may lead to extensive deployment problems (High Risk)
 
-
+![Waterfall Methodology Lifecycle](/images/waterfall_sdlc.png "Text to show on mouseover") .
 
 ## Resources
 
-*  _**Coming Soon!**_
+*  [SDLC - Waterfall Methodology Overview][tutorials-point][^citation-one] This article briefly outlines Waterfall, its phases, and the advantages and disadvantages of utilizing the methodology in the development cycle
+[tutorials-point]:https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm
+[^citation-one]: Coming soon...
+
+*  [Waterfall Vs. Agile: Must Know Differences][guru-article][^citation-two] The attached article is great for understanding the key differences between both methodologies.
+[guru-article]:https://www.guru99.com/waterfall-vs-agile.html
+[^citation-two]: Coming soon...
+
+*  [Choosing Waterfall over Agile][smartsheet][^citation-three] This article goes in depth about the history of Waterfall, its benefits, and when to choose it over Agile.
+[smartsheet]:https://www.smartsheet.com/when-choose-waterfall-project-management-over-agile
+[^citation-three]: Coming soon...
+
+*  [What is Waterfall?][youtube-one][^citation-four] The following video provides a rundown on Waterfall and its phases.
+[![What is Waterfall?](https://img.youtube.com/vi/LxEmGNgqYJA/0.jpg)](https://www.youtube.com/watch?v=LxEmGNgqYJA)
+[youtube-one]:https://www.youtube.com/watch?v=LxEmGNgqYJA
+[^citation-four]: Coming soon....
+
+*  [Waterfall vs. Agile][youtube-two][^citation-five] This video is meant to better identify when to use Waterfall over Agile.
+[![Waterfall vs. Agile](https://img.youtube.com/vi/rvTejAg_fbY/0.jpg)](https://www.youtube.com/watch?v=rvTejAg_fbY)
+[youtube-two]:https://www.youtube.com/watch?v=rvTejAg_fbY
+[^citation-five]: Coming soon....
+
+*  _**More Coming Soon!**_
 
 ## Practice
 

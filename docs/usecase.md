@@ -62,7 +62,7 @@ There are plenty of great resources out there for learning how to effectively ut
 [^citation-six]: Lucidchart. “UML Use Case Diagram Tutorial.” Online video clip. YouTube. YouTube, 7 February 2018. Web. 10 October 2020.
 
 *  [Use Case Diagrams - Tutorial/Walkthrough][youtube-two][^citation-seven] This video dives into use case diagrams and their terminology as well as providing a step-by-step example.
-[![Use Case Walkthrough](https://img.youtube.com/vi/sQgoFjxSdxo.jpg)](https://www.youtube.com/watch?v=sQgoFjxSdxo)
+[![Use Case Walkthrough](https://img.youtube.com/vi/sQgoFjxSdxo/0.jpg)](https://www.youtube.com/watch?v=sQgoFjxSdxo)
 [youtube-two]:https://www.youtube.com/watch?v=sQgoFjxSdxo
 [^citation-seven]: Master2Teach. “Use Case Diagram - Step by Step Tutorial with Example.” Online video clip. YouTube. YouTube, 22 March 2020. Web. 10 October 2020.
 
