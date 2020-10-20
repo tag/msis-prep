@@ -32,10 +32,10 @@ Image Source[^1]
 
 From [the Telegraph article](https://jobs.telegraph.co.uk/article/procurement-cycle/ ) above, you could find that there are many important documents that are involved in the procurement cycle. You would find it helpful in the future if you could gain a basic understanding of them right now. They are:
 
-1. Purchase Order: prepared by the **buyer** when ordering goods or services
-2. Goods Receipt: prepared by the **buyer** when taking physical possession of goods
-3. Invoice / Bill: prepared by the **seller** and sent to the **buyer**
-4. Check (Payment): Prepared by the **buyer** and given to the **seller**, usually accompanied by a remittance advice to seller knows where to apply the payment
+1. **Purchase Order**: prepared by the **buyer** when ordering goods or services
+2. **Goods Receipt**: prepared by the **buyer** when taking physical possession of goods
+3. **Invoice / Bill**: prepared by the **seller** and sent to the **buyer**
+4. **Check (Payment)**: Prepared by the **buyer** and given to the **seller**, usually accompanied by a remittance advice to seller knows where to apply the payment
 
 *Note: You are encouraged to look online for examples of the above documents if you don't know what they might look like.*
 
@@ -59,10 +59,10 @@ Image Source[^2]
 
 The documents that are generated from the sales cycle are:
 
-1. Sales Order: typically a reflection of (and response to) the Purchase Order on the **Seller** side when **Buyer** sends over a purchase order.
-2. Packing Slip: Prepared by the **Seller** and transfer internally accompanies the goods and usually omits $ dollar amount as an internal control measure *(pause a second to think here: why does packing slip omit the dollar amount? Do some research!)*
-3. Invoice (Bill): Prepared by the **Seller** and sent to the **Buyer**
-4. Payment Receipt: produced by the **Seller** upon receiving payment from **Buyer** and/or may be reported on a monthly statement of account.
+1. **Sales Order**: typically a reflection of (and response to) the Purchase Order on the **seller** side when **buyer** sends over a purchase order.
+2. **Packing Slip**: Prepared by the **seller** and transfer internally accompanies the goods and usually omits $ dollar amount as an internal control measure *(pause a second to think here: why does packing slip omit the dollar amount? Do some research!)*
+3. **Invoice (Bill)**: Prepared by the **seller** and sent to the **buyer**
+4. **Payment Receipt**: produced by the **seller** upon receiving payment from **buyer** and/or may be reported on a monthly statement of account.
 
 *Note: You are encouraged to look online for examples of the above documents if you don't know what they might look like.*
 
