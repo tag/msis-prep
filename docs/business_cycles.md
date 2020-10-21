@@ -1,10 +1,18 @@
-## The Business Activities Cycles
+---
+authors:
+    - Jiaqi Xiao
+date: 2020-10-20
+---
+# The Business Activities Cycles
 
+## During the MSIS program
+During the CORE, you would participate in different business activities of some business cycles using SAP as they are essential business processes that [ERP systems](ERP/) are responsible to overlook. 
 
+------
 
-> Prof. Joshua Dennis from Indiana University Bloomington: "The business cycles begin with capturing data/information about a transaction. They end with information output, such as a financial statement or payment (similar to a system). Similar transactions are grouped together to form a business cycles...."Business Cycles give us a framework for gathering and documenting business requirements or “business rules"
+## What is Business Cycle?
 
-There are 5 major Business Cycles:
+> Prof. Joshua Dennis from Indiana University Bloomington: "The business cycles begin with capturing data/information about a transaction. They end with information output, such as a financial statement or payment (similar to a system). Similar transactions are grouped together to form a business cycles...."Business Cycles give us a framework for gathering and documenting business requirements or “business rules"There are 5 major Business Cycles:
 
 1. **Procurement cycle (Expense, Purchasing, Procure to Pay)**
 2. **Revenue cycle (Sales, Order to Cash)**
@@ -12,13 +20,19 @@ There are 5 major Business Cycles:
 4. **Human Resources / Payroll cycle**
 5. **Accounting Cycle**
 
-During the CORE, you would participate in different business activities of these cycles using SAP. Here, I would focus on introducing the **Procurement Cycle** and the **Revenue Cycle**. There are a lot of good resources online that you could find about other three cycles. You are very welcome to dig into them as knowing them would help you better understand business processes in organizations.
+Here, I would focus on introducing the **Procurement Cycle** and the **Revenue Cycle**. There are a lot of good resources online that you could find about other three cycles. You are very welcome to dig into them as knowing them would help you better understand business processes in organizations.
 
-------
+## Major Concepts
 
+### Learning Outcome
 
+- [ ]  Being able to define what a business cycle is and its significance in the companies' operations
+- [ ]  Being able to explain the purchase cycle and revenue cycle in detail.
+- [ ]  Being able to identify the document flow in the purchase and revenue cycles (There are 8 document in total).
+- [ ]   Being able to describe what the production cycle, HR cycle, and accounting cycle do.
+- [ ]   Being confident in explaning what MRP is and make examples of how it can be used in a manufacturing company in the real life.
 
-- ### Procurement Cycle (Procure-to-Pay)
+### Procurement Cycle (Procure-to-Pay)
 
 Read about the Procurement Cycle: 
 
@@ -30,24 +44,24 @@ Read about the Procurement Cycle:
 
 Image Source[^1]
 
-From [the Telegraph article](https://jobs.telegraph.co.uk/article/procurement-cycle/ ) above, you could find that there are many important documents that are involved in the procurement cycle. You would find it helpful in the future if you could gain a basic understanding of them right now. They are:
+After reading the above articles, you should find that there are many important documents that are involved in the procurement cycle. It would be most beneficial if you are able to understand those documents and how they are used within an organization. Those documents are as follows:
 
 1. **Purchase Order**: prepared by the **buyer** when ordering goods or services
 2. **Goods Receipt**: prepared by the **buyer** when taking physical possession of goods
 3. **Invoice / Bill**: prepared by the **seller** and sent to the **buyer**
 4. **Check (Payment)**: Prepared by the **buyer** and given to the **seller**, usually accompanied by a remittance advice to seller knows where to apply the payment
 
-*Note: You are encouraged to look online for examples of the above documents if you don't know what they might look like.*
+*Note: You are encouraged to look online for examples of the above documents*
 
 ------
 
 
 
-- ### Sales Cycle (Order-to-Cash)
+### Sales Cycle (Order-to-Cash)
 
-The sales cycle is the process occurred when companies are selling products to customers. It starts from receiving the purchase order from the buyers, and it ends until the accounting department has closed the transaction.
+The sales cycle is the process occurred as companies sell products to customers. It begins  when a Purchase Order (P.O.) is received from the buyers, and it ends once the Accounting Dept. has closed the transaction.
 
-Below are two more detailed websites explaining the stages and documents that are involved. Pay attention again to each step as they would generate documents that are essential for firms:
+Below are two more detailed websites explaining the stages and documents that are involved; It is important that you pay attention to each step as they would generate documents that are essential for organizations:
 
 *[Step by Step: What you Should Know About the Order-to-Cash Process (Salesforce)](https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/)* 
 
@@ -57,50 +71,51 @@ Below are two more detailed websites explaining the stages and documents that ar
 
 Image Source[^2]
 
-The documents that are generated from the sales cycle are:
+The following documents are generated within the sales cycle:
 
 1. **Sales Order**: typically a reflection of (and response to) the Purchase Order on the **seller** side when **buyer** sends over a purchase order.
 2. **Packing Slip**: Prepared by the **seller** and transfer internally accompanies the goods and usually omits $ dollar amount as an internal control measure *(pause a second to think here: why does packing slip omit the dollar amount? Do some research!)*
 3. **Invoice (Bill)**: Prepared by the **seller** and sent to the **buyer**
 4. **Payment Receipt**: produced by the **seller** upon receiving payment from **buyer** and/or may be reported on a monthly statement of account.
 
-*Note: You are encouraged to look online for examples of the above documents if you don't know what they might look like.*
+*Note: You are encouraged to look online for examples of the above documents*
 
 ------
 
 ### Other Business Activities Cycles
 
-There are five business activities cycles that you should understand before entering MSIS program.
+There are five business activities cycles that we recommend knowing as you moving into the MSIS Core .
 >1. Procurement cycle (Expense, Purchasing, Procure to Pay)
 >2. Revenue cycle (Sales, Order to Cash)
 >3. Production cycle (Manufacturing or Operations)
 >4. Human Resources / Payroll cycle
 >5. Accounting Cycle
-In this page, we have summarized the first two cycles. However, you should read about the other three cycles as you would be doing hands-on practices, labs, and simulation games for the ERP module of MSIS Core.
 
-Refer to these great articles to get familiar with the business cycles that are not described in detail, try to think about how these business activities connect to each other inside an enterprise:
+In this page, we have summarized the first two cycles. However, you should read about the other three cycles as you will participate in hands-on practices, labs, and simulation for the [ERP module](/erp) of MSIS Core.
+
+You may refer to the following articles to familiarize yourself with the business cycles that we have not detailed here. Remember, think about how these business activities connect to one other within an enterprise:
 
 #### Production Cycle:
 
 [*Step by Step: What you Should Know About the Order-to-Cash Process* (Salesforce)](https://help.ordertime.com/help/production-cycle) 
 
-We recommend you to watch the below video (of 3:03 length) created by THE BEAN COUNTERS' LAB. THE BEAN COUNTERS' LAB is a group of academics in S. Africa and they produce contents on auditing, governance, financing and management accounting for students.
+We recommend you to watch the attached video (~3 minutes) created by THE BEAN COUNTERS' LAB. THE BEAN COUNTERS' LAB is a group within academia located in S. Africa, they produce content surrounding Auditing, Governance, Financing and Management Accounting for students.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMwDwtTSSjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### MRP (Material Requirements Planning) 
+#### MRP (Material Requirements Planning) 
 
-This Video (of 3:56 length) created by Edspira does an excellent job on teaching the concepts of MRP. Edspira is a Youtube channel created by Michael McLaughlin, PhD, CPA. His mission of creating Edspria is to provide a world-class business education for free.
+The following Video (~4 minutes) created by Edspira does an excellent job of covering the concepts of MRP. Edspira is a YouTube channel created by Michael McLaughlin, PhD, CPA.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uc2gPR_MiH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Human Resources Cycle
+### Human Resources Cycle
 
-Skim this article, *[Human Resources Cycle: Comparison of models](https://www.oxford-review.com/oxford-review-encyclopaedia-terms/human-resources-cycle/)*, should give you a fairly good idea on how HR cycles could be. We will not dig deeply in the HR cycle, but it is smart for you as a future business leader to learn about it.
+The following article, *[Human Resources Cycle: Comparison of models](https://www.oxford-review.com/oxford-review-encyclopaedia-terms/human-resources-cycle/)*, gives a good idea on how HR cycles may be in industry. We do not dig deeply into the HR cycle within this module, however, it may be worthwhile to spend some time conducting external research to learn more about it.
 
-##### Accounting Cycle
+#### Accounting Cycle
 
-Carefully read [*Accounting Cycle*](https://www.investopedia.com/terms/a/accounting-cycle.asp) on Investopedia, don't forget to watch their embedded video as it would thoroughly walk you through the Accounting Cycle.
+Take a look at the [*Accounting Cycle*](https://www.investopedia.com/terms/a/accounting-cycle.asp) article on Investopedia as well as watching the embedded video as it walks you through, in depth, the Accounting Cycle.
 
 
 
@@ -122,7 +137,7 @@ Carefully read [*Accounting Cycle*](https://www.investopedia.com/terms/a/account
 
  [*From order-to-cash to wall-to-wall: Four SAP implementations at Smithfield Foods"*](https://journals.sagepub.com/doi/10.1177/2043886918819302)[^3]
 
-Try to make sense of this case, and tackle these case questions. It is challenging, but challenges are helpful. In MSIS Core, you are expected to read and understand business cases like this and do many exercises with them.
+Read over the attached case, and attempt the following case questions. Although challenging, this will help prepare you for the program as you are expected to regularly analyze cases.
 
 1. What were the driving factors for each implementation? In which instances did the company’s business environment force the need for an ERP system? When was the change implemented as part of the corporate strategy? Which do you think played a larger role in this process? Why?
 2. For each SAP implementation, list pros and cons. As the VP of IT what would you have done differently to help reduce the complexity and speed up the process of these changes?
