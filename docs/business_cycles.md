@@ -121,27 +121,21 @@ Take a look at the [*Accounting Cycle*](https://www.investopedia.com/terms/a/acc
 
 
 
-## Exercise
+## Exercises
 
-###### 1. Jot down every document from the Sales and Procurement cycle.
+1. Jot down every document from the Sales and Procurement cycle.
 
-(It would be necessary for you to remember them all. Knowing them will definitely serve you well in MRP module of MSIS Core! )
+2. In your own words, try to explain why there's no dollar amount on packing slips?
 
+3. Read A real SAP case
 
-
-###### 2. In your own words, try to explain why there's no dollar amount on packing slips?
-
-
-
-###### 3. Read A real SAP case
-
- [*From order-to-cash to wall-to-wall: Four SAP implementations at Smithfield Foods"*](https://journals.sagepub.com/doi/10.1177/2043886918819302)[^3]
-
-Read over the attached case, and attempt the following case questions. Although challenging, this will help prepare you for the program as you are expected to regularly analyze cases.
-
-1. What were the driving factors for each implementation? In which instances did the company’s business environment force the need for an ERP system? When was the change implemented as part of the corporate strategy? Which do you think played a larger role in this process? Why?
-2. For each SAP implementation, list pros and cons. As the VP of IT what would you have done differently to help reduce the complexity and speed up the process of these changes?
-3. For the full-scale implementation, what role did each governance committee play in the process? Was there a need for two committees? What would be the pros and cons of using a single committee to arbitrate unification issues?
+>[*From order-to-cash to wall-to-wall: Four SAP implementations at Smithfield Foods"*](https://journals.sagepub.com/doi/10.1177/2043886918819302)[^3]
+>
+>Read over this case, and attempt the following case questions. Although challenging, this will help prepare you for the program as you are expected to regularly analyze cases.
+>
+>1. What were the driving factors for each implementation? In which instances did the company’s business environment force the need for an ERP system? When was the change implemented as part of the corporate strategy? Which do you think played a larger role in this process? Why?
+>2. For each SAP implementation, list pros and cons. As the VP of IT what would you have done differently to help reduce the complexity and speed up the process of these changes?
+>3. For the full-scale implementation, what role did each governance committee play in the process? Was there a need for two committees? What would be the pros and cons of using a single committee to arbitrate unification issues?
 
 
 
