@@ -7,27 +7,25 @@ date: 2020-10-05
 
 # IT Controls
 
-**Before entering MSIS, you are expected to know the what IT control is, why it is useful, and how is it applied in the companies. You should also be familiar with the concept of Internal Control and some frameworks that related to it.**
-
 ## During the MSIS program
 
-This concept would be relative to many modules you would encounter in MSIS Core such as the ERP module and ITGRC module. **IT security is important** and **data is ultra-important** in any topic that's related to IT in the era of Internet.
+Before entering the MSIS program, it is expected that you are aware of IT controls, more specifically, what they are and how they can be applied in a business setting. In doing so, you will be prepared for the coursework in both the ERP and IT GRC modules. Please understand that **IT security is important** and **data is ultra-important** to todays organizations in regard to their IT infrastructure.
 
 ## Major Concepts
 
 ### Learning Outcomes
 
-- [ ] Being able to understand what is IT controls, what does it do, why is it necessary, and the two categories of IT controls.
+- [ ] Being able to understand what IT controls are, what do they do, why they are necessary, as well as be able to describe the two categories.
 - [ ] Being able to define the three types of IT controls.
-- [ ] Being able to recognize COBIT and COSO, what do they do and how are they differ.
+- [ ] Being able to recognize both the COBIT and COSO frameworks, what they are and how they differ.
 
 
 
-### What is IT Controls
+### What are IT Controls
 
 In the business world , <abbr title="information technology controls">**IT Controls**</abbr> are specific activities performed by persons/systems designed to ensure that business objectives are safely met. They are a subset of an enterprise's internal control.
 
-IT control plays critical role in assuring that the IT is correctly used, data is protected, and the organization is in compliance with laws and regulations.
+IT control plays a critical role in assuring that IT is used correctly, data is protected, and the organization is in compliance with all applicable laws and regulations.
 
 ### The Two Categories of IT Controls
 
@@ -42,19 +40,19 @@ There are two categories of IT controls: <abbr title="IT general controls">**ITG
 
     - Prevent, detect, and correct transaction errors and fraud.
     - Concerned area: data accuracy, validity, integrity, and more. 
-    - **Accuracy**: whether the **data** values stored for an object are the correct values
-    - **Validity**: the correctness and reasonableness of **data**
-    - **Integrity**: the completeness, soundness, and wholeness of the **data** that also complies with the intention of the creators of the **data**.
-  
+      - **Accuracy**: whether the **data** values stored for an object are the correct values
+      - **Validity**: the correctness and reasonableness of **data**
+      - **Integrity**: the completeness, soundness, and wholeness of the **data** that also complies with the intention of the creators of the **data**.
+
   
 
 ### Types of IT Controls
 
-- **Preventive Controls**: Deter problems before
+- **Preventive Controls**: Deter problems before they occur
 - **Detective Controls**: Discover problems after they arise
 - **Corrective Controls**: Correct and modify system
 
-There are some simple examples for you to understand these control types:
+Below are a few simple examples for you to better understand these control types:
 
 **Preventive**: Lock on door to prevent intruders.
 
@@ -127,7 +125,7 @@ Resources to read more about COBIT:
 
 
 
-*Note: There are many more IT control framework and organizations. You would learn about them soon in MSIS. Feel free to browse for the most popular ones and compare them.*
+*Note: There are many more IT control frameworks and organizations. These will be discussed during your time in the MSIS program.*
 
 
 
@@ -139,11 +137,11 @@ Read: [What Are The Differences Between COBIT & COSO](https://reciprocitylabs.co
 
 #### Exercises
 
-###### 1. What does IT control do in general? Why do you think it is necessary for companies to have this function?
+1. What does IT control do in general? Why do you think it is necessary for companies to have this function?
 
 
 
-###### 2. What data characteristics is not concerned by ITAC?
+2. What data characteristics is not concerned by ITAC?
 
 a. Integrity
 
@@ -155,11 +153,11 @@ d. Accuracy
 
 
 
-###### 3. Please in your own word describe the three types of IT controls. Also, try to come up with an example how these controls are different.
+3. Please in your own word describe the three types of IT controls. Also, try to come up with an example how these controls are different.
 
 
 
-###### 4. In your own words, explain how the following items related to the IT control industry:
+4. In your own words, explain how the following items related to the IT control industry:
 
 - COSO
 
@@ -178,7 +176,7 @@ d. Accuracy
 [^5]: Retrieved from the website of Old Dominion University.
 [^6]: The official website of COSO.
 [^7]: Retrieved from the official website of ISACA, the organization that created COBIT.
-[^8]: Retrieved from [*Simplilearn*](https://www.simplilearn.com/?&utm_source=google&utm_medium=cpc&utm_term=simplelearn&utm_content=467562499565&utm_device=c&utm_campaign=Search-Brand-Exact-US-AllDevice-adgroup-brand-simplelearn&gclid=CjwKCAjww5r8BRB6EiwArcckC025oPLwru1MLFCxiPibNCQzh0WrjEa7KU31tt8yY8FjdCOQiS-ZThoC5uAQAvD_BwE), one of the world’s leading providers of online training for Digital Marketing, AI and Machine Learning, Cloud Computing, Project Management, Data Science, IT, Software Development, and many other emerging technologies.
-[^9]: Retrieved from *[Good e-Learning](www.goodelearning.com)*. Good e-learning is the leading provider of online training for business and IT professionals around the world.
+[^8]: Retrieved from [*Simplilearn*](https://www.simplilearn.com/?&utm_source=google&utm_medium=cpc&utm_term=simplelearn&utm_content=467562499565&utm_device=c&utm_campaign=Search-Brand-Exact-US-AllDevice-adgroup-brand-simplelearn&gclid=CjwKCAjww5r8BRB6EiwArcckC025oPLwru1MLFCxiPibNCQzh0WrjEa7KU31tt8yY8FjdCOQiS-ZThoC5uAQAvD_BwE), a providers of online training for emerging technologies like Digital Marketing, AI and Machine Learning, Cloud Computing, etc.
+[^9]: Retrieved from *[Good e-Learning](www.goodelearning.com)*. Good e-learning is a provider of online training for business and IT professionals around the world.
 [^10]:Retrieved from the blog of *Joe the IT Guy*. He works for [*SysAid Technologies*](https://www.sysaid.com/), an international company founded in 2002 that develops and provides IT Service Management software.
 [^11]: Retrieved from [*Reciprocity*](https://reciprocitylabs.com/), a computer software company that specialized in IT risk and compliance management. 
