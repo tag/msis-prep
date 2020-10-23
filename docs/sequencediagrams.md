@@ -48,11 +48,11 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 *  [Sequence Diagrams 101 (General Overview)][visual-link][^citation-one] This article serves as a good overview of sequence diagrams by discussing their purpose, main components, and how to use them.
 [visual-link]:https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
-[^citation-one]: *["What Is Sequence Diagram?"](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/)* What Is Sequence Diagram?", Visual Paradigm, www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/.  
+[^citation-one]: ["What Is Sequence Diagram?"](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/) What Is Sequence Diagram?", Visual Paradigm.
 
 *  [Sequence Diagrams (Chapter 10, with Questions)][chapter-resource][^citation-two] The attached Chapter offers a high-level overview of sequence diagrams alongside various exercises you may complete.
 [chapter-resource]:https://www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf
-[^citation-two]: "Sequence Diagrams", Kasetsart University, www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf
+[^citation-two]: ["Sequence Diagram?"](https://www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf) Kasetsart University.
 
 *  [Sequence Diagrams 101 (Video Refresher)][youtube-one][^citation-three] This video offers a very low-level explanation of sequence diagrams and its components while integrating a step-by-step example.
 [![Sequence Diagrams 101 (Video Refresher)](https://img.youtube.com/vi/_Mzi1rYtI5U/0.jpg)](https://www.youtube.com/watch?v=_Mzi1rYtI5U)
@@ -81,12 +81,12 @@ Here is a small list of practice problems (with answers!) that you may find usef
 *  [ATM Withdrawal (Answer Provided)][atm-practice] As a user, arrive to the ATM and conduct the standard withdrawal process in order to retrieve money. This set of practice problem(s) includes both a non-verifying and verifying sequence.[^citation-seven]
 [atm-practice]:https://norsamsiah.files.wordpress.com/2010/01/lab4answer1.pdf
 
-[^citation-seven]: Sani, Nor Samsiah. "Lab 004 - In-Class Exercise Answer". norsamsiah.files.wordpress.com/2010/01/lab4answer1.pdf.
+[^citation-seven]: Sani, Nor Samsiah. ["Lab 004 - In-Class Exercise Answer"](https://norsamsiah.files.wordpress.com/2010/01/lab4answer1.pdf)
 
 *  [Name elements, Identify Errors, and efficiency issues][various-exercises] The attached exercise(s) allow you to practice identifying elements of a Sequence Diagrams along with ensuring you are able to detect errors and efficiency problems.[^citation-eight]
 [various-exercises]:http://users.csc.calpoly.edu/~jdalbey/305/Labs/SequenceDiagramExercises.html
 
-[^citation-eight]: Dalbey, John. "Sequence Diagram Exercises", users.csc.calpoly.edu/~jdalbey/305/Labs/SequenceDiagramExercises.html.
+[^citation-eight]: Dalbey, John. ["Sequence Diagram Exercises"](https://users.csc.calpoly.edu/~jdalbey/305/Labs/SequenceDiagramExercises.html), California Polytechnic State University.
 
 *  [Interactions with Actor and System (Answer Provided)][club-practice] Assume the role of a Country Club owner, you will be required to make requests to the system in order to identify active members, club sales as well as what the those sales consisted of. Before moving onto the next request ensure that the Owner has received the previously requested information.[^citation-nine]
 [club-practice]:/images/club-practice.png
