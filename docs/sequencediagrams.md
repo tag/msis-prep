@@ -48,7 +48,7 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 *  [Sequence Diagrams 101 (General Overview)][visual-link][^citation-one] This article serves as a good overview of sequence diagrams by discussing their purpose, main components, and how to use them.
 [visual-link]:https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
-[^citation-one]: "What Is Sequence Diagram?", Visual Paradigm, www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/.  
+[^citation-one]: *["What Is Sequence Diagram?"](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/)* What Is Sequence Diagram?", Visual Paradigm, www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/.  
 
 *  [Sequence Diagrams (Chapter 10, with Questions)][chapter-resource][^citation-two] The attached Chapter offers a high-level overview of sequence diagrams alongside various exercises you may complete.
 [chapter-resource]:https://www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf
