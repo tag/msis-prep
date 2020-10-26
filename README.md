@@ -45,3 +45,4 @@ To locally build and test the site, run the following from the command line:
 ```bash
 mkdocs serve
 ```
+pip install mkdocs-material
