@@ -51,7 +51,7 @@ Before entering the MSIS program, you should be able to do the following:
 
 ## HTML and CSS
 
-1. Now that you have been introduced to website prototyping, you are ready to start learning the basics of HTML and CSS. Complete this [Into to HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css) module on Khan Academy. It is the best free resource you can get to learn these languages. It contains videos, quick tips and challenges that will give you good hands-on experience on HTML and CSS.
+1. Now that you have been introduced to website prototyping, you are ready to start learning the basics of HTML and CSS. Complete this [Intro to HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css) module on Khan Academy. It is the best free resource you can get to learn these languages. It contains videos, quick tips and challenges that will give you good hands-on experience on HTML and CSS.
 
 ## Practice
 
