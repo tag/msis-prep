@@ -33,7 +33,9 @@ There are two categories of IT controls: <abbr title="IT general controls">**ITG
 
 - **ITGC:** 
   
-    - the procedures/policies of organizations' control environment processes are stable and well-managed:  [risk management](https://www.investopedia.com/terms/e/enterprise-risk-management.asp)[^1], [change management](https://www.prosci.com/resources/articles/what-is-change-management)[^2], [disaster recovery](https://www.vmware.com/topics/glossary/content/disaster-recovery)[^3]  (Skim through these process to grab a basic understanding for now, you should be able to learn more about these processes in ITGRC ==link to ITGRC once built== module.)
+    - the procedures/policies of organizations' control environment processes are stable and well-managed:  [risk management](https://www.investopedia.com/terms/e/enterprise-risk-management.asp)[^1], [change management](https://www.prosci.com/resources/articles/what-is-change-management)[^2], [disaster recovery](https://www.vmware.com/topics/glossary/content/disaster-recovery)[^3]  (Skim through these process to grab a basic understanding for now, you should be able to learn more about these processes in ITGRC module.)
+
+<!-- link to ITGRC once built -->
 - Example: Security Management Controls
   
 - **ITAC**
@@ -143,13 +145,13 @@ Read: [What Are The Differences Between COBIT & COSO](https://reciprocitylabs.co
 
 2. What data characteristics is not concerned by ITAC?
 
-a. Integrity
+    a. Integrity
 
-b. Validity
+    b. Validity
 
-c. Timeliness
+    c. Timeliness
 
-d. Accuracy
+    d. Accuracy
 
 
 
@@ -159,11 +161,11 @@ d. Accuracy
 
 4. In your own words, explain how the following items related to the IT control industry:
 
-- COSO
+    - COSO
 
-- COBIT
+    - COBIT
 
-- SOX
+    - SOX
 
   
 

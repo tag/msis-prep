@@ -42,13 +42,23 @@ In software development world, Agile describes [a set of values and principles i
 
 Besides these fundamental values, the Agile practices approach software development through collaborate effort of teams, and it values elements including fast delivery, flexibility, feedback from end-users, and continuous evolutions.  These values and practices are carried out in lots of software development frameworks. We will touch on one of them, Scrum, in this section later.
 
-Watch this video (~12min) created by Mark Shead, an Agile coach and software engineer,[^2]as the video explains Agile in-depth regarding its values and principals. You should be very familiar with Agile after watching it.
+Watch this video (~12min) created by Mark Shead, an Agile coach and software engineer,[^2]as the video explains Agile in-depth regarding its values and principals. You should be familiar with the concepts of Agile after watching it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z9QbYZh1YXY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
+## Agile Model
 
+insert pic
+
+
+
+
+
+## Why is Agile important in <abbr title="Systems development life cycle">**SDLC**</abbr>?
+
+Depends on the nature of a project, different SDLC methodologies can be used. Agile SDLC models stands out from 
 
 
 
