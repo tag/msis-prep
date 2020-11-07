@@ -48,6 +48,7 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 *  [Sequence Diagrams 101 (General Overview)][visual-link][^citation-one] This article serves as a good overview of sequence diagrams by discussing their purpose, main components, and how to use them.
 [visual-link]:https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
+
 [^citation-one]: ["What Is Sequence Diagram?"](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/) What Is Sequence Diagram?", Visual Paradigm.
 
 *  [Sequence Diagrams (Chapter 10, with Questions)][chapter-resource][^citation-two] The attached Chapter offers a high-level overview of sequence diagrams alongside various exercises you may complete.
@@ -57,6 +58,7 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 *  [Sequence Diagrams 101 (Video Refresher)][youtube-one][^citation-three] This video offers a very low-level explanation of sequence diagrams and its components while integrating a step-by-step example.
 [![Sequence Diagrams 101 (Video Refresher)](https://img.youtube.com/vi/_Mzi1rYtI5U/0.jpg)](https://www.youtube.com/watch?v=_Mzi1rYtI5U)
 [youtube-one]:https://www.youtube.com/watch?v=_Mzi1rYtI5U
+
 [^citation-three]: Master2Teach. [“Sequence Diagram - Step by Step Guide with Example.”](https://www.youtube.com/watch?v=_Mzi1rYtI5U) Online video clip. YouTube. YouTube, 14 April 2020. Web. 10 October 2020.
 
 *  [Sequence Diagrams (Coding Example)][youtube-two][^citation-four] The attached video compares sequence diagrams to coding examples in an effort to relate the two together.
@@ -92,3 +94,6 @@ Here is a small list of practice problems (with answers!) that you may find usef
 [club-practice]:/images/club-practice.png
 
 [^citation-nine]: Exercise adapted from Professor Alex Lopes, Indiana University at Bloomington, BUS-S310 Class examples.
+
+*  _**More Coming Soon!**_
+

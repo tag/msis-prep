@@ -38,6 +38,7 @@ There are plenty of great resources out there for learning how to effectively ut
 
 *  [What is a Use Case Diagram?][visual-link][^citation-one] This article serves as a good overview of use case diagrams by offering insight into their components and how to identify Use Cases and the associated Actors.
 [visual-link]:https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/
+
 [^citation-one]: ["What Is Use Case Diagram?"](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/), Visual Paradigm.
 
 *  [Use Case Diagrams - In-depth][courses-cs][^citation-two] The attached slide deck breaks down use case diagrams in depth, while discussing their benefits, terminology, and more.
@@ -59,6 +60,7 @@ There are plenty of great resources out there for learning how to effectively ut
 *  [Use Case Diagrams - Tutorial/Walkthrough][youtube-one][^citation-six] The attached video serves as a tutorial for use case diagrams and their components while using Lucidchart.
 [![Use Case Walkthrough](https://img.youtube.com/vi/zid-MVo7M-E/0.jpg)](https://www.youtube.com/watch?v=zid-MVo7M-E)
 [youtube-one]:https://www.youtube.com/watch?v=zid-MVo7M-E
+
 [^citation-six]:Lucidchart. [“UML Use Case Diagram Tutorial.”](https://www.youtube.com/watch?v=zid-MVo7M-E) Online video clip. YouTube. YouTube, 7 February 2018. Web. 10 October 2020.
 
 *  [Use Case Diagrams - Tutorial/Walkthrough][youtube-two][^citation-seven] This video dives into use case diagrams and their terminology as well as providing a step-by-step example.
@@ -82,3 +84,6 @@ Below you will find a condensed list of walkthroughs and practice exercises pert
 
 [use-case-practice]:https://www.uml-diagrams.org/use-case-diagrams-examples.html
 [^citation-eight]: Fakhroutdinov, Kirill. ["UML Use Case Diagram Examples"](https://www.uml-diagrams.org/use-case-diagrams-examples.html).
+
+_**Coming Soon!**_
+
