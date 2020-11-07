@@ -13,12 +13,13 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
 **Please note**: There is oftentimes debate on if the Waterfall methodology has five (5) or six (6) phases. This is a direct result of phases being combined, below we have ensured they are broken out but the subsequent resources may not do the same.
 
 1. Phases of _**Waterfall**_
-    1. _**Planning/Analysis:**_ Primarily focuses on gathering project requirements by conducting primary research and interviews with key project stakeholders. This phase will conclude once requirements have been clearly identified and agreed upon between the development team and stakeholders.
-    2. _**Design:**_ Builds directly off of the first phase and requires no coding to occur. This phase is primarily focused on establishing the technical needs of the project.
-    3. _**Construction/Build:**_ Involves the main build-out of the desired solution, this phase tends to be code heavy and aims to meet the requirements set fourth throughout the previous two phases.  
-    4. _**Testing:**_ Occurs once  main software development has concluded; issues may arise causing you to revert to the previous phase.
-    5. _**Implementation/Deployment:**_ Product development has concluded and the final deliverable will now be put into use throughout an organization. This signals the move to post-development support.
-    6. _**Maintenance/Support:**_ Occurs once the final product has been delivered and is actively being used within an organization. _When_, not if, issues arise, your team must be ready to respond and update the software to address those issues. On occasion issues may require you to roll back the product version to a previously stable version.
+    1. _**Planning/Analysis:**_ Focuses on determining project goals and crafting a high-level plan for the intended project. This is the most fundamental and critical phase.
+    2. _**Analysis:**_ This phase analyzes end user requirements and project goals and converts them into the defined system functions the organization intends to develop.
+    3. _**Design:**_ Builds directly off of the first two phases and requires no coding to occur. This phase is primarily focused on establishing the technical needs of the project.
+    4. _**Construction/Build:**_ Involves the main build-out of the desired solution, this phase tends to be code heavy and aims to meet the requirements set fourth throughout the previous two phases.  
+    5. _**Testing:**_ Occurs once  main software development has concluded; issues may arise causing you to revert to the previous phase.
+    6. _**Implementation/Deployment:**_ Product development has concluded and the final deliverable will now be put into use throughout an organization. This signals the move to post-development support.
+    7. _**Maintenance/Support:**_ Occurs once the final product has been delivered and is actively being used within an organization. _When_, not if, issues arise, your team must be ready to respond and update the software to address those issues. On occasion issues may require you to roll back the product version to a previously stable version.
 2. Primary _**Advantages**_ of Waterfall
     1. Simple, easy to utilize on small projects
     2. Centralized, great for Communication throughout the <abbr title = "Software Development Lifecycle"> SDLC </abbr>
@@ -31,7 +32,7 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
     4. Difficult to accommodate changing requirements during SDLC
     5. Big-bang Deployment; may lead to extensive deployment problems (High Risk)
 
-![Waterfall Methodology Lifecycle](/images/waterfall_sdlc.png "Text to show on mouseover") .
+![Waterfall Methodology Lifecycle](/images/waterfall_lifecycle.png "Text to show on mouseover") .
 
 ## Resources
 
