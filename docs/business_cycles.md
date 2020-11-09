@@ -151,3 +151,5 @@ Take a look at the [*Accounting Cycle*](https://www.investopedia.com/terms/a/acc
 [^1]: This image above is retrieved from a lecture slide deck created by Porf. Joshua Dennis from Indiana University Bloomington for class A400/S337.
 [^2]: Created by MSIS student Jiaqi Xiao on 10/14/2020.
 [^3]: This is a public research article written by scholars Dmitriy S Shaltayev and Robert B Hasbrouck and it describes a case examining the transformation journey of a grocery company. 
+
+
