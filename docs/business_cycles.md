@@ -6,9 +6,23 @@ date: 2020-10-20
 # The Business Activities Cycles
 
 ## During the MSIS program
-During the CORE, you would participate in different business activities of some business cycles using SAP as they are essential business processes that [ERP systems](ERP/) are responsible to overlook. 
+During your time in the MSIS program you will participate in various business activities that make up the business cycles found in SAP. It is key that you understand how these activities build into the overall cycles so you can better understand the [ERP system](/ERP) and how it works.
 
 ------
+
+### Learning Outcome
+
+- [ ] Being able to define what a business cycle is and its significance in the companies' operations
+
+- [ ] Being able to explain the purchase cycle and revenue cycle in detail.
+
+- [ ] Being able to identify the document flow in the purchase and revenue cycles (There are 8 document in total).
+
+- [ ] Being able to describe what the production cycle, HR cycle, and accounting cycle do.
+
+- [ ] Being confident in explaining what MRP is and make examples of how it can be used in a manufacturing company in the real life.
+
+  
 
 ## What is Business Cycle?
 
@@ -20,17 +34,9 @@ During the CORE, you would participate in different business activities of some 
 4. **Human Resources / Payroll cycle**
 5. **Accounting Cycle**
 
-Here, I would focus on introducing the **Procurement Cycle** and the **Revenue Cycle**. There are a lot of good resources online that you could find about other three cycles. You are very welcome to dig into them as knowing them would help you better understand business processes in organizations.
+Throughout this module we will focus primarily on both the **Procurement Cycle** and the **Revenue Cycle**. However, if you wish to learn more about the remaining three cycles there are plenty of helpful online resources that you may rely on. If you have any questions, please reach out to the MSIS faculty as they will be happy to discuss these cycles or answer any outstanding questions.
 
 ## Major Concepts
-
-### Learning Outcome
-
-- [ ]  Being able to define what a business cycle is and its significance in the companies' operations
-- [ ]  Being able to explain the purchase cycle and revenue cycle in detail.
-- [ ]  Being able to identify the document flow in the purchase and revenue cycles (There are 8 document in total).
-- [ ]   Being able to describe what the production cycle, HR cycle, and accounting cycle do.
-- [ ]   Being confident in explaning what MRP is and make examples of how it can be used in a manufacturing company in the real life.
 
 ### Procurement Cycle (Procure-to-Pay)
 
@@ -63,7 +69,7 @@ The sales cycle is the process occurred as companies sell products to customers.
 
 Below are two more detailed websites explaining the stages and documents that are involved; It is important that you pay attention to each step as they would generate documents that are essential for organizations:
 
-*[Step by Step: What you Should Know About the Order-to-Cash Process (Salesforce)](https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/)* 
+*[Step by Step: What you Should Know About the Order-to-Cash Process (Salesforce)](https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/)*
 
 [*A Walk Through The Order To Cash (O2C) Cycle*](https://www.purchasecontrol.com/blog/order-to-cash-process/) from PurchaseControl. PurchaseControl created a SaaS-based cloud spend management system for many businesses to help with controls over their financial operations.
 
@@ -85,6 +91,7 @@ The following documents are generated within the sales cycle:
 ### Other Business Activities Cycles
 
 There are five business activities cycles that we recommend knowing as you moving into the MSIS Core .
+
 >1. Procurement cycle (Expense, Purchasing, Procure to Pay)
 >2. Revenue cycle (Sales, Order to Cash)
 >3. Production cycle (Manufacturing or Operations)
@@ -97,7 +104,7 @@ You may refer to the following articles to familiarize yourself with the busines
 
 #### Production Cycle:
 
-[*Step by Step: What you Should Know About the Order-to-Cash Process* (Salesforce)](https://help.ordertime.com/help/production-cycle) 
+[*Step by Step: What you Should Know About the Order-to-Cash Process* (Salesforce)](https://help.ordertime.com/help/production-cycle)
 
 We recommend you to watch the attached video (~3 minutes) created by THE BEAN COUNTERS' LAB. THE BEAN COUNTERS' LAB is a group within academia located in S. Africa, they produce content surrounding Auditing, Governance, Financing and Management Accounting for students.
 
