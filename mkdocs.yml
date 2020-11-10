@@ -19,6 +19,8 @@ nav:
       - 'Programming' : 'programming.md'
       - 'Statistics' : 'statistics.md'
       - 'Prototyping' : 'prototyping.md'
+      - 'Waterfall Development' : 'waterfall.md'
+
 
 extra_css:
   - "css/styles.css"
