@@ -10,6 +10,15 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
 
 ## Major concepts
 
+**You should be have an understanding of the waterfall development method** and understand when it is best to apply it over development methodologies.
+
+1. Explain the various phases of  _**waterfall**_ development.
+2. Understand the benefits and disadvantages of utilizing _**Waterfall**_ over _**agile**_
+3. Be able to determine if your project would be best served using the _**waterfall**_ methodology.
+4. Recognize the history of the _**waterfall methodology.**_
+
+##Components Explained
+
 **Please note**: There is oftentimes debate on if the Waterfall methodology has between five (5) or seven (7) phases. This is a direct result of phases being combined, below we have ensured they are broken out but the subsequent resources may not do the same.
 
 1. Phases of _**Waterfall**_
@@ -36,24 +45,24 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
 
 ## Resources
 
-*  [SDLC - Waterfall Methodology Overview][tutorials-point][^citation-one] This article briefly outlines Waterfall, its phases, and the advantages and disadvantages of utilizing the methodology in the development cycle
+*  [SDLC - Waterfall Methodology Overview][tutorials-point][^citation-one] This article briefly outlines _**Waterfall, its phases, and the advantages and disadvantages**_ of utilizing the methodology in the development cycle
 [tutorials-point]:https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm
 [^citation-one]: ["SDLC - Waterfall Model"](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm)
 
-*  [Waterfall Vs. Agile: Must Know Differences][guru-article][^citation-two] The attached article is great for understanding the key differences between both methodologies.
+*  [Waterfall Vs. Agile: Must Know Differences][guru-article][^citation-two] The attached article is great for understanding the key _**differences between both methodologies.**_
 [guru-article]:https://www.guru99.com/waterfall-vs-agile.html
-[^citation-two]:[“Agile Vs Waterfall: Know the Difference Between Methodologies.](https://www.guru99.com/waterfall-vs-agile.html) Guru99
+[^citation-two]:[“Agile Vs Waterfall: Know the Difference Between Methodologies.](https:/8/www.guru99.com/waterfall-vs-agile.html) Guru99
 
-*  [Choosing Waterfall over Agile][smartsheet][^citation-three] This article goes in depth about the history of Waterfall, its benefits, and when to choose it over Agile.
+*  [Choosing Waterfall over Agile][smartsheet][^citation-three] This article goes in depth about the _**history of Waterfall, its benefits, and when to choose it over Agile.**_
 [smartsheet]:https://www.smartsheet.com/when-choose-waterfall-project-management-over-agile
 [^citation-three]: Eby, Kate. [“Using Waterfall Project Management Over Agile.”](https://www.smartsheet.com/when-choose-waterfall-project-management-over-agile) Smartsheet, 28 Sept. 2016
 
-*  [What is Waterfall?][youtube-one][^citation-four] The following video provides a rundown on Waterfall and its phases.
+*  [What is Waterfall?][youtube-one][^citation-four] The following video provides a rundown on _**Waterfall and its phases.**_
 [![What is Waterfall?](https://img.youtube.com/vi/LxEmGNgqYJA/0.jpg)](https://www.youtube.com/watch?v=LxEmGNgqYJA)
 [youtube-one]:https://www.youtube.com/watch?v=LxEmGNgqYJA
 [^citation-four]: Codeacademy. [“Software Development Methodology: What is Waterfall?”](https://www.youtube.com/watch?v=LxEmGNgqYJA) Online video clip. YouTube. YouTube, 22 Feb 2019. Web. 6 November 2020.
 
-*  [Waterfall vs. Agile][youtube-two][^citation-five] This video is meant to better identify when to use Waterfall over Agile.
+*  [Waterfall vs. Agile][youtube-two][^citation-five] This video is meant to better _**identify when to use Waterfall over Agile**_.
 [![Waterfall vs. Agile](https://img.youtube.com/vi/rvTejAg_fbY/0.jpg)](https://www.youtube.com/watch?v=rvTejAg_fbY)
 [youtube-two]:https://www.youtube.com/watch?v=rvTejAg_fbY
 [^citation-five]: edureka!. [“Agile vs Waterfall | Which Software Development Approach Would You Choose? | Edureka”](https://www.youtube.com/watch?v=rvTejAg_fbY) Online video clip. YouTube. YouTube, 15 Aug 2019. Web. 6 November 2020.
