@@ -4,11 +4,11 @@ authors:
 date: 2020-10-21
 ---
 
-# Agile
+# Agile  
 
 ## During the MSIS program
 
-There are many module of MSIS Core that would cover the concept of Agile as it is now a very popular and common software development practice in IT industry. What you would learn from this page will help you gain a good understanding of the fundamentals of Agile development, and prepare you to learn more advanced concept and do hands-on practice with Agile development in the MSIS.
+Throughout the MSIS Core you will cover the concept of Agile, a now popular and common software development practice found primarily within the Information Technology Industry. The material outlined throughout this module will ensure you have a basic understanding of the fundamental concepts related to Agile in order to prepare you to make informed decisions regarding the practice and when it appropriate to use it.
 
  
 
@@ -16,16 +16,16 @@ There are many module of MSIS Core that would cover the concept of Agile as it i
 
 ### Learning Outcome
 
-- [ ] Being able to define Agile, and know what it values.
-- [ ] Being able to identify some advantages and disadvantages of Agile.
-- [ ] Being able to describe the process of Scrum.
-- [ ] Being able to explain the key terms of Scrum methodology that are listed in the exercises.
+- [ ] Define Agile, and know what it values.
+- [ ] Identify some advantages and disadvantages of Agile.
+- [ ] Describe the process of Scrum.
+- [ ] Explain the key terms of Scrum methodology that are listed in the exercises.
 
 
 
 ## What is Agile? 
 
-In software development world, Agile describes [a set of values and principles in a manifesto]( http://agilemanifesto.org/)for software development. 
+In the software development world, Agile describes [a set of values and principles in a manifesto]( http://agilemanifesto.org/)for software development.
 
 > "We are uncovering better ways of developing
 > software by doing it and helping others do it.
@@ -41,9 +41,9 @@ In software development world, Agile describes [a set of values and principles i
 >
 > -*Manifesto for Agile Software Development*
 
-Besides these fundamental values, the Agile practices approach software development through collaborate effort of teams, and it values elements including fast delivery, flexibility, feedback from end-users, and continuous evolutions.  These values and practices are carried out in lots of software development frameworks. We will touch on one of them, Scrum, in this section later.
+Besides these fundamental values, the Agile practice approaches software development through collaborative effort of teams, and it values elements including fast delivery, flexibility, feedback from end-users, and continuous iterations.  These values and practices are carried out across many other software development frameworks. We will touch on one of them, Scrum, later within this module.
 
-Watch this video (~12min) created by Mark Shead, an Agile coach and software engineer,[^1]as the video explains Agile in-depth regarding its values and principals. You should be familiar with the concepts of Agile after watching it.
+Watch this video (~12min) created by Mark Shead, an Agile coach and software engineer,[^1]as he video explains Agile in-depth regarding its values and principals. Upon completion you should be familiar with the basic outline of Agile.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z9QbYZh1YXY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -51,9 +51,9 @@ Watch this video (~12min) created by Mark Shead, an Agile coach and software eng
 
 ## Agile Model
 
-As Agile believes that software development projects are unique, Agile models require continuous improvements that are tailored to suit requirements at different stages. When working in the Agile style, teams always divided the project based to small time frames as time boxes to deliver specific features or updates for each release. 
+As Agile believes that software development projects are unique, Agile models require continuous improvements that are tailored to suit requirements at different stages. When working with Agile, teams turn projects into small, continuous deliverables spread out across many phases.
 
-Releases happen at the end of each time box. During a fixed time period, the team would take an iterative approach to try to meet requirement. Every period is also called an iteration. When an iteration is over, developers would communicate with the clients, gather feedback and plan for new features for next iteration.
+Releases happen at the end of each phase. During a fixed time period, the team would take an iterative approach to try to meet all necessary requirements. Each phase can also be called an iteration. When an iteration is over, developers would with clients to gather feedback and plan for new features for next iteration.
 
 Here is a graphical illustration of the Agile Model. The picture is retrieved from Tutorialspoint[^2], 
 
