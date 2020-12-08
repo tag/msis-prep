@@ -35,17 +35,17 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 ## Resources
 
-There are plenty of great resources out there for learning how to effectively utilize _**Use Case Diagrams**_ when representing the interaction between an actor/user and various use cases/tasks in a system. We have highlighted below a variety of these resources to assist you in understanding the basics of Use Case Diagrams as well as providing a simple refresher.
+There are plenty of great resources out there for learning how to effectively utilize _**use case diagrams**_ when representing the interaction between an actor/user and various use cases/tasks in a system. We have highlighted below a variety of these resources to assist you in understanding the basics of use case diagrams as well as providing a simple refresher.
 
 *  [What is a Use Case Diagram?][visual-link][^citation-one] This article serves as a good overview of use case diagrams by offering insight into their components and how to _**identify use cases**_ and the _**associated actors.**_
 [visual-link]:https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/
 [^citation-one]: ["What Is Use Case Diagram?"](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/), Visual Paradigm.
 
-*  [Use Case Diagrams - In-depth][courses-cs][^citation-two] The attached slide deck breaks down use case diagrams in depth, while discussing their benefits, _**major concepts**_, and more.
+*  [Use Case Diagrams - In-depth][courses-cs][^citation-two] The attached slide deck breaks down use case diagrams in depth, while discussing their _**benefits, how to identify actors, setting up relationships**_ and more.
 [courses-cs]:https://courses.cs.washington.edu/courses/cse403/16au/lectures/L04.pdf
 [^citation-two]: Torlak, Emina. ["Use Cases"](https://courses.cs.washington.edu/courses/cse403/16au/lectures/L04.pdf), University of Washington.
 
-*  [Constructing Use Case Diagrams][sourcemaking][^citation-three] This resource expands on how to _**construct**_ a use case diagram by bringing together the _**major concepts**_ previously outlined.
+*  [Constructing Use Case Diagrams][sourcemaking][^citation-three] This resource expands on how to _**construct**_ a use case diagram by bringing together major concepts such as _**identifying actors**_ and establishing _**relationships**_ among those actors.
 [sourcemaking]:https://sourcemaking.com/uml/modeling-business-systems/external-view/constructing-use-case-diagrams
 [^citation-three]: ["Constructing Use Case Diagrams"](https://sourcemaking.com/uml/modeling-business-systems/external-view/constructing-use-case-diagrams), Souremaking.
 
@@ -59,12 +59,12 @@ attached reading serves as a resource to better understand what a use case diagr
 [guru99]:https://www.guru99.com/use-case-diagrams-example.html
 [^citation-five]: ["UML Use Case Diagram: Tutorial with EXAMPLE"](https://www.guru99.com/use-case-diagrams-example.html), Guru99.
 
-*  [Use Case Diagrams - Tutorial/Walkthrough][youtube-one][^citation-six] The attached video serves as a tutorial for use case diagrams and the associated _**major concepts**_ while using Lucidchart.
+*  [Use Case Diagrams - Tutorial/Walkthrough][youtube-one][^citation-six] The attached video serves as a tutorial for use case diagrams while covering both _**actors**_ and _**relationships.**_
 [![Use Case Walkthrough](https://img.youtube.com/vi/zid-MVo7M-E/0.jpg)](https://www.youtube.com/watch?v=zid-MVo7M-E)
 [youtube-one]:https://www.youtube.com/watch?v=zid-MVo7M-E
 [^citation-six]:Lucidchart. [“UML Use Case Diagram Tutorial.”](https://www.youtube.com/watch?v=zid-MVo7M-E) Online video clip. YouTube. YouTube, 7 February 2018. Web. 10 October 2020.
 
-*  [Use Case Diagrams - Tutorial/Walkthrough][youtube-two][^citation-seven] This video dives into use case diagrams and their _**major concepts**_ all while providing a step-by-step example.
+*  [Use Case Diagrams - Tutorial/Walkthrough][youtube-two][^citation-seven] This video dives into _**use case diagrams, actors, relationships, and descriptions**_ all while providing a step-by-step tutorial.
 [![Use Case Walkthrough](https://img.youtube.com/vi/sQgoFjxSdxo/0.jpg)](https://www.youtube.com/watch?v=sQgoFjxSdxo)
 [youtube-two]:https://www.youtube.com/watch?v=sQgoFjxSdxo
 [^citation-seven]: Master2Teach. [“Use Case Diagram - Step by Step Tutorial with Example.”](https://www.youtube.com/watch?v=sQgoFjxSdxo) Online video clip. YouTube. YouTube, 22 March 2020. Web. 10 October 2020.

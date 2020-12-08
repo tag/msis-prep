@@ -30,14 +30,14 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 2. Understand the role _**actors**_ play within a sequence diagram (refer back to the _Use Case Diagram_ module!).
 3. Know where a _**lifeline**_ is used.
 4. Understand the basic flow of messages using _**execution occurrence**_.
-5. Gather an understanding of what a _**kill is**_, despite it not being commonly used.
+5. Describe a _**kill**_, and understand when it is to be used within your diagrams.
 6. Explain the different types of _**communication**_ methods within a sequence diagram.
-7. Be able to apply, and build _**loops**_ as needed within your final diagrams.
+7. Understand how to build _**loops**_ and be able to determine when they are best used within your final diagrams.
 
 
 ## Components Explained
 
-**Please note**: Some of these concepts may go by slightly different names throughout both the Resource and Practice sections. However, their uses remain the same.
+**Disclaimer**: Some of these concepts may go by slightly different names throughout both the Resource and Practice sections. However, their uses remain the same.
 
 1. Types of _**Classes**_
     1. Boundaries: Boundaries are only able to talk to Controllers or Actors.
@@ -59,7 +59,7 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 ## Resources
 
-*  [Sequence Diagrams 101 (General Overview)][visual-link][^citation-one] This article serves as a good overview of sequence diagrams by discussing their purpose, _**main concepts**_, and how to use them.
+*  [Sequence Diagrams 101 (General Overview)][visual-link][^citation-one] This article serves as a good overview of sequence diagrams by discussing their purpose as well as diving more into _**actors, lifelines, activations, loops, etc.**_
 [visual-link]:https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
 [^citation-one]: ["What Is Sequence Diagram?"](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/) What Is Sequence Diagram?", Visual Paradigm.
 
@@ -67,7 +67,7 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 [chapter-resource]:https://www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf
 [^citation-two]: ["Sequence Diagram?"](https://www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf) Kasetsart University.
 
-*  [Sequence Diagrams 101 (Video Refresher)][youtube-one][^citation-three] This video offers a very low-level explanation of sequence diagrams and the associated _**main concepts**_  through a step-by-step example.
+*  [Sequence Diagrams 101 (Video Refresher)][youtube-one][^citation-three] This video offers a very low-level explanation of sequence diagrams and the associated concepts such as _**classes, actors, lifelines, messages, and more**_  through a step-by-step example.
 [![Sequence Diagrams 101 (Video Refresher)](https://img.youtube.com/vi/_Mzi1rYtI5U/0.jpg)](https://www.youtube.com/watch?v=_Mzi1rYtI5U)
 [youtube-one]:https://www.youtube.com/watch?v=_Mzi1rYtI5U
 [^citation-three]: Master2Teach. [“Sequence Diagram - Step by Step Guide with Example.”](https://www.youtube.com/watch?v=_Mzi1rYtI5U) Online video clip. YouTube. YouTube, 14 April 2020. Web. 10 October 2020.
@@ -77,7 +77,7 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 [youtube-two]:https://www.youtube.com/watch?v=EoXKS-0S3qs
 [^citation-four]: Jones, Brandan. [“Model Method Calls with UML Sequence Diagram.”](https://www.youtube.com/watch?v=EoXKS-0S3qs) Online video clip. YouTube. YouTube, 23 June 2018. Web. 10 October 2020.
 
-*  [Sequence Diagrams (Tutorial/Practice)][youtube-three][^citation-five] This video explains what a sequence diagram is followed by a creating an example using Lucidchart. Some of the covered topics include _**lifelines, messages, loops, and general concepts.**_
+*  [Sequence Diagrams (Tutorial/Practice)][youtube-three][^citation-five] This video explains what a sequence diagram is followed by a creating an example using Lucidchart. Some of the covered topics include _**lifelines, messages, loops**_, and more.
 [![Sequence Diagrams (Tutorial/Practice)](https://img.youtube.com/vi/pCK6prSq8aw/0.jpg)](https://www.youtube.com/watch?v=pCK6prSq8aw)
 [youtube-three]:https://www.youtube.com/watch?v=pCK6prSq8aw
 [^citation-five]: Lucidchart. [“How to make a UML Sequence Diagram.”](https://www.youtube.com/watch?v=pCK6prSq8aw) Online video clip. YouTube. YouTube, 27 August 2018. Web. 10 October 2020.
