@@ -39,6 +39,8 @@ There are plenty of great resources out there for learning how to effectively ut
 
 *  [What is a Use Case Diagram?][visual-link][^citation-one] This article serves as a good overview of use case diagrams by offering insight into their components and how to _**identify use cases**_ and the _**associated actors.**_
 [visual-link]:https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/
+[^citation-one]: ["What Is Use Case Diagram?"](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/), Visual Paradigm.
+
 
 [^citation-one]: ["What Is Use Case Diagram?"](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/), Visual Paradigm.
 
@@ -52,6 +54,7 @@ There are plenty of great resources out there for learning how to effectively ut
 
 *  [Use Case Diagrams - PowerPoint & Examples][csis-pace][^citation-four] The attached slide deck goes into depth regarding _**actors**_, _**use cases**_, and general best practices surrounding use case diagrams. Additionally, this resource provides examples to ensure you, as the reader, have a better understanding of the concept.
 
+
 [csis-pace]:http://csis.pace.edu/~marchese/CS389/L9/Use%20Case%20Diagrams.pdf
 [^citation-four]: Marchese, Francis. ["Use Case Diagrams"](https://csis.pace.edu/~marchese/CS389/L9/Use%20Case%20Diagrams.pdf), Pace University.
 
@@ -64,9 +67,11 @@ attached reading serves as a resource to better understand what a use case diagr
 [![Use Case Walkthrough](https://img.youtube.com/vi/zid-MVo7M-E/0.jpg)](https://www.youtube.com/watch?v=zid-MVo7M-E)
 [youtube-one]:https://www.youtube.com/watch?v=zid-MVo7M-E
 
+
 [^citation-six]:Lucidchart. [“UML Use Case Diagram Tutorial.”](https://www.youtube.com/watch?v=zid-MVo7M-E) Online video clip. YouTube. YouTube, 7 February 2018. Web. 10 October 2020.
 
 *  [Use Case Diagrams - Tutorial/Walkthrough][youtube-two][^citation-seven] This video dives into _**use case diagrams, actors, relationships, and descriptions**_ all while providing a step-by-step tutorial.
+
 [![Use Case Walkthrough](https://img.youtube.com/vi/sQgoFjxSdxo/0.jpg)](https://www.youtube.com/watch?v=sQgoFjxSdxo)
 [youtube-two]:https://www.youtube.com/watch?v=sQgoFjxSdxo
 [^citation-seven]: Master2Teach. [“Use Case Diagram - Step by Step Tutorial with Example.”](https://www.youtube.com/watch?v=sQgoFjxSdxo) Online video clip. YouTube. YouTube, 22 March 2020. Web. 10 October 2020.
@@ -74,6 +79,7 @@ attached reading serves as a resource to better understand what a use case diagr
 ## Practice
 
 Below you will find a condensed list of walkthroughs and practice exercises pertaining to Use Case Diagrams that may be helpful in ensuring you have an understanding on the topic.
+
 
 *  **Bank ATM UML Use Case Diagrams Examples:** "Customer uses a bank ATM to check balances of his/her bank accounts, deposit funds, withdraw cash and/or transfer funds (use cases). ATM Technician provides maintenance and repairs to the ATM." [Answer Provided][use-case-practice] [^citation-eight]
 
@@ -84,6 +90,7 @@ Below you will find a condensed list of walkthroughs and practice exercises pert
 *  **Credit card processing system:** "The merchant submits a credit card transaction request to the credit card payment gateway on behalf of a customer. Bank which issued customer's credit card is actor which could approve or reject the transaction. If transaction is approved, funds will be transferred to merchant's bank account." [Answer Provided][use-case-practice] [^citation-eight]
 
 *  **Website Administration:** "Website Administrator actor could manage user groups, users, user sessions, and logs. Help Desk staff uses a subset of functions available to the Website Administrator." [Answer Provided][use-case-practice] [^citation-eight]
+
 
 [use-case-practice]:https://www.uml-diagrams.org/use-case-diagrams-examples.html
 [^citation-eight]: Fakhroutdinov, Kirill. ["UML Use Case Diagram Examples"](https://www.uml-diagrams.org/use-case-diagrams-examples.html).

@@ -75,6 +75,7 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 [^citation-three]: Master2Teach. [“Sequence Diagram - Step by Step Guide with Example.”](https://www.youtube.com/watch?v=_Mzi1rYtI5U) Online video clip. YouTube. YouTube, 14 April 2020. Web. 10 October 2020.
 
 *  [Sequence Diagrams (Coding Example)][youtube-two][^citation-four] The attached video compares sequence diagrams to coding examples in an effort to relate the two together while covering _**messages**_ in depth.
+
 [![Sequence Diagrams (Coding Example)](https://img.youtube.com/vi/EoXKS-0S3qs/0.jpg)](https://www.youtube.com/watch?v=EoXKS-0S3qs)
 [youtube-two]:https://www.youtube.com/watch?v=EoXKS-0S3qs
 [^citation-four]: Jones, Brandan. [“Model Method Calls with UML Sequence Diagram.”](https://www.youtube.com/watch?v=EoXKS-0S3qs) Online video clip. YouTube. YouTube, 23 June 2018. Web. 10 October 2020.
@@ -84,7 +85,9 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 [youtube-three]:https://www.youtube.com/watch?v=pCK6prSq8aw
 [^citation-five]: Lucidchart. [“How to make a UML Sequence Diagram.”](https://www.youtube.com/watch?v=pCK6prSq8aw) Online video clip. YouTube. YouTube, 27 August 2018. Web. 10 October 2020.
 
+
 *  [Use Case Diagrams to Sequence Diagrams][youtube-four][^citation-six] This brief video offers a quick refresher into _**constructing a sequence diagram**_ while relating it back to a use case diagram.
+
 [![Converting Use Case Diagrams to Sequence Diagrams](https://img.youtube.com/vi/aaAjndV5kBg/0.jpg)](https://www.youtube.com/watch?v=aaAjndV5kBg)
 [youtube-four]:https://www.youtube.com/watch?v=aaAjndV5kBg
 [^citation-six]: VisualParadigm. [“How to Elaborate Use Case with UML Sequence Diagram.”](https://www.youtube.com/watch?v=aaAjndV5kBg) Online video clip. YouTube. YouTube, 2 October 2013. Web. 10 October 2020.

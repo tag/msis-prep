@@ -6,6 +6,7 @@ date: 2020-10-16
 
 ## During the MSIS program
 
+
 Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> APA </abbr> module, you will be required to learn both agile and waterfall, two methodologies that are used across development lifecycles. These two methodologies will serve you well across the various assignments and projects you work on throughout the program. However, you must understand the advantages and disadvantages of using each one. You will work through a handful of assignments, including a simulation by the end of the module to ensure you can effectively identify and use the two methodologies. For now, we will focus primarily on waterfall, its concepts and main uses. If you are interested in learning more about agile, please refer to the appropriate module.
 
 ## Major concepts
@@ -22,6 +23,13 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
 **Disclaimer**: There is oftentimes debate on if the waterfall methodology has between five (5) or seven (7) phases. This is a direct result of phases being combined, below we have ensured they are broken out but the subsequent resources may not do the same.
 
 1. Phases of _**waterfall**_
+Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> APA </abbr> module, you will be required to learn both Agile and Waterfall, two methodologies that are used across development lifecycles. These two methodologies will serve you well across the various assignments and projects you work on throughout the program. However, you must understand the advantages and disadvantages of using each one. You will work through a handful of assignments, including a simulation by the end of the module to ensure you can effectively identify and use the two methodologies. For now, we will focus primarily on Waterfall, its concepts and main uses. If you are interested in learning more about Agile, please refer to the appropriate module.
+
+## Major concepts
+
+**Please note**: There is oftentimes debate on if the Waterfall methodology has between five (5) or seven (7) phases. This is a direct result of phases being combined, below we have ensured they are broken out but the subsequent resources may not do the same.
+
+1. Phases of _**Waterfall**_
     1. _**Planning:**_ Focuses on determining project goals and crafting a high-level plan for the intended project. This is the most fundamental and critical phase.
     2. _**Analysis:**_ This phase analyzes end user requirements and project goals and converts them into the defined system functions the organization intends to develop.
     3. _**Design:**_ Builds directly off of the first two phases and requires no coding to occur. This phase is primarily focused on establishing the technical needs of the project.
@@ -34,6 +42,7 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
     2. Centralized, great for communication throughout the <abbr title = "Software Development Lifecycle"> SDLC </abbr>
     3. Easily managed
     4. Defined end goal throughout project duration
+
 3. Primary _**disadvantages**_ of waterfall
     1. Working software is not produced until late during the SDLC
     2. Not well suited for large, complex projects
@@ -58,11 +67,13 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
 [^citation-three]: Eby, Kate. [“Using Waterfall Project Management Over Agile.”](https://www.smartsheet.com/when-choose-waterfall-project-management-over-agile) Smartsheet, 28 Sept. 2016
 
 *  [What is Waterfall?][youtube-one][^citation-four] The following video provides an overview of the associated _**phases.**_
+
 [![What is Waterfall?](https://img.youtube.com/vi/LxEmGNgqYJA/0.jpg)](https://www.youtube.com/watch?v=LxEmGNgqYJA)
 [youtube-one]:https://www.youtube.com/watch?v=LxEmGNgqYJA
 [^citation-four]: Codeacademy. [“Software Development Methodology: What is Waterfall?”](https://www.youtube.com/watch?v=LxEmGNgqYJA) Online video clip. YouTube. YouTube, 22 Feb 2019. Web. 6 November 2020.
 
 *  [Waterfall vs. Agile][youtube-two][^citation-five] This video is meant to better _**identify when to use waterfall over agile**_.
+
 [![Waterfall vs. Agile](https://img.youtube.com/vi/rvTejAg_fbY/0.jpg)](https://www.youtube.com/watch?v=rvTejAg_fbY)
 [youtube-two]:https://www.youtube.com/watch?v=rvTejAg_fbY
 [^citation-five]: edureka!. [“Agile vs Waterfall | Which Software Development Approach Would You Choose? | Edureka”](https://www.youtube.com/watch?v=rvTejAg_fbY) Online video clip. YouTube. YouTube, 15 Aug 2019. Web. 6 November 2020.
