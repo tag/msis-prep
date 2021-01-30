@@ -69,11 +69,13 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
 
 ## Practice
 
-Below you will find a small number of questions; these are meant to simply test your knowledge of the material previously outlined. The best way to learn waterfall is to begin applying it and other methodologies to your day-to-day projects. [Answers Provided][wf-practice]
+Below you will find a small number of questions; these are meant to simply test your knowledge of the material previously outlined. The best way to learn waterfall is to begin applying it within your day-to-day projects. [Answers Provided][wf-practice]
 
-1. List out the seven (7) main phases of the waterfall methodology:
-2. Can phases be revisited down the line? (T/F)
-3.	Is waterfall best suited for chaotic projects with little direction? (T/F)
-4. Are the results of a waterfall project more visible as time goes on? (T/F)
+1. List out the seven main phases of the waterfall methodology:
+2. Within the Waterfall methodology, are you able to revisit phases as time goes on?
+3. Which projects are generally best suited for Waterfall?
+4. Are potential issues identified and addressed as you go when using the waterfall methodology?
+5. Given the nature of Waterfall, is documentation produced throughout the development of a project?
+
 
 [wf-practice]:/images/wf-practice.pdf
