@@ -23,7 +23,7 @@ You are encouraged to practice with Python, as that is what a majority of our in
 **You should be able to write simple programs** in at least one programming language. (It doesn't matter which one.) Using the code of the program you wrote, you should also be able to do the following:
 
 1. Explain variable _**types**_ in the programming language you learned.
-2. Use _**control structures**_ like `if` statements and loops  to control a program's flow
+2. Use _**control structures**_ like `if` statements and loops  to control a program's flow.
 3. Build one or more functions or object methods that accept parameters and have return types.
 4. Explain _**encapsulation**_, and why code is often organized into objects and classes.
     1. Explain the difference between a _**class**_ and an object _**instance**_.
