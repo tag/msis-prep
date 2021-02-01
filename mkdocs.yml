@@ -8,6 +8,8 @@ theme:
   name: material
   features:
       - instant
+
+      
       - tabs
 nav:
     - Home: index.md
@@ -20,7 +22,10 @@ nav:
       - 'Statistics' : 'statistics.md'
       - 'Prototyping' : 'prototyping.md'
       - 'Waterfall Development' : 'waterfall.md'
-
+      - 'Agile': 'agile.md'
+      - 'IT Controls' : 'it_controls.md'
+      - 'ERP - ERP Intro' : 'ERP.md'
+      - 'ERP - Business Cycles' : 'business_cycles.md'
 
 extra_css:
   - "css/styles.css"
@@ -39,7 +44,7 @@ markdown_extensions:
     - pymdownx.mark
     # - mdx_truly_sane_lists
     - mdx_breakless_lists
-    #- pymdownx.tasklist
+    - pymdownx.tasklist
     # - pymdownx.critic
 
     # pygments # Code highlighing
