@@ -66,7 +66,6 @@ Before entering the MSIS program, you should be able to do the following:
 4. Linear regression should only be used when the use case is appropriate. [This article by Eric Benjamin Seufert][linear regression candidates] nicely explains good and bad candidates for linear regression.
 
 5. The article ["A Refresher on Regression Analysis"][HBR] from _Harvard Business Review_ is another good read on regression analysis. It also talks about how companies use regression and common mistakes people make when using it.
-
 [jupyter notebook]:https://jupyter.org/
 [python]:https://www.python.org/about/
 [linear regression intro]:https://www.youtube.com/watch?v=zPG4NjIkCjc
