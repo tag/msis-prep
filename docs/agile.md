@@ -87,14 +87,13 @@ These terms are further explained in this video by Axosoft[^4]. Watch this video
 
 1. True/False 
 
-   - Agile values individuals and interactions while traditional SDLC values processes and tool
-   
-   - Agile values comprehensive documentation while traditional SDLC values working software
-   
-   - Agile values contract negotiation while traditional SDLC values customer collaboration
-   
-   - Agile values responding to change while traditional SDLC values following a plan
-   
+    - Agile values individuals and interactions while traditional SDLC values processes and tool
+    - Agile values comprehensive documentation while traditional SDLC values working software
+
+    - Agile values contract negotiation while traditional SDLC values customer collaboration
+
+    - Agile values responding to change while traditional SDLC values following a plan
+
      
 
 
@@ -103,35 +102,35 @@ These terms are further explained in this video by Axosoft[^4]. Watch this video
 
 
 
-3. In your own words, define Scrum. Explain the relationship between Scrum and Agile.
+3. In your own words, define Scrum. Explain the relationship between Scrum and Agile. Do you prefer one over another? Why? 
 
 
 
 4. Define the following key terms:
 
-   - User story
+    - User story
 
-   - Story point
+    - Story point
 
-   - Product Owner
+    - Product Owner
 
-   - Scrum Master
+    - Scrum Master
 
-   - Sprint
+    - Sprint
 
-     - Typically, how many days does a sprint last?
+      - Typically, how many days does a sprint last?
 
-   - Daily Stand-up
+    - Daily Stand-up
 
-   - Retrospective
+    - Retrospective
 
-   - Product Backlog
-   
+    - Product Backlog
      
+    
 
 
 
-5. Assume that you are using Agile to develop a software. Try to think of some user stories of your software (at least 5+), and allocate story points to them use T-shirt size.
+5. Assume that you are making a wristband that tracks health data. Try to think of some user stories of your software (at least 5+), and allocate story points to them use T-shirt size.
 
 
 

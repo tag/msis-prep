@@ -15,7 +15,7 @@ nav:
     - Home: index.md
     - Modules:
         - 'Programming' : 'programming.md'
-        - 'ERP - ERP Intro' : 'erp.md'
+        - 'ERP - ERP Intro' : 'ERP.md'
         - 'ERP - Business Cycles' : 'business_cycles.md'
         - 'IT Controls' : 'it_controls.md'
         - 'Agile': 'agile.md'
