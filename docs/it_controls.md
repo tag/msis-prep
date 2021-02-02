@@ -1,184 +1,140 @@
 ---
 authors:
     - Jiaqi Xiao
+    - Tom Gregory
 date: 2020-10-05
-
+updated: 2020-02-02
 ---
 
-# IT Controls
+# IT Risk and Controls
 
 ## During the MSIS program
+Security and risk management are important to all organizations. Therefore, all students are expected to take foundational modules in IT controls and IT risk management. Depending on your program major, you might take additional specialization courses.
 
-Before entering the MSIS program, it is expected that you are aware of IT controls, more specifically, what they are and how they can be applied in a business setting. In doing so, you will be prepared for the coursework in both the ERP and IT GRC modules. Please understand that **IT security is important** and **data is ultra-important** to todays organizations in regard to their IT infrastructure.
+Although the MSIS program will cover the basics, many entering students completed at least one course coving IT controls. You will be well served to have a brief foundation before beginning the masters program.
 
-## Major Concepts
+## Major concepts
 
-### Learning Outcomes
+1. Describe the components of the IT Risk Triad: _**confidentiality**_, _**integrity*_, and _**availability**_.
+2. Understand what IT controls are, what do they do, why they are necessary.
+3. Explain the difference between _**general controls**_ and _**application controls**_.
+4. Define the three types of IT controls. Give examples of each.
+5. Describe the purpose of the COBIT and COSO control frameworks, and how they differ.
 
-- [ ] Being able to understand what IT controls are, what do they do, why they are necessary, as well as be able to describe the two categories.
-- [ ] Being able to define the three types of IT controls.
-- [ ] Being able to recognize both the COBIT and COSO frameworks, what they are and how they differ.
+## Resources
 
+IT risk is also called "enterprise risk" or "cyber risk". Unfortunately, there are few good, _free_ resources for learning about IT risk and IT controls. (If you find one, let us know!) While there are some common fundamentals and underlying regulations, each company and consultancy tends to define and organize risks slightly differently.
 
+* Read the opening section of [Chapter 6: "Information Systems Security"][iss4bb-ch6] titled "The Information Security Triad: Confidentiality, Integrity, Availability (CIA)"
+* Skim the _Wikipedia_ articles ["IT Risk Management"](https://en.wikipedia.org/wiki/IT_risk_management), ["COSO"][wiki-coso], and ["Sarbanes-Oxley"][wiki-sox]
+* Investopedia has a useful article on ["Internal Controls"](https://www.investopedia.com/terms/i/internalcontrols.asp)
 
-### What are IT Controls
+*[CIA]: Confidentiality, Integrity, Availability
 
-In the business world , <abbr title="information technology controls">**IT Controls**</abbr> are specific activities performed by persons/systems designed to ensure that business objectives are safely met. They are a subset of an enterprise's internal control.
+[iss4bb-ch6]:https://opentextbook.site/informationsystems2019/chapter/chapter-6-information-systems-security-information-systems-introduction/
+[wiki-coso]:https://en.wikipedia.org/wiki/Committee_of_Sponsoring_Organizations_of_the_Treadway_Commission
+[wiki-sox]:https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act
 
-IT control plays a critical role in assuring that IT is used correctly, data is protected, and the organization is in compliance with all applicable laws and regulations.
+## IT Controls
+
+In the business world, _**IT controls**_ are specific activities performed by people/systems which are designed to ensure that business objectives are safely met. Some examples of control include a password policy, a requirement to use two-factor authentication, or a database schema enforcing specific types on data.
+
+IT controls play a critical role in assuring that IT is used correctly, data is correct and protected, and the organization is in compliance with all applicable laws and regulations. Controls prevent, detect, and correct transaction errors and fraud.
 
 ### The Two Categories of IT Controls
 
-There are two categories of IT controls: <abbr title="IT general controls">**ITGC**</abbr> and <abbr title="IT application controls">**ITAC**</abbr>.
+*[ITGC]: IT General Controls
+*[ITAC]: IT Application Controls
 
-- **ITGC:** 
-  
-    - the procedures/policies of organizations' control environment processes are stable and well-managed:  [risk management](https://www.investopedia.com/terms/e/enterprise-risk-management.asp)[^1], [change management](https://www.prosci.com/resources/articles/what-is-change-management)[^2], [disaster recovery](https://www.vmware.com/topics/glossary/content/disaster-recovery)[^3]  (Skim through these process to grab a basic understanding for now, you should be able to learn more about these processes in ITGRC module.)
+There are two categories of IT controls: _**general controls (ITGC)**_ and _**application controls (ITAC)**_.
 
-<!-- link to ITGRC once built -->
-- Example: Security Management Controls
-  
-- **ITAC**
+- **ITGC:** General control are implemented as procedures or policies. Because they are often enforced by people, compliance may vary. There are several subcategories/domains/systems of general controls, including:
 
-    - Prevent, detect, and correct transaction errors and fraud.
-    - Concerned area: data accuracy, validity, integrity, and more. 
-      - **Accuracy**: whether the **data** values stored for an object are the correct values
-      - **Validity**: the correctness and reasonableness of **data**
-      - **Integrity**: the completeness, soundness, and wholeness of the **data** that also complies with the intention of the creators of the **data**.
+    * [**Enterprise risk management**](https://www.investopedia.com/terms/e/enterprise-risk-management.asp), which includes processes for documenting and organizing risks.
+    * **IT Change Management**: Sometimes called "change control", IT change management is different from organizational change management. A change control system includes documentation of all implemented IT systems, and formal processes for making changes to those systems. (In contrast, "organization change management" is about encouraging organizations to adopt organizational changes. It's incredibly important, but isn't a "control".)
+    * [**Disaster recovery**](https://www.vmware.com/topics/glossary/content/disaster-recovery), which includes creating and testing response plans for likely risks.
 
-  
+- **ITAC:** Application control are enforced by technology rather than by policy. Enterprises work with huge volumes of data, so automatically enforced controls are necessary to keep data error-free.
+
+    Application controls are often designed to control desirable characteristics of data, including:
+        - **Accuracy**: Whether the data values stored for an object are the correct values
+        - **Validity**: The reasonableness of data
+        - **Integrity**: Detecting whether data has been altered
+        - **Completeness**: Whether the data represents an entire population or just a sample
+
+    Application controls help manage other features of data, including bias, timeliness, shareability, and security. In addition to enforcing data controls, there are many other purposes of application controls, including access control and encryption. For example, a two-factor authentication requirements build into web or software systems is an application control.
 
 ### Types of IT Controls
 
-- **Preventive Controls**: Deter problems before they occur
-- **Detective Controls**: Discover problems after they arise
-- **Corrective Controls**: Correct and modify system
+- _**Preventive Controls**_: Deter problems before they occur
+- _**Detective Controls**_: Discover problems after they occur
+- _**Corrective Controls**_: Mitigate problems after they occur
 
-Below are a few simple examples for you to better understand these control types:
+Here are some examples to better understand these control types:
 
-**Preventive**: Lock on door to prevent intruders.
+- **Preventive**: Lock on a door, to prevent intruders
+- **Detective**: Fire alarm, when fire goes off
+- **Corrective**: House insurance
 
-**Detective**: Fire alarm when fire goes off
+If you want to read more, look at what this public university [has to say about managing its internal controls](https://www.odu.edu/about/compliance/internal-auditing/internal-controls)
 
-**Corrective**: House insurance
+## Control frameworks, regulations, and organizations
 
-If you want to read more about details and examples , these resources can be helpful:
+*[COSO]: Committee of Sponsoring Organizations
+*[COBIT]: Control OBjectives for Information and related Technology
+*[SOX]: Sarbanes-Oxley
+*[ISACA]: Information Systems Audit and Control Foundation
 
-[Example of Internal Controls](https://smallbusiness.chron.com/examples-internal-controls-57039.html#:~:text=Preventive%20controls%20are%20designed%20to,fraud%20that%20has%20already%20occurred.)[^4]
+### COSO internal control framework
 
-[Internal Controls](https://www.odu.edu/about/compliance/internal-auditing/internal-controls#:~:text=Internal%20controls%20are%20detective%2C%20corrective%2C%20or%20preventive%20by%20nature.&text=Corrective%20controls%20are%20designed%20to,occurring%20in%20the%20first%20place.)[^5]
+The Committee of Sponsoring Organizations (COSO) issued the [**Internal Control Framework**](https://www.coso.org/Pages/default.aspx) in 1992. The COSO Internal Control Framework is widely accepted as the authority on internal controls, and provides guidance for evaluating internal control systems.
 
-### Control Frameworks and Organizations
-
-#### [COSO internal control framework](https://www.coso.org/Pages/default.aspx)[^6]
-
-The Committee of Sponsoring Organizations (COSO) issued the **Internal Control Framework** in 1992:
-
-> COSO issued the **Internal Control Framework**:
->
-> - Defines internal controls.
->
-> - Provides guidance for evaluating and [enhancing ]internal control systems.
->
-> - Widely accepted as the authority on internal controls.
->
-> - Incorporated into policies, rules, and regulations used to control business activities.
->
-> - 10 years later it issued its expanded Enterprise Risk Management [ERM] model. Latest version published in 2017.
->
-> - In the late 1990s and early 2000s, a series of multi-million-dollar accounting frauds made headlines (e.g., ENRON, WorldCom)
->
-> - The impact on financial markets was substantial, and Congress responded with passage of the **Sarbanes-Oxley Act** **of 2002**
->
-> *(Information retrieved from lecture slide decks created by Prof. Joshua Dennis from Indiana University of Bloomington*)
+### SOX (Sarbanes-Oxley Act of 2002)
+In the late 1990s and early 2000s, a series of multi-million-dollar accounting frauds made headlines (e.g., ENRON, WorldCom). The impact on financial markets was substantial, and Congress responded by  passing of the **Sarbanes-Oxley Act of 2002 (SOX)**. SOX imposed many requirements for controls, and had a strong impact on how public companies operated.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xW9pSAwaeO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### SOX (Sarbanes-Oxley Act of 2002)
+The intent of SOX is to protect investors in public companies by:
 
-> The **intent** of SOX is to:
->
-> - Prevent financial statement fraud
-> - Make financial reports more transparent
-> - Protect investors
-> - Strengthen internal controls in publicly-held companies
-> - Punish executives who perpetrate fraud
->
-> **Importance: ** Sox has had a **material** impact on the way boards of directors, management, and accountants operate.
->
-> *(Information retrieved from lecture slide decks created by Prof. Joshua Dennis from Indiana University of Bloomington)*
+  - Preventing financial statement fraud
+  - Making financial reports more transparent
+  - Demanding stronger internal controls by requiring companies use a control framework
+  - Punishing executives who commit fraud
 
-#### [COBIT Internal Control Framework](www.isaca.org/resources/cobit)[^7]
+### COBIT Internal Control Framework
 
-- **COBIT** stands for the Control Objectives for Information and related Technology 
-- Developed by the Information Systems Audit and Control Foundation: **ISACA**
-- The COBIT framework is of generally applicable information systems security and control practices for IT control.
-- Most recent update: COBIT-2019. Below is a graph showing its historical evaluation from 1995 till now.
+- **COBIT** stands for "Control Objectives for Information and related Technology" standard developed by the Information Systems Audit and Control Foundation (**ISACA**)
+- The [COBIT framework][COBIT] is of generally applicable information systems security and control practices for IT control.
+- Most recent update: COBIT-2019. (Timeline graphic from [ISACA][COBIT].)
 
 ![COBIT2019](/images/COBIT2019.png)
 
-Resources to read more about COBIT:
+[COBIT]:https://www.isaca.org/resources/cobit
 
-[What is the COBIT Framework: Benefits and Components](https://www.simplilearn.com/what-is-cobit-significance-and-framework-rar309-article)[^8]
+Resources to read more about COBIT[^1]:
 
-[COBIT - 5: Everything you need to know](https://www.goodelearning.com/courses/it-governance/cobit-foundation/what-is-cobit-5) [^9]*note this is an old version of COBIT*
+- ["What is the COBIT Framework: Benefits and Components"](https://www.simplilearn.com/what-is-cobit-significance-and-framework-rar309-article), _Simplilearn_
+- ["COBIT 2019 – the Key Changes to COBIT 5"](https://www.joetheitguy.com/cobit-2019-key-changes-cobit-5/), _Joe the IT Guy_
+_NOTE: There are many more IT control frameworks and organizations. These will be discussed during your time in the MSIS program._
 
-[COBIT 2019 – the Key Changes to COBIT 5](https://www.joetheitguy.com/cobit-2019-key-changes-cobit-5/) [^10]
+### COBIT vs. COSO
 
-
-
-*Note: There are many more IT control frameworks and organizations. These will be discussed during your time in the MSIS program.*
-
-
-
-#### COBIT vs. COSO
-
-Read: [What Are The Differences Between COBIT & COSO](https://reciprocitylabs.com/what-are-the-differences-between-cobit-coso/)[^11] to understand their differences.
-
-
+Read ["What Are The Differences Between COBIT & COSO"](https://reciprocitylabs.com/what-are-the-differences-between-cobit-coso/) to understand the differences between COSO and COBIT.
 
 #### Exercises
 
-1. What does IT control do in general? Why do you think it is necessary for companies to have this function?
+1. What is the purpose of IT controls? Why do you think it is necessary for companies to have formal controls?
 
+2. What is the difference between general controls and applicaiton controls?
 
+3. List several characteristics of data. Are these characteristics best enforced by general controls or application controls?
 
-2. What data characteristics is not concerned by ITAC?
+4. In your own words, describe the three types of IT controls. Give examples of each.
 
-    a. Integrity
+5. In your own words, explain how the following terms relate to IT controls:
 
-    b. Validity
+    1. COSO
+    2. COBIT
+    3. SOX
 
-    c. Timeliness
-
-    d. Accuracy
-
-
-
-3. Please in your own word describe the three types of IT controls. Also, try to come up with an example how these controls are different.
-
-
-
-4. In your own words, explain how the following items related to the IT control industry:
-
-    - COSO
-
-    - COBIT
-
-    - SOX
-
-  
-
-#### Citation Footnotes
-
-[^1]: Retrieved from Investopedia.
-[^2]: Retrieved from *[Prosci](www.prosci.com)*. Prosci is a consulting firm that helps companies make changes.
-[^3]: Retrieved from [VMware](https://www.vmware.com/), a public traded software company.
-[^4]:Retrieved from the [*The Houston Chronicle*](https://www.chron.com/). The Houston Chronicle is the largest daily newspaper in Houston.
-[^5]: Retrieved from the website of Old Dominion University.
-[^6]: The official website of COSO.
-[^7]: Retrieved from the official website of ISACA, the organization that created COBIT.
-[^8]: Retrieved from [*Simplilearn*](https://www.simplilearn.com/?&utm_source=google&utm_medium=cpc&utm_term=simplelearn&utm_content=467562499565&utm_device=c&utm_campaign=Search-Brand-Exact-US-AllDevice-adgroup-brand-simplelearn&gclid=CjwKCAjww5r8BRB6EiwArcckC025oPLwru1MLFCxiPibNCQzh0WrjEa7KU31tt8yY8FjdCOQiS-ZThoC5uAQAvD_BwE), a providers of online training for emerging technologies like Digital Marketing, AI and Machine Learning, Cloud Computing, etc.
-[^9]: Retrieved from *[Good e-Learning](www.goodelearning.com)*. Good e-learning is a provider of online training for business and IT professionals around the world.
-[^10]:Retrieved from the blog of *Joe the IT Guy*. He works for [*SysAid Technologies*](https://www.sysaid.com/), an international company founded in 2002 that develops and provides IT Service Management software.
-[^11]: Retrieved from [*Reciprocity*](https://reciprocitylabs.com/), a computer software company that specialized in IT risk and compliance management. 
+[^1]:  These article links are NOT an endorsement of these (or any) consulting companies.
