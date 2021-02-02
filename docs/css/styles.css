@@ -24,3 +24,10 @@ ol ol ol { list-style-type: lower-roman; }
 .md-typeset ul ul {
   list-style: circle;
 }
+
+.md-content h1, .md-content h2 {
+  color: #7A1705;
+}
+.md-content h1 {
+  font-weight: bold;
+}
