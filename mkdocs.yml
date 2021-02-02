@@ -8,24 +8,26 @@ theme:
   name: material
   features:
       - instant
-
-      
       - tabs
 nav:
     - Home: index.md
     - Modules:
-      - 'Programming' : 'programming.md'
-      - 'Use Case Diagrams' : 'usecase.md'
-      - 'Sequence Diagrams' : 'sequencediagrams.md'
-      - 'Data Modeling and SQL' : 'data.md'
-      - 'Programming' : 'programming.md'
+      - Software Development:
+        - 'HTML and Prototyping' : 'prototyping.md'
+        - 'Programming' : 'programming.md'
+      - Managing Software Projects:
+        - 'Waterfall & SDLC' : 'waterfall.md'
+        - 'Agile' : 'agile.md'
+        - 'Contrasting Agile & Waterfall' : 'agile_waterfall.md'
+      - Business Modeling:
+        - 'Use Case Diagrams' : 'usecase.md'
+        - 'Sequence Diagrams' : 'sequencediagrams.md'
+        - 'Data Modeling and SQL' : 'data.md'
+      - Enterprise Software:
+        - 'IT Controls' : 'it_controls.md'
+        - 'ERP - ERP Intro' : 'ERP.md'
+        - 'ERP - Business Cycles' : 'business_cycles.md'
       - 'Statistics' : 'statistics.md'
-      - 'Prototyping' : 'prototyping.md'
-      - 'Waterfall Development' : 'waterfall.md'
-      - 'Agile': 'agile.md'
-      - 'IT Controls' : 'it_controls.md'
-      - 'ERP - ERP Intro' : 'ERP.md'
-      - 'ERP - Business Cycles' : 'business_cycles.md'
 
 extra_css:
   - "css/styles.css"
