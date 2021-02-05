@@ -22,6 +22,7 @@ Use inline code marks for:
 
 Use fenced code blocks for any command line examples.
 
+## Admonitions
 !!! note "Optional title"
     This is an admonition. The Cinder theme currently supports `note`, `warning`, and `danger` admonition types.
 
