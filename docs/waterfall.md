@@ -7,7 +7,7 @@ date: 2020-10-16
 ## During the MSIS program
 
 
-Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> APA </abbr> module, you will be required to learn both agile and waterfall, two methodologies that are used across development lifecycles. These two methodologies will serve you well across the various assignments and projects you work on throughout the program. However, you must understand the advantages and disadvantages of using each one. You will work through a handful of assignments, including a simulation by the end of the module to ensure you can effectively identify and use the two methodologies. For now, we will focus primarily on waterfall, its concepts and main uses. If you are interested in learning more about agile, please refer to the appropriate module.
+During your time in the MSIS program will be required to learn and use both agile and waterfall, two methodologies that are used across development lifecycles. These two methodologies will serve you well across the various assignments and projects you work on throughout the program. However, you must understand the advantages and disadvantages of using each one. You will work through a handful of assignments, including a simulation by the end of the module to ensure you can effectively identify and use the two methodologies. For now, we will focus primarily on waterfall, its concepts and main uses. If you are interested in learning more about agile, please refer to the appropriate module.
 
 ## Major concepts
 
@@ -20,21 +20,16 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
 
 ##Components Explained
 
-**Disclaimer**: There is oftentimes debate on if the waterfall methodology has between five (5) or seven (7) phases. This is a direct result of phases being combined, below we have ensured they are broken out but the subsequent resources may not do the same.
-
-1. Phases of _**waterfall**_
-Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> APA </abbr> module, you will be required to learn both Agile and Waterfall, two methodologies that are used across development lifecycles. These two methodologies will serve you well across the various assignments and projects you work on throughout the program. However, you must understand the advantages and disadvantages of using each one. You will work through a handful of assignments, including a simulation by the end of the module to ensure you can effectively identify and use the two methodologies. For now, we will focus primarily on Waterfall, its concepts and main uses. If you are interested in learning more about Agile, please refer to the appropriate module.
+**Disclaimer**: There is oftentimes debate on if the waterfall methodology has five (5) or seven (7) phases. This is a direct result of phases being combined, below we have ensured they are broken out but the subsequent resources may not do the same.
 
 ## Major concepts
 
-**Please note**: There is oftentimes debate on if the Waterfall methodology has between five (5) or seven (7) phases. This is a direct result of phases being combined, below we have ensured they are broken out but the subsequent resources may not do the same.
-
-1. Phases of _**Waterfall**_
+1. Phases of _**waterfall**_
     1. _**Planning:**_ Focuses on determining project goals and crafting a high-level plan for the intended project. This is the most fundamental and critical phase.
     2. _**Analysis:**_ This phase analyzes end user requirements and project goals and converts them into the defined system functions the organization intends to develop.
     3. _**Design:**_ Builds directly off of the first two phases and requires no coding to occur. This phase is primarily focused on establishing the technical needs of the project.
     4. _**Construction/Build:**_ Involves the main build-out of the desired solution, this phase tends to be code heavy and aims to meet the requirements set fourth throughout the previous three phases.  
-    5. _**Testing:**_ Occurs once  main software development has concluded; issues may arise causing you to revert to the previous phase.
+    5. _**Testing:**_ Occurs once main software development has concluded; issues may arise causing you to revert to the previous phase.
     6. _**Implementation/Deployment:**_ Product development has concluded and the final deliverable will now be put into use throughout an organization. This signals the move to post-development support.
     7. _**Maintenance/Support:**_ Occurs once the final product has been delivered and is actively being used within an organization. _When_, not if, issues arise, your team must be ready to respond and update the software to address those issues. On occasion issues may require you to roll back the product version to a previously stable version.
 2. Primary _**advantages**_ of waterfall

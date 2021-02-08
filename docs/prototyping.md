@@ -14,7 +14,7 @@ You should be familiar with the basics of [HTML][html] and [CSS][css] which are 
 
 ## During the MSIS program
 
-As part of the D&S module in the MSIS program, you will be using HTML & CSS to design and develop the look and feel of your web application. This will be your first step towards creating a fully functional web application. Once your prototype is ready, you will make your application interactive by using client-side ([Javascript][javascript]) and server-side programming languages.
+As part of the MSIS program, you will be using HTML & CSS to design and develop the look and feel of your web application. This will be your first step towards creating a fully functional web application. Once your prototype is ready, you will make your application interactive by using client-side ([Javascript][javascript]) and server-side programming languages.
 
 [javascript]:https://www.w3schools.com/js/DEFAULT.asp
 ## Major concepts
