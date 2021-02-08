@@ -37,7 +37,7 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 ## Components Explained
 
-**Disclaimer**: Some of these concepts may go by slightly different names throughout both the Resource and Practice sections. However, there uses remain the same.
+**Disclaimer**: Some of these concepts may go by slightly different names throughout both the Resource and Practice sections. However, their uses remain the same.
 
 1. Types of _**Classes**_
     1. Boundaries: Boundaries are _only_ able to talk to Controllers or Actors.
