@@ -14,10 +14,10 @@ Throughout the MSIS Core you will cover the concept of Agile, a now popular and 
 
 ### Learning Outcome
 
-- [ ] Define Agile, and know what it values.
-- [ ] Identify some advantages and disadvantages of Agile.
-- [ ] Describe the process of Scrum.
-- [ ] Explain the key terms of Scrum methodology that are listed in the exercises.
+- Define Agile, and know what it values.
+- Identify some advantages and disadvantages of Agile.
+- Describe the process of Scrum.
+- Explain the key terms of Scrum methodology that are listed in the exercises.
 
 ## What is Agile?
 
