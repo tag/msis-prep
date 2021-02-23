@@ -6,8 +6,6 @@ date: 2020-10-05
 updated: 2020-02-02
 ---
 
-# IT Risk and Controls
-
 ## During the MSIS program
 Security and risk management are important to all organizations. Therefore, all students are expected to take foundational modules in IT controls and IT risk management. Depending on your program major, you might take additional specialization courses.
 
