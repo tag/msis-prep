@@ -3,26 +3,17 @@ authors:
     - Jiaqi Xiao
 date: 2020-10-20
 ---
-# The Business Activities Cycles
 
 ## During the MSIS program
 During your time in the MSIS program you will participate in various business activities that make up the business cycles found in SAP. It is key that you understand how these activities build into the overall cycles so you can better understand the [ERP system](/ERP) and how it works.
 
-------
+### Learning Outcomes
 
-### Learning Outcome
-
-- [ ] Being able to define what a business cycle is and its significance in the companies' operations
-
-- [ ] Being able to explain the purchase cycle and revenue cycle in detail.
-
-- [ ] Being able to identify the document flow in the purchase and revenue cycles (There are 8 document in total).
-
-- [ ] Being able to describe what the production cycle, HR cycle, and accounting cycle do.
-
-- [ ] Being confident in explaining what MRP is and make examples of how it can be used in a manufacturing company in the real life.
-
-  
+- Being able to define what a business cycle is and its significance in the companies' operations
+- Being able to explain the purchase cycle and revenue cycle in detail.
+- Being able to identify the document flow in the purchase and revenue cycles (There are 8 document in total).
+- Being able to describe what the production cycle, HR cycle, and accounting cycle do.
+- Being confident in explaining what MRP is and make examples of how it can be used in a manufacturing company in the real life.
 
 ## What is Business Cycle?
 
@@ -40,7 +31,7 @@ Throughout this module we will focus primarily on both the **Procurement Cycle**
 
 ### Procurement Cycle (Procure-to-Pay)
 
-Read about the Procurement Cycle: 
+Read about the Procurement Cycle:
 
 [*Procurement Cycle (The Telegraph)*](https://jobs.telegraph.co.uk/article/procurement-cycle/ )
 
@@ -58,10 +49,6 @@ After reading the above articles, you should find that there are many important 
 4. **Check (Payment)**: Prepared by the **buyer** and given to the **seller**, usually accompanied by a remittance advice to seller knows where to apply the payment
 
 *Note: You are encouraged to look online for examples of the above documents*
-
-------
-
-
 
 ### Sales Cycle (Order-to-Cash)
 
@@ -86,8 +73,6 @@ The following documents are generated within the sales cycle:
 
 *Note: You are encouraged to look online for examples of the above documents*
 
-------
-
 ### Other Business Activities Cycles
 
 There are five business activities cycles that we recommend knowing as you moving into the MSIS Core .
@@ -110,7 +95,7 @@ We recommend you to watch the attached video (~3 minutes) created by THE BEAN CO
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMwDwtTSSjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### MRP (Material Requirements Planning) 
+#### MRP (Material Requirements Planning)
 
 The following Video (~4 minutes) created by Edspira does an excellent job of covering the concepts of MRP. Edspira is a YouTube channel created by Michael McLaughlin, PhD, CPA.
 
@@ -123,10 +108,6 @@ The following article, *[Human Resources Cycle: Comparison of models](https://ww
 #### Accounting Cycle
 
 Take a look at the [*Accounting Cycle*](https://www.investopedia.com/terms/a/accounting-cycle.asp) article on Investopedia as well as watching the embedded video as it walks you through, in depth, the Accounting Cycle.
-
-
-
-
 
 ## Exercises
 
@@ -144,12 +125,8 @@ Take a look at the [*Accounting Cycle*](https://www.investopedia.com/terms/a/acc
 >2. For each SAP implementation, list pros and cons. As the VP of IT what would you have done differently to help reduce the complexity and speed up the process of these changes?
 >3. For the full-scale implementation, what role did each governance committee play in the process? Was there a need for two committees? What would be the pros and cons of using a single committee to arbitrate unification issues?
 
-
-
 ## Citation Footnotes
 
 [^1]: This image above is retrieved from a lecture slide deck created by Porf. Joshua Dennis from Indiana University Bloomington for class A400/S337.
 [^2]: Created by MSIS student Jiaqi Xiao on 10/14/2020.
-[^3]: This is a public research article written by scholars Dmitriy S Shaltayev and Robert B Hasbrouck and it describes a case examining the transformation journey of a grocery company. 
-
-
+[^3]: This is a public research article written by scholars Dmitriy S Shaltayev and Robert B Hasbrouck and it describes a case examining the transformation journey of a grocery company.
