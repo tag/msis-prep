@@ -6,7 +6,7 @@ date: 2020-10-16
 
 ## During the MSIS program
 
-During your time in the MSIS program will be required to learn and use both agile and waterfall, two methodologies used across development lifecycles. These two methodologies will serve you across various assignments and projects throughout the program. However, you must understand the advantages and disadvantages of using each one. For now, we will focus primarily on waterfall, its concepts, and when it is best used. If you are interesting in learning more about agile, please refer to the appropriate module.
+During your time in the MSIS program you will be required to learn and use both agile and waterfall, two methodologies used across development lifecycles. These two methodologies will serve you across various assignments and projects throughout the program. However, you must understand the advantages and disadvantages of using each one. For now, we will focus primarily on waterfall, its concepts, and when it is best used. If you are interesting in learning more about agile, please refer to the appropriate module.
 
 Curious about Agile and/or how Waterfall compares? Check out the following modules:
 *  [Agile](/agile)
@@ -14,7 +14,7 @@ Curious about Agile and/or how Waterfall compares? Check out the following modul
 
 ## Major concepts
 
-**You should be have an understanding of the waterfall development methodology** and understand when it is best to apply it over other potential development methodologies.
+**You should have an understanding of the waterfall development methodology** and understand when it is best to apply it over other potential development methodologies.
 
 1. Explain the _**seven phases of waterfall**_.
 2. Understand the _**benefits**_ and _**disadvantages**_ of utilizing waterfall over agile.

@@ -6,40 +6,30 @@ date: 2020-09-26
 
 ## During the MSIS program
 
-Upon entering the MSIS Program you will be tasked with learning SAP, an <abbr title="Enterprise Resource Planning">ERP</abbr> software which is used by companies all around the world to
-assist in their day-to-day business activities. In the ERP Module, you will be exposed to the Planning, Procurement, and Production processes followed by participating in hands-on simulations against your classmates. In preparation for this it is best if you come into the program with a bit of knowledge related to What ERP is, along with how these systems work.
+During your time in the MSIS program you will be required to learn and utilize SAP, an industry leading <abbr title="Enterprise Resource Planning">ERP</abbr> software. The SAP platform is used by organizations worldwide to assist in their day-to-day business activities, however, your uses will be relatively limited to simulated exercises involving Planning, Procurement, and Product processes. It is crucial that you understand how these processes interact with one another to successfully tackle the required coursework, which is done at both the team and individual level.
 
-## What is SAP?
-
-SAP is a globally recognized brand in the enterprise resource planning software market. In your first semester of MSIS, you will begin using SAP to streamline the previously mentioned business processes. The exercises conducted in-class will allow you to gain an understanding of the software which may aid you throughout your concentration and/or career. Although you may not currently have access to SAP, feel free to browse over the [SAP's website](https://www.sap.com/index.html).
+Feel free to _learn_ more about SAP [here](https://www.sap.com/index.html)!
 
 ## Major Concepts
 
-### Learning Outcome
+**You should have an understanding of what an ERP system is, how they are used to benefit organizations, as well as the varying data types** found within these systems.
 
-- Being able to define ERP and recognize its importance in current business world.
-
-- Being able to explain the reason of implementing ERP.
-
-- Being able to identify and define the three major different data types of organizational data, master data and transaction data.
-
-- Being able to compare different data and correctly recognize their types.
-
-- Being able to understand the concepts of Log, Undo and Redo in SAP. Being able to explain the importance of these actions in the context of real world business.
-
-- [ ] (After learning the content next page) Being able to explain the purchase cycle and revenue cycle in detail. Being able to identify the document flow in these cycles (There are 8 document in total).
+1. _**Define what an ERP system is**_
+2. Explain the _**reason an organization might implement**_ an ERP system
+3. Be able to identify and _**compare the different data types**_
+4. Understand the concepts and importance of _**Log, Undo, and Redo within the SAP platform**_
 
 ### What Is ERP? Why Do We Use It?
 
-<abbr title="Enterprise Resource Planning">ERP</abbr> is a type of software that organizations internally implement to monitor, manage and review day-to-day business activities.
+Enterprise Resource Planning is a software that organizations internally implement to monitor, manage, and review day-to-day business activities.
 
-The article, [*Enterprise Resources Planning* (ERP) ](https://www.investopedia.com/terms/e/erp.asp ) from Investopedia, gives a much more detailed definition of ERP.
+The following article, [Enterprise Resources Planning (ERP) ](https://www.investopedia.com/terms/e/erp.asp ), from Investopedia, provides a much more detailed definition of ERP.
 
-Oracle, an industry leader in ERP Software, has a [ thorough article ](https://www.oracle.com/applications/erp/what-is-erp.html)explaining the fundamental parts of an ERP system.  
+Oracle, an industry leader in ERP software, has a in-depth article explaining the fundamental parts of an ERP system: [What is ERP](https://www.oracle.com/applications/erp/what-is-erp.html)  
 
 ### The Historical Purpose of ERPs
 
-The introduction of desktop computing in the 80s, as known as "The PC revolution", granted a lot of efficiency for modern businesses. However, this efficiency came at a cost, it created gaps and silos between business departments. Companies at that time were having trouble sharing their data amongst themselves and others. As a response, ERP systems rose to be a powerful integration solution that solved this problem by allowing the users to better plan and integrate resources across all departments within an enterprise. If you are interested in the origin of ERP:
+The introduction of desktop computing in the 80s, as known as "The PC revolution", granted a lot of efficiency for modern businesses. However, this efficiency came at a cost, it created gaps and silos between business departments. Companies at that time were having trouble sharing their data amongst themselves and others. As a response, ERP systems rose to be a powerful integration solution that solved this problem by allowing the users to better plan and integrate resources across departments within an enterprise. If you are interested in the origin of ERP:
 
 > The term ERP was first used in the 1990s by the Gartner Group, but enterprise resource planning systems actually have their roots deep in the manufacturing industry, and can trace their history back to the 1960s.
 
@@ -47,66 +37,56 @@ To learn more about ERP's historical meaning, read the article ["*A Brief Histor
 
 ### Data Type
 
-There are essentially four types of data that a company use and store. They are:
+There are essentially four data types that an organization may use and store. They are:
 
-- **Configuration/Organizational Data**
-- **Master Data**
-- **Transaction Data**
-- **Situational Data**
+- Configuration/Organizational Data
+- Master Data
+- Transaction Data
+- Situational Data
 
-The first three types of data are the most common data one would use and identify. The fourth type, situational data, is data specific to tasks, and oftentimes mixed with master and transaction data.
+The first three types of data are the most common data one would use and identify. The fourth, Situational Data, is  specific to tasks, and oftentimes mixed with both Master and Transaction Data.
 
 **Configuration/Organizational data** is very easy to understand as it describes the structure of an organization.
 
 Interest in reading a few examples? Reference the following article: [*Prepare Organizational Data*](https://docs.microsoft.com/en-us/workplace-analytics/setup/prepare-organizational-data#:~:text=Examples%20of%20organizational%20data%20include,of%20direct%20reports%2C%20and%20manager.)
 
-Some might find it difficult to tell between **master data** and **transaction data**. Below are some great resources to better illustrate their differences.
+On occasion, it can be difficult to differentiate between **Master Data** and **Transaction Data**; below you will find resources which aim to better illustrate their differences.
 
-- We recommend watching the following video first. Created by Jared Hillam, a EIM Practice Director at *INTRICITY*. INTRICITY is a specialized team of over 100 data management and business process professionals providing Data Integration, BI, and Digital Transformation solutions in a variety of industries.
+We recommend watching the following video first - created by Jared Hillam, EIM Practice Director at INTRICITY. INTRICITY is a specialized team which provides Data Integration, BI (Business Intelligence), and Digital Transformation solutions across a variety of industries.
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Iv9P5D6yj30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- The author of the above video compared both data types in a more detailed article ["*Master Data vs Transaction Data*"](https://www.linkedin.com/pulse/master-data-vs-transaction-jared-hillam/) on his LinkedIn explaining more ways to decipher and mange Master Date vs Transaction Data.
 
-------
+Jared Hillam has also authored a piece which compares both data types on his LinkedIn; this article explains additional ways to decipher and manage [Master Data vs Transaction Data](https://www.linkedin.com/pulse/master-data-vs-transaction-jared-hillam/).
 
 ### Logging and Undo in SAP
 
-Most of transaction records, once <abbr title="Store the log entries so that they are constantly available for normal database operation.">logged</abbr> into the system, are impossible to be deleted in SAP. However, when necessary you should <abbr title="Set database to the consistent state that it had before the transaction was started">undo</abbr> transactions to reverse the wrong input.
+Most transaction records, once <abbr title="Store the log entries so that they are constantly available for normal database operation">logged</abbr> into a system, are impossible to delete. When necessary you should <abbr title="Set database to the consistent state that it had before the transaction was started">undo</abbr> transactions in order to reverse the wrong input.
 
 ##### There's no "delete record" for most of SAP transactions.
 
-Understand that any records belonging to a company in the real world can contain critical information. You will always need records to trace back business activities which have occurred inside the company. You don't want to lose any of the record, despite reasons such as typo.
+Understand that records oftentimes do contain critical information, and that in _most_ cases business activities must have records which are traceable back to specific dates and events.
 
 ##### Situation that you might want to "delete" or redo a transaction.
 
-For example, you are in charge of a local warehouse for an ice cream company and  input any goods shipment into SAP. You recently sent out 80 boxes of blueberry flavored ice cream. However, when you are inputting this transaction into SAP, you mistakenly put it down as 80 boxes of banana flavored ice-cream. Soon you realize the mistake you have made in your log, but goods are shipped and you cannot delete the blueberry document you created before. What can you do now?
+For example, you are in charge of a local warehouse which carries frozen goods. You recently sent out eighty boxes of Blueberry flavored ice cream. As you update your SAP system you notice that you mistakenly put down shipping out eighty boxes of Banana flavored ice cream. Upon noticing this mistake in your logs, you realize that the truck has already left the shipping dock and you are unable to delete the documents you created before. What can you do now?
 
 ##### Undo and Redo the transaction to fix log error
 
-To solve the problem, you simply need to undo whatever you have done by creating the log for that blueberry ice cream shipment. There are transaction codes for "undo" transactions in SAP just like other transactions. So, you would use the **undo** transaction to reverse that shipment of blueberry ice cream. The inventory of blueberry ice cream would be restored.
+In order to solve this problem, you would need to undo whatever you have done by creating the log for the Blueberry ice cream shipment. There are transaction codes for _**undo**_ transactions in SAP just like other transactions. So, you would use the undo transaction code to reverse that shipment of Blueberry ice cream. The inventory of Blueberry ice cream would then be restored.
 
-The next step you need to do, obviously, is to log the correct shipment for banana ice cream. You will use the same transaction code you used as you did for your last log, but this time you would **redo** the transaction of goods shipment with the correct goods.
+Next, you need to correctly log the correct shipment of ice cream. You will utilize the same transaction codes used for your last log, but this time you will _**redo**_ the transactions of goods shipped with the correct flavored ice cream.
 
-Please do click around the hyperlinks within [the SAP's official manual](https://help.sap.com/doc/saphelp_pserv472/4.72/en-US/cf/74bb3ee5bf7173e10000000a114084/content.htm?no_cache=true) on these concepts to make sure you understand this point. It is **important** to know how logging and undo works in SAP in order to use SAP smoothly. This official guide shows you lots of concepts in the process of using SAP. Please pay close attention to the following pages:
+You may find it extremely useful to reference SAP's [official manual](https://help.sap.com/doc/saphelp_pserv472/4.72/en-US/cf/74bb3ee5bf7173e10000000a114084/content.htm?no_cache=true). This manual covers the previously outlined concepts in-depth to ensure you understand the concepts up until this point. It is _critical_ to know how logging and undo functions work within SAP.
 
 - [Log Concept](https://help.sap.com/doc/saphelp_pserv472/4.72/en-US/e3/e693df6e23b94fb953b780cf8e28e5/content.htm?no_cache=true)
 - [Redo Log Entry](https://help.sap.com/doc/saphelp_pserv472/4.72/en-US/54/58c33e3a443907e10000000a114084/content.htm?no_cache=true)
 - [Undo Log Entry](https://help.sap.com/doc/saphelp_pserv472/4.72/en-US/8e/58c33e3a443907e10000000a114084/content.htm?no_cache=true)
 
-
-
-
-
-
-
 ### Exercises
 
-1. Define ERP, what does it stand for and how might it be useful in different-sized companies?
-
-2. How does ERP help with the "silos"  between business functions/departments?
-
-3. Identify what data type is for each of the following data (don't worry about identifying Situational data if you feel perplexed. Being able to identify whether they are organizational, master, or transaction data is sufficient.)
-
+1. Define ERP, what does the acronym stand for and how might it be useful in different-sized organizations?
+2. How might ERP platforms assist with "silos" between business functions and departments?
+3. Identify the data types associated with each of the following actors and activities:
     - Warehouse
     - Job role
     - Dividends
@@ -124,5 +104,4 @@ Please do click around the hyperlinks within [the SAP's official manual](https:/
     - Line of Business
     - Company Codes
     - Subscriptions
-
-4. Why is "undo" transactions necessary? Explain it by giving an real-world example. What can it do in order to manage and control the business process? (Hint: consider the following scenario, if you are the CFO and some accountant under you have created transaction for wrong amount, maybe you would really want to know what the wrong amount was and how was it fixed as you are going over the financial statement of that day.)
+4. Why is it necessary to "undo" transactions? Additionally, identify a real-world scenario where you might need to undo a transaction.
