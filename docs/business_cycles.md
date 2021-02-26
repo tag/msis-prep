@@ -7,23 +7,13 @@ date: 2020-10-20
 ## During the MSIS program
 During your time in the MSIS program you will participate in various business activities that make up the business cycles found in SAP. It is key that you understand how these activities build into the overall cycles so you can better understand the [ERP system](/ERP) and how it works.
 
-------
-
-### Learning Outcome
-
-
+### Learning Outcomes
 
 - Being able to define what a business cycle is and its significance in the companies' operations
-
 - Being able to explain the purchase cycle and revenue cycle in detail.
-
 - Being able to identify the document flow in the purchase and revenue cycles (There are 8 document in total).
-
 - Being able to describe what the production cycle, HR cycle, and accounting cycle do.
-
 - Being confident in explaining what MRP is and make examples of how it can be used in a manufacturing company in the real life.
-
-
 
 ## What is Business Cycle?
 
@@ -60,10 +50,6 @@ After reading the above articles, you should find that there are many important 
 
 *Note: You are encouraged to look online for examples of the above documents*
 
-------
-
-
-
 ### Sales Cycle (Order-to-Cash)
 
 The sales cycle is the process occurred as companies sell products to customers. It begins  when a Purchase Order (P.O.) is received from the buyers, and it ends once the Accounting Dept. has closed the transaction.
@@ -86,8 +72,6 @@ The following documents are generated within the sales cycle:
 4. **Payment Receipt**: produced by the **seller** upon receiving payment from **buyer** and/or may be reported on a monthly statement of account.
 
 *Note: You are encouraged to look online for examples of the above documents*
-
-------
 
 ### Other Business Activities Cycles
 
@@ -125,10 +109,6 @@ The following article, *[Human Resources Cycle: Comparison of models](https://ww
 
 Take a look at the [*Accounting Cycle*](https://www.investopedia.com/terms/a/accounting-cycle.asp) article on Investopedia as well as watching the embedded video as it walks you through, in depth, the Accounting Cycle.
 
-
-
-
-
 ## Exercises
 
 1. Jot down every document from the Sales and Procurement cycle.
@@ -144,8 +124,6 @@ Take a look at the [*Accounting Cycle*](https://www.investopedia.com/terms/a/acc
 >1. What were the driving factors for each implementation? In which instances did the company’s business environment force the need for an ERP system? When was the change implemented as part of the corporate strategy? Which do you think played a larger role in this process? Why?
 >2. For each SAP implementation, list pros and cons. As the VP of IT what would you have done differently to help reduce the complexity and speed up the process of these changes?
 >3. For the full-scale implementation, what role did each governance committee play in the process? Was there a need for two committees? What would be the pros and cons of using a single committee to arbitrate unification issues?
-
-
 
 ## Citation Footnotes
 
