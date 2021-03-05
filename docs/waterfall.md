@@ -24,8 +24,6 @@ Curious about Agile and/or how Waterfall compares? Check out the following modul
 
 **Disclaimer**: Oftentimes there is debate on if the waterfall methodology has five (5) or seven (7) phases. This is the  result of phases being combined; below we have ensured they are broken out but the subsequent resources may not do the same.
 
-## Major concepts
-
 1. Phases of _**waterfall**_
     1. _**Planning:**_ Focuses on determining project goals and crafting a high-level plan for the intended project. This is the most fundamental and critical phase.
     2. _**Analysis:**_ This phase analyzes end user requirements and project goals and converts them into the defined system functions the organization intends to develop.

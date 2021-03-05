@@ -24,7 +24,7 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 ## Major concepts
 
-**You should be able to construct sequence diagrams** by utilizing the **key components** outlined below. The knowledge throughout this section will build upon that outlined within the _Use Case Diagram_ module.
+**You should be able to construct sequence diagrams** by utilizing the **key components** outlined below. The knowledge throughout this section will build upon that outlined within the [Use Case Diagram](/usecase) module.
 
 1. Explain the three different _**classes**_ that make up a sequence diagram.
 2. Understand the role _**actors**_ play within a sequence diagram (refer back to the _Use Case Diagram_ module!).

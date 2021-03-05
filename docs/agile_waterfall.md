@@ -84,7 +84,7 @@ Below you will find an assortment short answer questions relating to both agile 
 3.	Within Agile, what is the optimal sprint duration?
 <details class="example">
 <summary>Answer</summary>
-  2-4 Weeks
+  2-4 Weeks is the optimal sprint duration as it allows developers ample time to produce a deliverable while not missing out on any potential requirement changes.
 </details>
 4.	What is a project scope?
 <details class="example">
@@ -177,7 +177,7 @@ Below you will find an assortment short answer questions relating to both agile 
 20.	What is RAD?
 <details class="example">
 <summary>Answer</summary>
-  Rapid Application Development
+  Rapid Application Development is a development model which places an emphasis on rapid prototyping and continuous feedback over development and testing cycles.
 </details>
 
 [awf-practice]:/images/awf-practice.pdf
