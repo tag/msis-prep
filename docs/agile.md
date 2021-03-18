@@ -85,24 +85,81 @@ These terms are elaborated upon in the following video by Axosoft[^4]. Watch thi
 
 ## Exercises
 
-1. True/False
-    - Agile values individuals and interactions while traditional SDLC values processes and tool
-    - Agile values comprehensive documentation while traditional SDLC values working software
-    - Agile values contract negotiation while traditional SDLC values customer collaboration
-    - Agile values responding to change while traditional SDLC values following a plan
-2. In your own words, define Agile. What is Agile, why should it be used for software development, and where does it shine?
-3. In your own words, define Scrum. Explain the relationship between Scrum and Agile. Do you prefer one over another? Why?
-4. Define the following key terms:
-    - User story
-    - Story point
-    - Product Owner
-    - Scrum Master
-    - Sprint
-      - Typically, how many days does a sprint last?
-    - Daily Stand-up
-    - Retrospective
-    - Product Backlog
-5. Assume that you are making a wristband that tracks health data. Try to think of some user stories of your software (at least 5+), and allocate story points to them use T-shirt size.
+1.	What is Agile?
+<details class="example">
+<summary>Answer</summary>
+  Agile is a software development methodology which emphasizes adaptive planning, iterative development, continuous improvement, and encourages short sprints that allow for a great deal of flexibility.
+</details>
+2.	What is a daily stand-up?
+<details class="example">
+<summary>Answer</summary>
+  Daily meeting between the team and Scrum Master which checks in on the teams progress, as well as touches that days agenda and covers any obstacles the team may have encountered.
+</details>
+3.	Describe a Burn Down Chart.
+<details class="example">
+<summary>Answer</summary>
+  A burn down chart represents the work left to do, versus the time remaining to do so. The charts X axis represents time and the Y axis represents outstanding work.
+</details>
+4.	What is a WIP Limit?
+<details class="example">
+<summary>Answer</summary>
+  A WIP Limit, or Work in Progress Limit, attempts to limit work being completed across a team at any given point. Its main goal is to assist in identifying bottlenecks within a development process.
+</details>
+5.	What is a sprint?
+<details class="example">
+<summary>Answer</summary>
+  A sprint is a short development cycle, usually lasting no more than two weeks which  involves the production of a deliverable.
+</details>
+6.	Describe Kanban.
+<details class="example">
+<summary>Answer</summary>
+  Kanban, despite not being iterative, is an agile methodology which focuses on continuous development in place of sprint iterations.
+</details>
+7.	What are the advantages of the Agile methodology?
+<details class="example">
+<summary>Answer</summary>
+  Reduced risk, faster development cycles, certainty surrounding scope and deliverables.
+</details>
+8.	Explain what a Kanban board is.
+<details class="example">
+<summary>Answer</summary>
+  A Kanban board is a tool used to visually manage work flows. It does so by showing the work at various stages of a process within columns representing each stage of the development process. 
+</details>
+9.	What are Story Points?
+<details class="example">
+<summary>Answer</summary>
+  Story Points are an abstract system which is used to classify the difficulty of a story or feature. A common scale used is the Fibonacci sequence (1, 2, 3, 5, 8, 13, 20, 40, 100).
+</details>
+10.	Are requirements gathered at the beginning of a project when using the Agile methodology?
+<details class="example">
+<summary>Answer</summary>
+  A small set of requirements are identified at the beginning of a project, however, as time and development goes on additional requirements are identified and worked into sprints.
+</details>
+11.	What is a user story?
+<details class="example">
+<summary>Answer</summary>
+  A User story are written by the 'customer' in order to capture  system needs. They are helpful in determining the time needed to produce a deliverable.
+</details>
+12.	Does Agile prioritize documentation over working software?
+<details class="example">
+<summary>Answer</summary>
+  No, Agile values working software over comprehensive documentation. As a result, each sprint will have a working deliverable.
+</details>
+13.	What are the responsibilities of a Product Owner?
+<details class="example">
+<summary>Answer</summary>
+  The Product Owner is tasked with creating the Product Backlog as well as identifying applicable user stories for each spring.
+</details>
+14.	What is a Scrum Team composed of?
+<details class="example">
+<summary>Answer</summary>
+  A Scrum Team is composed of a Product Owner, Scrum Master, and Developers.
+</details>
+15.	Who is the Scrum Master?
+<details class="example">
+<summary>Answer</summary>
+  The coordinator of the Spring Planning sessions, this individual is tasked with ensuring the product runs smoothly and works to resolve any obstacles the team may face.
+</details>
 
 ## Resource Footnotes
 
