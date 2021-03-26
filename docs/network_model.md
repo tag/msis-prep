@@ -32,7 +32,7 @@ Below you will find a graphic which represents the Client-Server model. The Send
 
 ### Type of Networks
 
-Networks can be categorized by different scope; when categorizing networks by <u>_geographic scope_</u>, there are three types of networks:
+Networks can be categorized by different scope; when categorizing networks by _geographic scope_, there are three types of networks:
 
 *  **Local Area Network (LAN)**: Network that link devices in close proximity to one another.
 *   **Backbone Network (BN):** Interconnects multiple networks and provides a pathway for them to exchange information.
@@ -40,15 +40,15 @@ Networks can be categorized by different scope; when categorizing networks by <u
 
 To understand more about the details and differences between these networks, you can read the following articles:
 
-[What Is a LAN?](https://www.cisco.com/c/en/us/products/switches/what-is-a-lan-local-area-network.html) (from Cisco)
+*  [What Is a LAN?](https://www.cisco.com/c/en/us/products/switches/what-is-a-lan-local-area-network.html) (from Cisco)
 
-[What is a Network Backbone?](https://blog.stackpath.com/network-backbone/) (from StackPath)
+*  [What is a Network Backbone?](https://blog.stackpath.com/network-backbone/) (from StackPath)
 
-[What is WAN?](https://www.cisco.com/c/en/us/products/switches/what-is-a-wan-wide-area-network.html) (from Cisco)
+*  [What is WAN?](https://www.cisco.com/c/en/us/products/switches/what-is-a-wan-wide-area-network.html) (from Cisco)
 
-[What Is The Difference Between A LAN And WAN?](https://network-support.com/what-is-the-difference-between-a-lan-and-wan-network/) (from Network Support)
+*  [What Is The Difference Between A LAN And WAN?](https://network-support.com/what-is-the-difference-between-a-lan-and-wan-network/) (from Network Support)
 
-When categorizing networks by <u>_different user groups_</u>, we get two types of networks:
+When categorizing networks by _different user groups_, we get two types of networks:
 
 *  **Intranet**: Internet technology that is used to share information **within** an organizations.
 *  **Extranet:** Internet technology that is used to share information **between** organizations.
@@ -67,46 +67,93 @@ Read the following article, [Protocol](https://techterms.com/definition/protocol
 #### OSI
 
 The _**Open Systems Interconnection Model**_, otherwise known as OSI, is a framework which describes the functions within a networking system. It contains seven (7) layers which make up a set of rules allowing for interoperability between different hardware and software. Below you will find those layers:
-1. Physical Layer
-2. Data link Layer
-3. Network Layer
-4. Transport Layer
-5. Session Layer
-6. Presentation Layer
-7. Application Layer
 
-[The OSI model explained](https://www.networkworld.com/article/3239677/the-osi-model-explained-and-how-to-easily-remember-its-7-layers.html) (from NetworkWorld)
+<table>
+  <tr>
+    <th> Layer # </th>
+    <th> Layer Name </th>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Application Layer</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Presentation Layer</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Session Layer</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Transport Layer</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Network Layer</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Data Link Layer</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Physical Layer</td>
+  </tr>
+</table>
 
-[CompTIA Network + Microsoft MTA Networking: OIS model](https://asmed.com/comptia-network-osi-model/) (from ASMEd)
+*  [The OSI model explained](https://www.networkworld.com/article/3239677/the-osi-model-explained-and-how-to-easily-remember-its-7-layers.html) (from NetworkWorld)
+
+*  [CompTIA Network + Microsoft MTA Networking: OIS model](https://asmed.com/comptia-network-osi-model/) (from ASMEd)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LANW3m7UgWs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 #### TCP/IP Model
 
 The TCP/IP model is a much more concise version of the OSI model. This model has brought together the seven previously outlined layers into four, much more encompassing layers. Those layers are as follows:
-1. Application Layer
-2. Transport Layer
-3. Internet Layer
-4. Network Access Layer
 
-[TCP/IP Model: Layers & Protocol](https://www.guru99.com/tcp-ip-model.html) (from Guru99)
+<table>
+  <tr>
+    <th> Layer # </th>
+    <th> Layer Name </th>
+  </tr>
+    <td>4</td>
+    <td>Network Access Layer</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Internet Layer</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Transport Layer</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Application Layer</td>
+  </tr>
+</table>
 
-[TCP/IP Protocol Architecture Model](https://docs.oracle.com/cd/E19683-01/806-4075/ipov-10/index.html) (from Oracle)
+*  [TCP/IP Model: Layers & Protocol](https://www.guru99.com/tcp-ip-model.html) (from Guru99)
+
+*  [TCP/IP Protocol Architecture Model](https://docs.oracle.com/cd/E19683-01/806-4075/ipov-10/index.html) (from Oracle)
 
 **Please note:** It is important that you are familiar with the different layers of _both_ the OSI and TCP/IP model; you should be able to speak on their functionality and applicable protocols.
 
 #### General Internet Model Resources
 
-[The Network Layers Explained](https://www.plixer.com/blog/network-layers-explained/) (from Plixer)
+*  [The Network Layers Explained](https://www.plixer.com/blog/network-layers-explained/) (from Plixer)
 
 ### How DNS and IP addresses work
 
 Interested in how DNS (Domain Name System) works? Below we have identified a handful of resources for you to be able to better understand the topic:
 
-[What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/) (from Cloudflare)
+*  [What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/) (from Cloudflare)
 
-[How DNS Works in Six Steps](https://www.verisign.com/en_US/website-presence/online/how-dns-works/index.xhtml) (from Verisign)
+*  [How DNS Works in Six Steps](https://www.verisign.com/en_US/website-presence/online/how-dns-works/index.xhtml) (from Verisign)
+
+*  [What is the Internet? (Free Course!)](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/internet-works/v/what-is-the-internet) (from Khan Academy)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rck3BALhI5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
