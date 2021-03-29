@@ -96,4 +96,3 @@ Below you will find a condensed list of walkthroughs and practice exercises pert
 [^citation-eight]: Fakhroutdinov, Kirill. ["UML Use Case Diagram Examples"](https://www.uml-diagrams.org/use-case-diagrams-examples.html).
 
 _**Coming Soon!**_
-

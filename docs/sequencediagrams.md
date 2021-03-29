@@ -112,4 +112,3 @@ Here is a small list of practice problems (with answers!) that you may find usef
 [^citation-nine]: Exercise adapted from Professor Alex Lopes, Indiana University at Bloomington, BUS-S310 Class examples.
 
 *  _**More Coming Soon!**_
-

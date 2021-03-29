@@ -22,7 +22,7 @@ During your time in the MSIS program you will participate in various business ac
 
 - [ ] Being confident in explaining what MRP is and make examples of how it can be used in a manufacturing company in the real life.
 
-  
+
 
 ## What is Business Cycle?
 
@@ -40,7 +40,7 @@ Throughout this module we will focus primarily on both the **Procurement Cycle**
 
 ### Procurement Cycle (Procure-to-Pay)
 
-Read about the Procurement Cycle: 
+Read about the Procurement Cycle:
 
 [*Procurement Cycle (The Telegraph)*](https://jobs.telegraph.co.uk/article/procurement-cycle/ )
 
@@ -110,7 +110,7 @@ We recommend you to watch the attached video (~3 minutes) created by THE BEAN CO
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMwDwtTSSjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### MRP (Material Requirements Planning) 
+#### MRP (Material Requirements Planning)
 
 The following Video (~4 minutes) created by Edspira does an excellent job of covering the concepts of MRP. Edspira is a YouTube channel created by Michael McLaughlin, PhD, CPA.
 
@@ -150,6 +150,4 @@ Take a look at the [*Accounting Cycle*](https://www.investopedia.com/terms/a/acc
 
 [^1]: This image above is retrieved from a lecture slide deck created by Porf. Joshua Dennis from Indiana University Bloomington for class A400/S337.
 [^2]: Created by MSIS student Jiaqi Xiao on 10/14/2020.
-[^3]: This is a public research article written by scholars Dmitriy S Shaltayev and Robert B Hasbrouck and it describes a case examining the transformation journey of a grocery company. 
-
-
+[^3]: This is a public research article written by scholars Dmitriy S Shaltayev and Robert B Hasbrouck and it describes a case examining the transformation journey of a grocery company.

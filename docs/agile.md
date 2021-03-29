@@ -53,7 +53,7 @@ Here is a graphical illustration of the Agile Model. The picture is retrieved fr
 
 ![Agile_Model](/images/Agile_Model.PNG)
 
-## Agile: Best Practices 
+## Agile: Best Practices
 
 Read the article from Harvard Business Review: https://hbr.org/2018/05/agile-at-scale
 
@@ -85,7 +85,7 @@ These terms are further explained in this video by Axosoft[^4]. Watch this video
 
 ## Exercises
 
-1. True/False 
+1. True/False
 
     - Agile values individuals and interactions while traditional SDLC values processes and tool
     - Agile values comprehensive documentation while traditional SDLC values working software
@@ -94,7 +94,7 @@ These terms are further explained in this video by Axosoft[^4]. Watch this video
 
     - Agile values responding to change while traditional SDLC values following a plan
 
-     
+
 
 
 
@@ -102,7 +102,7 @@ These terms are further explained in this video by Axosoft[^4]. Watch this video
 
 
 
-3. In your own words, define Scrum. Explain the relationship between Scrum and Agile. Do you prefer one over another? Why? 
+3. In your own words, define Scrum. Explain the relationship between Scrum and Agile. Do you prefer one over another? Why?
 
 
 
@@ -125,8 +125,8 @@ These terms are further explained in this video by Axosoft[^4]. Watch this video
     - Retrospective
 
     - Product Backlog
-     
-    
+
+
 
 
 
