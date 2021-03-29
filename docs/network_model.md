@@ -2,9 +2,7 @@
 authors:
     - Jiaqi Xiao & Drake Lamp
 date: 2021-02-21
-
 ---
-
 ## During the MSIS program
 
 During your time in the MSIS program you will be required to learn about the fundamentals of IT Architecture. It is expected that you have taken coursework in the past which has provided you a strong foundation for this topic, however, this module hopes to provide you a brief refresher on the OSI model, the different types of networks, as well as diving into more detail surrounding DNS and IP routing.

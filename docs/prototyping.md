@@ -4,7 +4,6 @@ authors:
     - Tom Gregory
 date: 2020-09-23
 ---
-
 # Prototyping
 
 You should be familiar with the basics of [HTML][html] and [CSS][css] which are foundational languages for prototyping web pages.

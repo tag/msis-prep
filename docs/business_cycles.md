@@ -3,7 +3,6 @@ authors:
     - Jiaqi Xiao
 date: 2020-10-20
 ---
-
 ## During the MSIS program
 
 During your time in the MSIS program you will partake in various business activities which make up the business cycles found in SAP. It is key that you understand how these activities work into the cycles so that you can better understand how <abbr title="Enterprise Resource Planning">ERP</abbr> platforms function.

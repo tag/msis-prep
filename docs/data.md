@@ -3,7 +3,6 @@ authors:
   - Tom Gregory
 date: 2020-09-28
 ---
-
 # Data Modeling & SQL
 
 You should be familiar with the core concepts of relational databases like data modeling, normalization, and SQL.

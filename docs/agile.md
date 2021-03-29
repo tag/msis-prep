@@ -3,7 +3,6 @@ authors:
     - Drake Lamp
 date: 2021-03-25
 ---
-
 ## During the MSIS program
 
 During your time in the MSIS program you will cover Agile, a now popular software development methodology found within the Information Technology industry. The content outlined throughout this module will ensure you have a basic understanding of the fundamental concepts related to Agile in order for you to make informed decisions regarding the use of the methodology.

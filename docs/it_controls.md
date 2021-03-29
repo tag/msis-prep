@@ -5,7 +5,6 @@ authors:
 date: 2020-10-05
 updated: 2020-02-02
 ---
-
 ## During the MSIS program
 
 During your time in the MSIS program you will be required to learn about IT Governance, Risk, and Compliance (GRC). This topic covers the various areas surrounding enterprise security, however, a large portion of what you will learn pertains to IT Controls and how they can be leveraged to mitigate IT risks within an organization. As a result, it is recommended that you expand your knowledge of the space prior to beginning the semester.

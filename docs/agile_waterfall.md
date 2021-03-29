@@ -3,7 +3,6 @@ authors:
     - Drake Lamp
 date: 2021-01-22
 ---
-
 ## During the MSIS program
 
 During your time in the MSIS program you will be required to partake in simulations and group projects that will take advantage of both agile and waterfall. As a result, it is expected that you will enter the program with a knowledge of these two methodologies. They are meant to aid teams throughout the development lifecycle on projects surrounding technology. However, as time has gone on, various other industries have begun to adopt these very methodologies to assist with their projects.

@@ -3,7 +3,6 @@ authors:
     - Jiaqi Xiao
 date: 2020-09-26
 ---
-
 ## During the MSIS program
 
 During your time in the MSIS program you will be required to learn and utilize SAP, an industry leading <abbr title="Enterprise Resource Planning">ERP</abbr> software. The SAP platform is used by organizations worldwide to assist in their day-to-day business activities, however, your uses will be relatively limited to simulated exercises involving Planning, Procurement, and Product processes. It is crucial that you understand how these processes interact with one another to successfully tackle the required coursework, which is done at both the team and individual level.

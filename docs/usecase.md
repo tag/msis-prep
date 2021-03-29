@@ -3,7 +3,6 @@ authors:
     - Drake Lamp
 date: 2020-09-26
 ---
-
 ## During the MSIS program
 
 During your time in the MSIS program you will be required to model processes using <abbr title = "Business Process Model and Notation"> BPMN </abbr>. It is important that you understand general modeling techniques that may aid you throughout the program on various assignments and group projects. For this reason, we expect that you have experience with <abbr title = "Unified Modeling Language"> UML </abbr> and creating Use Case Diagrams.
