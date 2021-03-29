@@ -50,7 +50,7 @@ To understand more about the details and differences between these networks, you
 
 When categorizing networks by _different user groups_, we get two types of networks:
 
-*  **Intranet**: Internet technology that is used to share information **within** an organizations.
+*  **Intranet:** Internet technology that is used to share information **within** an organizations.
 *  **Extranet:** Internet technology that is used to share information **between** organizations.
 
 ### Network Layers

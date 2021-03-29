@@ -1,7 +1,7 @@
 ---
 authors:
-    - Jiaqi Xiao
-date: 2020-10-21
+    - Drake Lamp
+date: 2021-03-25
 ---
 
 ## During the MSIS program
@@ -14,76 +14,62 @@ Curious about Waterfall and/or how Agile compares? Check out the following modul
 
 ## Major Concepts
 
-**You should be have an understanding of the Agile development methodology** and understand when it is best to apply it over other potential development methodologies.
+**You should have an understanding of the Agile development methodology** as well as understand when it is best to apply it over other potential development methodologies.
 
-- Define Agile, and know what it values
-- Identify the primary advantages and disadvantages of Agile
-- Describe the process of Scrum
-- Explain the key terms of Scrum methodology that are listed in the exercises
+- _**Define**_ Agile, Scrum, and Kanban
+- Understand the _**advantages**_ and _**disadvantages**_ of Agile
+- Explain the _**key terms outlined within the Scrum section**_
+- Be knowledgeable on _**how a Kanban board works**_
+- Recognize the _**differences between Agile, Scrum, and Kanban**_
 
-## What is Agile?
+## Agile
+### What is Agile?
 
-In the software development world, Agile describes [a set of values and principles in a manifesto]( http://agilemanifesto.org/)for software development.
+Agile is an iterative approach to software development and project management which places value on fast delivery, flexibility, feedback from end-users, and continuous development. These values are also shared with Scrum, a similar framework which will be touched upon later.
 
-> "We are uncovering better ways of developing
-> software by doing it and helping others do it.
-> Through this work we have come to value:
->
-> **Individuals and interactions** over **processes and tools**
-> **Working software** over **comprehensive documentation**
-> **Customer collaboration** over **contract negotiation**
-> **Responding to change** over **following a plan**
->
-> That is, while there is value in the items on
-> the right, we value the items on the left more."
->
-> -*Manifesto for Agile Software Development*
+*  [What is Agile?](https://www.atlassian.com/agile) (from Atlassian)
 
-Aside from these fundamental values, Agile takes a collaborative approach to software development. The methodology values fast delivery, flexibility, feedback from end-users, and continuous development. These values are also shared with Scrum, a similar framework which will be touched upon later.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z9QbYZh1YXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The following video (~12min) created by Mark Shead, an Agile coach and software engineer,[^1] explains Agile in-depth regarding its values and principals. Upon completion you should be familiar with the basic outline of Agile.
+### How does Agile work?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z9QbYZh1YXY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Agile Model
-
-Agile believes that software development projects are unique, and as a result they require continuous iterations tailored to suit the changing requirements at each stage. When working with Agile, teams turn projects into small, continuous deliverables spread out amongst many phases.
-
-Releases happen at the conclusion of each phase. During a fixed time period, usually of two weeks, teams create a delivery according to the current outlined requirements. Phases are also commonly referred to as iterations. When an iteration concludes, developers gather feedback from the client and move forward to determine features for the next iteration.
-
-Below is a graphical illustration of the Agile Model. The picture is retrieved from Tutorialspoint[^2],
-
-![Agile_Model](/images/Agile_Model.PNG)
-
-## Agile: Best Practices
-
-Read the following article from Harvard Business: https://hbr.org/2018/05/agile-at-scale
 
 ## Scrum
-
-There are many frameworks within the Agile methodology. Below you will be introduced to Scrum, the most popular Agile framework.
-
 ### What is Scrum?
 
 Scrum is an Agile methodology or framework that has become widely used by developers on software development projects. It applies and expands upon the fundamental values and principals of the Agile methodology while incorporating defined team roles, events, artifacts, and rules.
 
-Read the following article, ["What Is Scrum Methodology?"](https://digital.ai/resources/agile-101/what-is-scrum), from digital.ai[^3] as it explains the Scrum methodology in detail. Pay close attention to the following key terms:
+*  [Scrum - what it is, how it works, and why it's awesome](hhttps://www.atlassian.com/agile/scrum) (from Atlassian)
 
-- Product Owner
-- Scrum Master
-- Sprint
-- Daily Stand-up
-- Retrospective
-- Product Backlog
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9TycLR0TqFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-These terms are elaborated upon in the following video by Axosoft[^4]. Watch this video to better understand how these elements are  applied in software development. Pay close attention to the following key terms:
+### How does Scrum fit into Agile?
 
-- User story
-- Story point(s)
+### Scrum Key terms
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XU0llRltyFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Because
 
-## Exercises
+*  **Product Owner:**
+*  **Scrum Master:**
+*  **Sprint:**
+*  **Daily Stand-up:** A session which brings the team together each morning to give status updates, as well as highlighting any impediments the team may be facing.
+*  **Retrospective:** A session focused on finding ways to identify potential pitfalls, past mistakes, while seeking out new ways to avoid mistakes in the future.
+*  **Product Backlog:** List of features, changes to existing features, bug fixes, or needed infrastructure changes that a team is asked to deliver in order to achieve a specific outcome.
+
+
+## Kanban
+### What is Kanban?
+
+*  [Kanban - A brief introduction](https://www.atlassian.com/agile/kanban) (from Atlassian)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iVaFVa7HYj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### How does Kanban work?
+
+### How does Kanban fit into Agile?
+
+
+## Practice
 
 1.	What is Agile?
 <details class="example">
@@ -123,7 +109,7 @@ These terms are elaborated upon in the following video by Axosoft[^4]. Watch thi
 8.	Explain what a Kanban board is.
 <details class="example">
 <summary>Answer</summary>
-  A Kanban board is a tool used to visually manage work flows. It does so by showing the work at various stages of a process within columns representing each stage of the development process. 
+  A Kanban board is a tool used to visually manage work flows. It does so by showing the work at various stages of a process within columns representing each stage of the development process.
 </details>
 9.	What are Story Points?
 <details class="example">
@@ -160,10 +146,3 @@ These terms are elaborated upon in the following video by Axosoft[^4]. Watch thi
 <summary>Answer</summary>
   The coordinator of the Spring Planning sessions, this individual is tasked with ensuring the product runs smoothly and works to resolve any obstacles the team may face.
 </details>
-
-## Resource Footnotes
-
-[^1]:An Agile coach and software engineer who graduated from Harvard University and now serves as the president of Xeric Corporation.
-[^2]:A website providing tutorials on a various of academics subjects: https://www.tutorialspoint.com/index.htm
-[^3]: A technology company that helps enterprises deploy different software development techniques and manage applications: https://digital.ai/
-[^4]: A company that dedicates to help software developers use Agile and Scrum methodology.
