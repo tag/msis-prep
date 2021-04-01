@@ -1,171 +1,144 @@
 ---
 authors:
-    - Jiaqi Xiao
-date: 2020-10-21
+    - Drake Lamp
+date: 2021-03-25
 ---
-
-# Agile
-
 ## During the MSIS program
 
-There are many module of MSIS Core that would cover the concept of Agile as it is now a very popular and common software development practice in IT industry. What you would learn from this page will help you gain a good understanding of the fundamentals of Agile development, and prepare you to learn more advanced concept and do hands-on practice with Agile development in the MSIS.
+During your time in the MSIS program you will cover Agile, a now popular software development methodology found within the Information Technology industry. The content outlined throughout this module will ensure you have a basic understanding of the fundamental concepts related to Agile in order for you to make informed decisions regarding the use of the methodology.
 
- 
+Curious about Waterfall and/or how Agile compares? Check out the following modules:
+*  [Waterfall](/waterfall)
+*  [Agile vs. Waterfall](/agile_waterfall)
 
 ## Major Concepts
 
-### Learning Outcome
+**You should have an understanding of the Agile development methodology** as well as understand when it is best to apply it over other potential development methodologies.
 
-- [ ] Being able to define Agile, and know what it values.
-- [ ] Being able to identify some advantages and disadvantages of Agile.
-- [ ] Being able to describe the process of Scrum.
-- [ ] Being able to explain the key terms of Scrum methodology that are listed in the exercises.
+- Define _**Agile**_, _**Scrum**_, and _**Kanban**_
+- Explain the advantages and disadvantages of Agile
+- Understand how a _**Kanban board**_ works
+- Recognize the differences between Agile, Scrum, and Kanban
 
+## Agile
+### What is Agile?
 
+Agile is an iterative approach to software development and project management which places value on fast delivery, flexibility, feedback from end-users, and continuous development. These values are also shared with Scrum, a similar framework which will be touched upon later.
 
-## What is Agile? 
+*  [What is Agile?](https://www.atlassian.com/agile) (from Atlassian)
 
-In software development world, Agile describes [a set of values and principles in a manifesto]( http://agilemanifesto.org/)for software development. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z9QbYZh1YXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> "We are uncovering better ways of developing
-> software by doing it and helping others do it.
-> Through this work we have come to value:
->
-> **Individuals and interactions** over **processes and tools**
-> **Working software** over **comprehensive documentation**
-> **Customer collaboration** over **contract negotiation**
-> **Responding to change** over **following a plan**
->
-> That is, while there is value in the items on
-> the right, we value the items on the left more."
->
-> -*Manifesto for Agile Software Development*
-
-Besides these fundamental values, the Agile practices approach software development through collaborate effort of teams, and it values elements including fast delivery, flexibility, feedback from end-users, and continuous evolutions.  These values and practices are carried out in lots of software development frameworks. We will touch on one of them, Scrum, in this section later.
-
-Watch this video (~12min) created by Mark Shead, an Agile coach and software engineer,[^1]as the video explains Agile in-depth regarding its values and principals. You should be familiar with the concepts of Agile after watching it.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z9QbYZh1YXY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-## Agile Model
-
-As Agile believes that software development projects are unique, Agile models require continuous improvements that are tailored to suit requirements at different stages. When working in the Agile style, teams always divided the project based to small time frames as time boxes to deliver specific features or updates for each release. 
-
-Releases happen at the end of each time box. During a fixed time period, the team would take an iterative approach to try to meet requirement. Every period is also called an iteration. When an iteration is over, developers would communicate with the clients, gather feedback and plan for new features for next iteration.
-
-Here is a graphical illustration of the Agile Model. The picture is retrieved from Tutorialspoint[^2], 
-
-![Agile_Model](/images/Agile_Model.PNG)
-
-
-
-## Agile: Pros And Cons
-
-Tutorialspoint[^2] offers a free tutorial module on SDLC. On the page ["SDLC - Agile Model"](https://www.tutorialspoint.com/sdlc/sdlc_agile_model.htm#:~:text=Agile%20SDLC%20model%20is%20a,builds%20are%20provided%20in%20iterations.), the website did a great job explaining Agile and its significance. The website also offers this great list of the pros and cons of Agile model:
-
-Advantages:
->- Is a very realistic approach to software development.
->- Promotes teamwork and cross training.
->- Functionality can be developed rapidly and demonstrated.
->- Resource requirements are minimum.
->- Suitable for fixed or changing requirements
->- Delivers early partial working solutions.
->- Good model for environments that change steadily.
->- Minimal rules, documentation easily employed.
->- Enables concurrent development and delivery within an overall planned context.
->- Little or no planning required.
->- Easy to manage.
->- Gives flexibility to developers.
-
-Disadvantages
->- Not suitable for handling complex dependencies.
->- More risk of sustainability, maintainability and extensibility.
->- An overall plan, an agile leader and agile PM practice is a must without which it will not work.
->- Strict delivery management dictates the scope, functionality to be delivered, and adjustments to meet the deadlines.
->- Depends heavily on customer interaction, so if customer is not clear, team can be driven in the wrong direction.
->- There is a very high individual dependency, since there is minimum documentation generated.
->- Transfer of technology to new team members may be quite challenging due to lack of documentation.
-
+### How does Agile work?
 
 
 ## Scrum
-
-There are many frameworks for Agile development. In this module, you will be introduced on the Scrum framework, the most popular Agile framework.
-
 ### What is Scrum?
 
-In simple words, scrum is an Agile methodology or framework that is widely applied by developers for software development projects. It applies the fundamental values and principals of Agile while it has some additional characteristics such as defined team roles, events and ceremonies, artifacts, and rules.
+Scrum is an Agile methodology or framework that has become widely used by developers on software development projects. It applies and expands upon the fundamental values and principals of the Agile methodology while incorporating defined team roles, events, artifacts, and rules.
 
-Read this great article ["What Is Scrum Methodology?"](https://digital.ai/resources/agile-101/what-is-scrum) from digital.ai[^3] as it explains the Scrum methodology quite thoroughly. Pay attention to the following key terms of this framework:
+*  [Scrum - what it is, how it works, and why it's awesome](hhttps://www.atlassian.com/agile/scrum) (from Atlassian)
 
-- Product Owner
-- Scrum Master
-- Sprint
-- Daily Stand-up
-- Retrospective
-- Product Backlog
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9TycLR0TqFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Scrum Key terms
 
+Because
 
-These terms are further explained in this video by Axosoft[^4]. Watch this video to better understand how these elements are practically applied in software development. While you are watching the video, pay attention to the following key terms:
-
-- User story
-- Story point
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XU0llRltyFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*  **Product Owner:**
+*  **Scrum Master:**
+*  **Sprint:**
+*  **Daily Stand-up:** A session which brings the team together each morning to give status updates, as well as highlighting any impediments the team may be facing.
+*  **Retrospective:** A session focused on finding ways to identify potential pitfalls, past mistakes, while seeking out new ways to avoid mistakes in the future.
+*  **Product Backlog:** List of features, changes to existing features, bug fixes, or needed infrastructure changes that a team is asked to deliver in order to achieve a specific outcome.
 
 
+## Kanban
+### What is Kanban?
 
-## Exercises
+*  [Kanban - A brief introduction](https://www.atlassian.com/agile/kanban) (from Atlassian)
 
-1. Choose the correct Agile value from the below pairs of SDLC values:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iVaFVa7HYj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-   a. Individuals and interactions / Processes and tools
-   b. Comprehensive documentation / Working software
-   c. Contract negotiation / Customer collaboration
-   d. Responding to change / following a plan
+<!-- ### How does Kanban work?
 
-   
-
-2. In your own words, define Agile. What is Agile, why should it be used for software development, and where does it shine?
-
-   
-
-3. In your own words, define Scrum. Explain the relationship between Scrum and Agile.
-
-   
-
-4. Define the following key terms:
-
-   - User story 
-
-   - Story point
-
-   - Product Owner
-
-   - Scrum Master
-
-   - Sprint 
-
-     - Typically, how many days does a sprint last?
-
-   - Daily Stand-up
-
-   - Retrospective
-
-   - Product Backlog
-
-     
-
-5. Assume that you are using Agile to develop a software. Try to think of some user stories of your software (at least 5+), and allocate story points to them use T-shirt size.
+### How does Kanban fit into Agile? -->
 
 
+## Practice
 
-## Resource Footnotes
-
-[^1]:An Agile coach and software engineer who graduated from Harvard University and now serves as the president of Xeric Corporation.
-[^2]:A website providing tutorials on a various of academics subjects: https://www.tutorialspoint.com/index.htm
-[^3]: A technology company that helps enterprises deploy different software development techniques and manage applications: https://digital.ai/
-[^4]: A company that dedicates to help software developers use Agile and Scrum methodology.
+1.	What is Agile?
+<details class="example">
+<summary>Answer</summary>
+  Agile is a software development methodology which emphasizes adaptive planning, iterative development, continuous improvement, and encourages short sprints that allow for a great deal of flexibility.
+</details>
+2.	What is a daily stand-up?
+<details class="example">
+<summary>Answer</summary>
+  Daily meeting between the team and Scrum Master which checks in on the teams progress, as well as touches that days agenda and covers any obstacles the team may have encountered.
+</details>
+3.	Describe a Burn Down Chart.
+<details class="example">
+<summary>Answer</summary>
+  A burn down chart represents the work left to do, versus the time remaining to do so. The charts X axis represents time and the Y axis represents outstanding work.
+</details>
+4.	What is a WIP Limit?
+<details class="example">
+<summary>Answer</summary>
+  A WIP Limit, or Work in Progress Limit, attempts to limit work being completed across a team at any given point. Its main goal is to assist in identifying bottlenecks within a development process.
+</details>
+5.	What is a sprint?
+<details class="example">
+<summary>Answer</summary>
+  A sprint is a short development cycle, usually lasting no more than two weeks which  involves the production of a deliverable.
+</details>
+6.	Describe Kanban.
+<details class="example">
+<summary>Answer</summary>
+  Kanban, despite not being iterative, is an agile methodology which focuses on continuous development in place of sprint iterations.
+</details>
+7.	What are the advantages of the Agile methodology?
+<details class="example">
+<summary>Answer</summary>
+  Reduced risk, faster development cycles, certainty surrounding scope and deliverables.
+</details>
+8.	Explain what a Kanban board is.
+<details class="example">
+<summary>Answer</summary>
+  A Kanban board is a tool used to visually manage work flows. It does so by showing the work at various stages of a process within columns representing each stage of the development process.
+</details>
+9.	What are Story Points?
+<details class="example">
+<summary>Answer</summary>
+  Story Points are an abstract system which is used to classify the difficulty of a story or feature. A common scale used is the Fibonacci sequence (1, 2, 3, 5, 8, 13, 20, 40, 100).
+</details>
+10.	Are requirements gathered at the beginning of a project when using the Agile methodology?
+<details class="example">
+<summary>Answer</summary>
+  A small set of requirements are identified at the beginning of a project, however, as time and development goes on additional requirements are identified and worked into sprints.
+</details>
+11.	What is a user story?
+<details class="example">
+<summary>Answer</summary>
+  A User story are written by the 'customer' in order to capture  system needs. They are helpful in determining the time needed to produce a deliverable.
+</details>
+12.	Does Agile prioritize documentation over working software?
+<details class="example">
+<summary>Answer</summary>
+  No, Agile values working software over comprehensive documentation. As a result, each sprint will have a working deliverable.
+</details>
+13.	What are the responsibilities of a Product Owner?
+<details class="example">
+<summary>Answer</summary>
+  The Product Owner is tasked with creating the Product Backlog as well as identifying applicable user stories for each spring.
+</details>
+14.	What is a Scrum Team composed of?
+<details class="example">
+<summary>Answer</summary>
+  A Scrum Team is composed of a Product Owner, Scrum Master, and Developers.
+</details>
+15.	Who is the Scrum Master?
+<details class="example">
+<summary>Answer</summary>
+  The coordinator of the Spring Planning sessions, this individual is tasked with ensuring the product runs smoothly and works to resolve any obstacles the team may face.
+</details>

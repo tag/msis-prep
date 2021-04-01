@@ -22,8 +22,23 @@ Use inline code marks for:
 
 Use fenced code blocks for any command line examples.
 
+## Admonitions
 !!! note "Optional title"
-    This is an admonition. The Cinder theme currently supports `note`, `warning`, and `danger` admonition types.
+    This is an admonition. The Material theme supports many types of admonitions.
+
+Use collapsable admonitions for exercise answers.
+
+??? example "Answer"
+    This is an admonition body.
+
+When inside nested lists, it may be necessary to use raw HTML for admonitions:
+
+```html
+<details class="example">
+<summary>Answer</summary>
+<p>Markdown-enabled *content* goes here.</p>
+</details>
+```
 
 ## Images
 Images **shall** have an alt-text and title. Use this link style for images.

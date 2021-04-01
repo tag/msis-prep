@@ -3,8 +3,7 @@ authors:
     - Tom Gregory
 date: 2020-09-23
 ---
-
-# Programming
+# Computer Programming
 
 You should already be familiar with at least one object-oriented programming language. [Java][java] and [Python][python] are useful languages for this purpose.
 
@@ -23,7 +22,7 @@ You are encouraged to practice with Python, as that is what a majority of our in
 **You should be able to write simple programs** in at least one programming language. (It doesn't matter which one.) Using the code of the program you wrote, you should also be able to do the following:
 
 1. Explain variable _**types**_ in the programming language you learned.
-2. Use _**control structures**_ like `if` statements and loops  to control a program's flow
+2. Use _**control structures**_ like `if` statements and loops  to control a program's flow.
 3. Build one or more functions or object methods that accept parameters and have return types.
 4. Explain _**encapsulation**_, and why code is often organized into objects and classes.
     1. Explain the difference between a _**class**_ and an object _**instance**_.
@@ -39,7 +38,7 @@ There are many great resources for learning basic programming. Learning on your 
 
 Most of the resources listed here are for Python, but you should be able to find similar resources for any programming language. When looking for Python resources, make sure it covers Python 3 and not Python 2.
 
-There are many ways to learn Python, from online tutorials, online learning companies like [Data Camp][datacamp] and [Code Academy][codeacademy], and even [EdX courses](edx).
+There are many ways to learn Python, from online tutorials, online learning companies like [Data Camp][datacamp] and [Code Academy][codeacademy], and even [EdX courses][edx].
 
 [datacamp]:https://www.datacamp.com/courses/intro-to-python-for-data-science
 [codeacademy]:https://www.codecademy.com/catalog/language/python
