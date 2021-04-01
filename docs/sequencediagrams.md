@@ -3,10 +3,9 @@ authors:
     - Drake Lamp
 date: 2020-10-03
 ---
-
 ## During the MSIS program
 
-During your time in the MSIS program you will be required to model processes using <abbr title = "Business Process Model and Notation"> BPMN </abbr>, primarily in the <abbr title = "Agile, Processes, and Automation"> APA </abbr> module. However, it is important that you understand general modeling techniques that may aid you throughout the program on various assignments and group projects. As a result, it is expected that students entering the MSIS program are able to fully utilize <abbr title = "Unified Modeling Language"> UML </abbr> when analyzing cases and creating Sequence Diagrams.
+During your time in the MSIS program you will be required to model processes using <abbr title = "Business Process Model and Notation"> BPMN </abbr>. It is important that you understand general modeling techniques that may aid you throughout the program on various assignments and group projects. As a result, it is expected that students entering the MSIS program are able to fully utilize <abbr title = "Unified Modeling Language"> UML </abbr> when analyzing cases and creating Sequence Diagrams.
 
 You are encouraged to practice with Microsoft Visio as this is primarily used throughout the program. However, below are a few other options which will be sufficient.
 
@@ -24,7 +23,7 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 ## Major concepts
 
-**You should be able to construct sequence diagrams** by utilizing the **key components** outlined below. The knowledge throughout the section will build upon that outlined within the _Use Case Diagram_ module.
+**You should be able to construct sequence diagrams** by utilizing the **key components** outlined below. The knowledge throughout this section will build upon that outlined within the [Use Case Diagram](/usecase) module.
 
 1. Explain the three different _**classes**_ that make up a sequence diagram.
 2. Understand the role _**actors**_ play within a sequence diagram (refer back to the _Use Case Diagram_ module!).
@@ -40,11 +39,11 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 **Disclaimer**: Some of these concepts may go by slightly different names throughout both the Resource and Practice sections. However, their uses remain the same.
 
 1. Types of _**Classes**_
-    1. Boundaries: Boundaries are only able to talk to Controllers or Actors.
+    1. Boundaries: Boundaries are _only_ able to talk to Controllers or Actors.
     2. Controllers: Implement the flow of logic for the sequence diagram; it is recommended that you only have _**one**_ controller per diagram.  
     3. Entities: Represents data within a system.
-2. _**Actors**_: Those who interact with the system; actors are only able to 'talk' to Boundaries.
-3. _**Lifeline**_: Represented as dashed lines, these must go from the top of the diagram to the bottom.
+2. _**Actors**_: Those who interact with the system; actors are _only_ able to 'talk' to Boundaries.
+3. _**Lifeline**_: Represented as dashed lines, these _must_ go from the top of the diagram to the bottom.
 4. _**Execution Occurrence**_: Used to represent the time when a class is sending and/or receiving messages within the sequence diagram.
 5. _**Kills**_: Rarely used, however, meant to kill any object that is no longer needed.
 6. _**Communication**_ in sequence diagrams
@@ -59,34 +58,38 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 ## Resources
 
-*  [Sequence Diagrams 101 (General Overview)][visual-link][^citation-one] This article serves as a good overview of sequence diagrams by discussing their purpose as well as diving more into _**actors, lifelines, activations, loops, etc.**_
+*  It will benefit you to start with the following article, [Sequence Diagrams 101 (General Overview)][visual-link][^citation-one]. serves as a good overview of sequence diagrams by discussing their purpose as well as diving more into _**actors, lifelines, activations, loops, etc.**_
+
 [visual-link]:https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
 
 [^citation-one]: ["What Is Sequence Diagram?"](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/) What Is Sequence Diagram?", Visual Paradigm.
 
-*  [Sequence Diagrams (Chapter 10, with Questions)][chapter-resource][^citation-two] The attached Chapter offers a high-level overview of sequence diagrams while going into specifics surrounding _**messages**_.
+*  Next, you may find it beneficial to read the following chapter. [Sequence Diagrams (Chapter 10, with Questions)][chapter-resource][^citation-two] This resource gives additional review of Sequence Diagrams, while placing an emphasis on _**messages.**_
+
 [chapter-resource]:https://www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf
 [^citation-two]: ["Sequence Diagram?"](https://www.cpe.ku.ac.th/~plw/oop/e_book/ood_with_java_c++_and_uml/ch12.pdf) Kasetsart University.
 
-*  [Sequence Diagrams 101 (Video Refresher)][youtube-one][^citation-three] This video offers a very low-level explanation of sequence diagrams and the associated concepts such as _**classes, actors, lifelines, messages, and more**_  through a step-by-step example.
+*  Ready for a step-by-step example? If so, refer to the following video. [Sequence Diagrams 101 (Video Refresher)][youtube-one][^citation-three] It also provides additional explanations of _**classes, actors, lifelines, messages.**_
+
 [![Sequence Diagrams 101 (Video Refresher)](https://img.youtube.com/vi/_Mzi1rYtI5U/0.jpg)](https://www.youtube.com/watch?v=_Mzi1rYtI5U)
 [youtube-one]:https://www.youtube.com/watch?v=_Mzi1rYtI5U
 
 [^citation-three]: Master2Teach. [“Sequence Diagram - Step by Step Guide with Example.”](https://www.youtube.com/watch?v=_Mzi1rYtI5U) Online video clip. YouTube. YouTube, 14 April 2020. Web. 10 October 2020.
 
-*  [Sequence Diagrams (Coding Example)][youtube-two][^citation-four] The attached video compares sequence diagrams to coding examples in an effort to relate the two together while covering _**messages**_ in depth.
+*  Interested in learning how Sequence Diagrams can improve a technical coding project? Watch the following video! [Sequence Diagrams (Coding Example)][youtube-two].[^citation-four] It not only brings the two together, but it also continues to cover _**messages.**_
 
 [![Sequence Diagrams (Coding Example)](https://img.youtube.com/vi/EoXKS-0S3qs/0.jpg)](https://www.youtube.com/watch?v=EoXKS-0S3qs)
 [youtube-two]:https://www.youtube.com/watch?v=EoXKS-0S3qs
 [^citation-four]: Jones, Brandan. [“Model Method Calls with UML Sequence Diagram.”](https://www.youtube.com/watch?v=EoXKS-0S3qs) Online video clip. YouTube. YouTube, 23 June 2018. Web. 10 October 2020.
 
-*  [Sequence Diagrams (Tutorial/Practice)][youtube-three][^citation-five] This video explains what a sequence diagram is followed by a creating an example using Lucidchart. Some of the covered topics include _**lifelines, messages, loops**_, and more.
+*  Bringing things together, it is recommended you watch the following video, [Sequence Diagrams (Tutorial/Practice)][youtube-three].[^citation-five] This video walks through constructing a Sequence Diagram by using LucidChart and further covers _**lifelines, messages, loops.**_
+
 [![Sequence Diagrams (Tutorial/Practice)](https://img.youtube.com/vi/pCK6prSq8aw/0.jpg)](https://www.youtube.com/watch?v=pCK6prSq8aw)
 [youtube-three]:https://www.youtube.com/watch?v=pCK6prSq8aw
 [^citation-five]: Lucidchart. [“How to make a UML Sequence Diagram.”](https://www.youtube.com/watch?v=pCK6prSq8aw) Online video clip. YouTube. YouTube, 27 August 2018. Web. 10 October 2020.
 
 
-*  [Use Case Diagrams to Sequence Diagrams][youtube-four][^citation-six] This brief video offers a quick refresher into _**constructing a sequence diagram**_ while relating it back to a use case diagram.
+*  Are you just looking for a quick refresher to Sequence Diagrams? We recommend checking out the following video, [Use Case Diagrams to Sequence Diagrams][youtube-four].[^citation-six] It covers both _**constructing a sequence diagram**_ while relating it back to Use Case Diagrams.
 
 [![Converting Use Case Diagrams to Sequence Diagrams](https://img.youtube.com/vi/aaAjndV5kBg/0.jpg)](https://www.youtube.com/watch?v=aaAjndV5kBg)
 [youtube-four]:https://www.youtube.com/watch?v=aaAjndV5kBg
@@ -106,9 +109,10 @@ Here is a small list of practice problems (with answers!) that you may find usef
 
 [^citation-eight]: Dalbey, John. ["Sequence Diagram Exercises"](https://users.csc.calpoly.edu/~jdalbey/305/Labs/SequenceDiagramExercises.html), California Polytechnic State University.
 
-*  **Interactions with Actor and System:** Assume the role of a Country Club owner, you will be required to make requests to the system in order to identify active members, club sales as well as what the those sales consisted of. Before moving onto the next request ensure that the Owner has received the previously requested information. [Answer Provided][club-practice] [^citation-nine]
-[club-practice]:/images/club-practice.png
+*  **Interactions with Actor and System:** Assume the role of a Country Club owner, you will be required to make requests to the system in order to identify active members, club sales as well as what the those sales consisted of. Before moving onto the next request ensure that the Owner has received the previously requested information.[^citation-nine]
+<details class="example">
+<summary>Answer</summary>
+![alt text](/images/club-practice.png)
+</details>
 
 [^citation-nine]: Exercise adapted from Professor Alex Lopes, Indiana University at Bloomington, BUS-S310 Class examples.
-
-*  _**More Coming Soon!**_

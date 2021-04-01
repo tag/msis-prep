@@ -5,7 +5,6 @@ authors:
 date: 2020-09-29
 updated: 2021-02-02
 ---
-
 # Statistics
 
 You should be familiar with basic statistical concepts like measures of central tendency (mean, median, mode), dispersion (standard deviation, variance), and linear regression.

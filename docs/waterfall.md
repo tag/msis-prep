@@ -3,19 +3,21 @@ authors:
     - Drake Lamp
 date: 2020-10-16
 ---
-
 ## During the MSIS program
 
-As part of your study of managing successful IT initiatives, you will be required to learn both agile and waterfall, two methodologies that are used across development lifecycles. There are advantages and disadvantages to each, and you will learn the contexts best suited for each. On this page, we will focus primarily on waterfall, its concepts and main uses. This site has a companion [page that introduces agile](agile), and materials that [compare and contrast waterfall and agile](agile_waterfall).
+During your time in the MSIS program you will be required to learn and use both agile and waterfall, two methodologies used across development lifecycles. These two methodologies will serve you across various assignments and projects throughout the program. However, you must understand the advantages and disadvantages of using each one. For now, we will focus primarily on waterfall, its concepts, and when it is best used. If you are interesting in learning more about agile, please refer to the appropriate module.
+
+Curious about Agile and/or how Waterfall compares? Check out the following modules:
+*  [Agile](/agile)
+*  [Agile vs. Waterfall](/agile_waterfall)
 
 ## Major concepts
 
-You should have a basic understanding of the waterfall development methodology, and understand when it is best to apply it over other potential development methodologies.
+You should have an understanding of the waterfall development methodology and understand when it is best to apply it over other potential development methodologies.
 
-1. Understand the history of the _**waterfall**_ approach to development.
-2. Explain the _**phases**_ of waterfall.
-3. Understand the contexts where waterfall might be preferred to agile.
-4. Be able to determine the best methodology for a given project.
+1. Explain the _**seven phases of waterfall**_.
+2. List the advantages and disadvantages of utilizing waterfall over agile.
+
 
 _Disclaimer: There is occasionally disagreement as to "proper" number of phases in waterfall. We will describe it as having seven phases, some sources use a different number. This is a result of phases being combined. No matter the number of phases used by a given source, the principles are the same._
 
@@ -49,29 +51,34 @@ In theory, waterfall development moves forward phase by phase, and never backwar
 4. Difficult to accommodate changing requirements during SDLC. Sometimes requirements change, either due to outside forces or a better understanding of the problem. The phased nature of waterfall makes it difficult to "back up" and re-do previous phases when requirements change. Because requirements change is usually seen as a high-risk activity, organizations typically have a formal process for project changes.
 5. Big-bang Deployment; may lead to extensive deployment problems (High Risk)
 
-![Waterfall Methodology Lifecycle](/images/waterfall_lifecycle.png "Phases of Waterfall development") .
+![Waterfall Methodology Lifecycle](/images/waterfall_lifecycle.png "Phases of Waterfall development")
+
+<!-- waterfall is dead -->
 
 ## Resources
 
-*  [SDLC - Waterfall Methodology Overview][tutorials-point][^citation-one] This article briefly outlines _**waterfall, its phases, and the advantages and disadvantages**_ of utilizing the methodology in the development cycle
+*  First, it may be beneficial for you to start with the following article, [SDLC - Waterfall Methodology Overview][tutorials-point][^citation-one]. This focuses on outlining the _**waterfall methodology**_ while going into detail regarding its _**phases**_ as well as its _**advantages and disadvantages.**_
+
 [tutorials-point]:https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm
 [^citation-one]: ["SDLC - Waterfall Model"](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm)
 
-*  [Waterfall vs. Agile: Must Know Differences][guru-article][^citation-two] The attached article is great for understanding the key _**differences between the waterfall and agile methodologies.**_
+*  Once you understand the fundamentals of waterfall, it is great to understand how it differs from other methodologies. The following article, [Waterfall vs. Agile: Must Know Differences][guru-article][^citation-two], touches on the _**key differences**_ between waterfall and agile.
+
 [guru-article]:https://www.guru99.com/waterfall-vs-agile.html
 [^citation-two]:[“Agile Vs Waterfall: Know the Difference Between Methodologies.](https:/8/www.guru99.com/waterfall-vs-agile.html) Guru99
 
-*  [Choosing Waterfall over Agile][smartsheet][^citation-three] This article goes in depth about the _**history of waterfall, its benefits, and when to choose it over Agile.**_
+*  Curious on the history and uses of waterfall? Refer to the following article: [Choosing Waterfall over Agile][smartsheet][^citation-three]. This article touches on the _**history of waterfall**_ as well as its _**benefits**_ and _**when it is best applied.**_
+
 [smartsheet]:https://www.smartsheet.com/when-choose-waterfall-project-management-over-agile
 [^citation-three]: Eby, Kate. [“Using Waterfall Project Management Over Agile.”](https://www.smartsheet.com/when-choose-waterfall-project-management-over-agile) Smartsheet, 28 Sept. 2016
 
-*  [What is Waterfall?][youtube-one][^citation-four] The following video provides an overview of the associated _**phases.**_
+*  Looking for more information regarding waterfall, while learning more about its phases? Refer to the following video! [What is Waterfall?][youtube-one][^citation-four]. This video continues to _**outline the methodology**_ while further detailing the _**phases.**_
 
 [![What is Waterfall?](https://img.youtube.com/vi/LxEmGNgqYJA/0.jpg)](https://www.youtube.com/watch?v=LxEmGNgqYJA)
 [youtube-one]:https://www.youtube.com/watch?v=LxEmGNgqYJA
 [^citation-four]: Codeacademy. [“Software Development Methodology: What is Waterfall?”](https://www.youtube.com/watch?v=LxEmGNgqYJA) Online video clip. YouTube. YouTube, 22 Feb 2019. Web. 6 November 2020.
 
-*  [Waterfall vs. Agile][youtube-two][^citation-five] This video is meant to better _**identify when to use waterfall over agile**_.
+*  Lastly, it is important that you can utilize the  outlined information to make informed decisions with regards to applying waterfall. The following video,[Waterfall vs. Agile][youtube-two][^citation-five], focuses on better _**identifying when to use waterfall over agile.**_
 
 [![Waterfall vs. Agile](https://img.youtube.com/vi/rvTejAg_fbY/0.jpg)](https://www.youtube.com/watch?v=rvTejAg_fbY)
 [youtube-two]:https://www.youtube.com/watch?v=rvTejAg_fbY
@@ -79,13 +86,31 @@ In theory, waterfall development moves forward phase by phase, and never backwar
 
 ## Practice
 
-Below you will find a small number of questions; these are meant to simply test your knowledge of the material previously outlined. The best way to learn waterfall is to begin applying it within your day-to-day projects. [Answers Provided][wf-practice]
+Below you will find a small number of questions; these are meant to simply test your knowledge of the material previously outlined. The best way to learn waterfall is to begin applying it within your day-to-day projects.
 
-1. List  the seven main phases of the waterfall methodology:
+1. List the seven main phases of the waterfall methodology.
 2. Within the Waterfall methodology, are you able to revisit phases as time goes on?
+<details class="example">
+<summary>Answer</summary>
+  Yes, the waterfall methodology does allow teams to move between phases as necessary
+  throughout implementation and maintenance.
+</details>
 3. Which projects are generally best suited for Waterfall?
+<details class="example">
+<summary>Answer</summary>
+  Non-chaotic, short term projects with a clear end goal
+</details>
 4. Are potential issues identified and addressed as you go when using the waterfall methodology?
+<details class="example">
+<summary>Answer</summary>
+  No, if your goal is to identify issues as you build out a solution it is best you look at the
+  Agile methodology. Waterfall does not aide itself well to continuous development.
+</details>
 5. Given the nature of Waterfall, is documentation produced throughout the development of a project?
-
+<details class="example">
+<summary>Answer</summary>
+  Yes, one of the advantages of the Waterfall methodology is that documentation is
+  generated throughout the process.
+</details>
 
 [wf-practice]:/images/wf-practice.pdf

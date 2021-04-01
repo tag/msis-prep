@@ -30,7 +30,7 @@ nav:
       - 'Data Modeling and SQL' : 'data.md'
     - Enterprise Software:
       - 'IT Controls' : 'it_controls.md'
-      - 'ERP - ERP Intro' : 'ERP.md'
+      - 'ERP - Introduction' : 'ERP.md'
       - 'ERP - Business Cycles' : 'business_cycles.md'
     - 'Statistics' : 'statistics.md'
 
