@@ -32,6 +32,7 @@ nav:
       - 'IT Controls' : 'it_controls.md'
       - 'ERP - Introduction' : 'ERP.md'
       - 'ERP - Business Cycles' : 'business_cycles.md'
+    - 'Network Infrastructure' : 'network_model.md'
     - 'Statistics' : 'statistics.md'
 
 extra_css:

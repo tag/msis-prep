@@ -1,6 +1,8 @@
 ---
 authors:
-    - Jiaqi Xiao & Drake Lamp
+    - Jiaqi Xiao
+    - Drake Lamp
+    - Tom Gregory
 date: 2021-02-21
 ---
 ## During the MSIS program
@@ -11,15 +13,15 @@ During your time in the MSIS program you will be required to learn about the fun
 
 **You should have an understanding of the different network layers making up the OSI model** as well as an understanding of the different types of networks.
 
-1. Be able to _**explain the client-server model.**_
-2. Explain the layers within the  _**OSI model**_
-3. Understand the _**movement of data**_ between layers.
-4. Know the _**different network types.**_
+1. Be able to explain the client-server model.
+2. Explain the layers within the _**OSI model**_.
+3. Understand the movement of data between layers.
+4. Know the different network types.
 
 ### Key Terms
 
-*  **Data Communication**: Movement of computer information by means of electrical or optical transmission systems
-*  **Telecommunication**: Broader than data communication - it includes the transmission of data as well as voice, video, images and graphics and can represent the transmission of these elements over long distances.
+*  **Data Communication:** Movement of computer information by means of electrical or optical transmission systems
+*  **Telecommunication:** Broader than data communication - it includes the transmission of data as well as voice, video, images and graphics and can represent the transmission of these elements over long distances.
 *  **Client:** User device used to access data from the network
 *  **Server:** Device that stores and transmits data to client(s)
 *  **Protocol:** Set of rules which permit how data is transmitted between multiple devices within the same network
@@ -32,9 +34,9 @@ Below you will find a graphic which represents the Client-Server model. The Send
 
 Networks can be categorized by different scope; when categorizing networks by _geographic scope_, there are three types of networks:
 
-*  **Local Area Network (LAN)**: Network that link devices in close proximity to one another.
-*   **Backbone Network (BN):** Interconnects multiple networks and provides a pathway for them to exchange information.
-*  **Wide Area Network (WAN)**: Network covering large geographic areas which connects devices that are far apart.
+*  _**Local Area Network (LAN):**_ Network that link devices in close proximity to one another.
+*  _**Backbone Network (BN):**_ Interconnects multiple networks and provides a pathway for them to exchange information.
+*  _**Wide Area Network (WAN):**_ Network covering large geographic areas which connects devices that are far apart.
 
 To understand more about the details and differences between these networks, you can read the following articles:
 
@@ -48,17 +50,17 @@ To understand more about the details and differences between these networks, you
 
 When categorizing networks by _different user groups_, we get two types of networks:
 
-*  **Intranet:** Internet technology that is used to share information **within** an organizations.
-*  **Extranet:** Internet technology that is used to share information **between** organizations.
+*  _**Intranet:**_ Internet technology that is used to share information **within** an organizations.
+*  _**Extranet:**_ Internet technology that is used to share information **between** organizations.
 
 ### Network Layers
 
-As previously mentioned, **Protocol** is the language of transmission or the rule of device communication.
+As previously mentioned, _**protocol**_ is the language of transmission or the rule of device communication.
 
 Read the following article, [Protocol](https://techterms.com/definition/protocol), from "TechTerms" to learn more about network protocols.
 
-*  **Protocol Data Unit (PDU)**: Contains layer-specific information necessary for a message to be transmitted throughout a network.
-*  **Layers**: A framework outlining how network interactions occur between the multiple layers in a model.
+*  **Protocol Data Unit (PDU):** Contains layer-specific information necessary for a message to be transmitted throughout a network.
+*  **Layers:** A framework outlining how network interactions occur between the multiple layers in a model.
 
 ### Internet models
 
@@ -168,10 +170,10 @@ Understanding how DNS works can be difficult without an understanding of how IP 
 Below you will find a small number of questions; these are meant to simply test your knowledge of the material previously outlined.
 
 1.	How many layers are in the OSI model? Please name the layers.
-<details class="example">
-<summary>Answer</summary>
-  There are seven layers within the OSI model - the layers are as follows: Physical, Data link, Network, Transport, Session, Presentation, and  Application Layer.
-</details>
+
+!!! example "Answer"
+    There are seven layers within the OSI model - the layers are as follows: Physical, Data link, Network, Transport, Session, Presentation, and  Application Layer.
+
 2.	What is the purpose of a WAN (Wide Area Network)?
 <details class="example">
 <summary>Answer</summary>
